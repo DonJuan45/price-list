@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-30T01:33:46.903Z",
-  "date": "2026-03-30",
+  "generatedAt": "2026-03-31T01:33:24.005Z",
+  "date": "2026-03-31",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -2886,69 +2886,6 @@
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
-    },
-    {
-      "id": "opel-corsa",
-      "model": "Corsa",
-      "brand": "Opel",
-      "brandId": "opel",
-      "trims": [
-        {
-          "trim": "Edition",
-          "price": 1535000,
-          "priceFormatted": "1.535.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "1.2 100 HP Benzin",
-          "transmission": "Manuel",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Edition",
-          "price": 1749000,
-          "priceFormatted": "1.749.000 TL",
-          "stepFromBase": 214000,
-          "stepPercent": 13.941368078175895,
-          "engine": "1.2 100 HP Benzin",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "GS",
-          "price": 1824000,
-          "priceFormatted": "1.824.000 TL",
-          "stepFromBase": 289000,
-          "stepPercent": 18.827361563517915,
-          "engine": "1.2 100 HP Benzin",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Edition",
-          "price": 1999000,
-          "priceFormatted": "1.999.000 TL",
-          "stepFromBase": 464000,
-          "stepPercent": 30.22801302931596,
-          "engine": "Hybrid 1.2 110 (100HP)²",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "GS",
-          "price": 2119000,
-          "priceFormatted": "2.119.000 TL",
-          "stepFromBase": 584000,
-          "stepPercent": 38.045602605863195,
-          "engine": "Hybrid 1.2 145 (136HP)³",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        }
-      ],
-      "basePrice": 1535000,
-      "topPrice": 2119000,
-      "priceSpread": 584000,
-      "priceSpreadPercent": 38.05,
-      "trimCount": 5
     },
     {
       "id": "opel-corsa-e",
@@ -8082,16 +8019,6 @@
           "trimCount": 3
         },
         {
-          "brand": "Opel",
-          "brandId": "opel",
-          "model": "Corsa",
-          "basePrice": 1535000,
-          "topPrice": 2119000,
-          "basePriceFormatted": "₺1.535.000",
-          "topPriceFormatted": "₺2.119.000",
-          "trimCount": 5
-        },
-        {
           "brand": "Toyota",
           "brandId": "toyota",
           "model": "Proace Cargo",
@@ -9292,8 +9219,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8282493,
-      "avgTopPrice": 8541917
+      "avgBasePrice": 8335623,
+      "avgTopPrice": 8592491
     },
     {
       "segment": "SUV",
@@ -10322,9 +10249,9 @@
     }
   ],
   "summary": {
-    "totalModels": 228,
+    "totalModels": 227,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 324538,
-    "avgPriceSpreadPercent": 11.04
+    "avgPriceSpread": 323395,
+    "avgPriceSpreadPercent": 10.92
   }
 }
