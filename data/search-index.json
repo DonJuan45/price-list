@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T01:33:15.894Z",
-  "totalEntries": 529,
+  "generatedAt": "2026-04-10T01:34:26.597Z",
+  "totalEntries": 531,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1121,30 +1121,30 @@
       "searchText": "skoda skoda kodiaq rs 2 0 tsi 265 ps dsg 4x4 rs 2 0 tsi 265 ps 4x4 benzin dsg"
     },
     {
-      "id": "renault-yeni-clio-evolution-plus-evolution-plus-tce-115-edc",
+      "id": "renault-yeni-clio-evolution-plus-evolution-plus-tce-edc-115-hp",
       "brand": "Renault",
       "brandId": "renault",
       "model": "Yeni Clio",
       "trim": "evolution plus",
-      "engine": "evolution plus TCe 115 EDC",
+      "engine": "evolution plus TCe EDC 115 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
       "price": 1795000,
       "priceFormatted": "₺1.795.000,00",
-      "searchText": "renault yeni clio evolution plus evolution plus tce 115 edc benzin otomatik"
+      "searchText": "renault yeni clio evolution plus evolution plus tce edc 115 hp benzin otomatik"
     },
     {
-      "id": "renault-yeni-clio-esprit-alpine-esprit-alpine-tce-115-edc",
+      "id": "renault-yeni-clio-esprit-alpine-esprit-alpine-tce-edc-115-hp",
       "brand": "Renault",
       "brandId": "renault",
       "model": "Yeni Clio",
       "trim": "esprit alpine",
-      "engine": "esprit alpine TCe 115 EDC",
+      "engine": "esprit alpine TCe EDC 115 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
       "price": 1996000.01,
       "priceFormatted": "₺1.996.000,01",
-      "searchText": "renault yeni clio esprit alpine esprit alpine tce 115 edc benzin otomatik"
+      "searchText": "renault yeni clio esprit alpine esprit alpine tce edc 115 hp benzin otomatik"
     },
     {
       "id": "renault-r5-e-tech-elektri̇kli̇-techno-techno-ev40-120hp",
@@ -4228,6 +4228,32 @@
       "searchText": "bmw bmw m5 touring m 4 4l 585 197 hp plug in hybrid otomatik"
     },
     {
+      "id": "bmw-bmw-x5-m-competition-m-625-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "BMW X5 M Competition",
+      "trim": "M",
+      "engine": "625 HP",
+      "fuel": "Mild Hybrid",
+      "transmission": "Otomatik",
+      "price": 23650000,
+      "priceFormatted": "23.650.000 TL",
+      "searchText": "bmw bmw x5 m competition m 625 hp mild hybrid otomatik"
+    },
+    {
+      "id": "bmw-bmw-x6-m-competition-m-625-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "BMW X6 M Competition",
+      "trim": "M",
+      "engine": "625 HP",
+      "fuel": "Mild Hybrid",
+      "transmission": "Otomatik",
+      "price": 24000000,
+      "priceFormatted": "24.000.000 TL",
+      "searchText": "bmw bmw x6 m competition m 625 hp mild hybrid otomatik"
+    },
+    {
       "id": "bmw-bmw-x1-m35i-xdrive-m-2.0l-300-hp",
       "brand": "BMW",
       "brandId": "bmw",
@@ -5151,56 +5177,56 @@
       "searchText": "mercedes benz cla 350 4matic edition 1 amg 354 hp elektrik otomatik"
     },
     {
-      "id": "ford-yeni-puma-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-puma-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Puma",
+      "model": "Puma",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
       "price": 1842100,
       "priceFormatted": "1.842.100 TL",
-      "searchText": "ford yeni puma titanium 1 0l ecoboost 125ps hybrid otomatik"
+      "searchText": "ford puma titanium 1 0l ecoboost 125ps hybrid otomatik"
     },
     {
-      "id": "ford-yeni-puma-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-puma-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Puma",
+      "model": "Puma",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2029300,
-      "priceFormatted": "2.029.300 TL",
-      "searchText": "ford yeni puma titanium 1 0l ecoboost 125ps hybrid otomatik"
+      "price": 2069700,
+      "priceFormatted": "2.069.700 TL",
+      "searchText": "ford puma titanium 1 0l ecoboost 125ps hybrid otomatik"
     },
     {
-      "id": "ford-yeni-puma-st-line-x-1.0l-ecoboost-155ps",
+      "id": "ford-puma-st-line-x-1.0l-ecoboost-155ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Puma",
+      "model": "Puma",
       "trim": "ST-Line X",
       "engine": "1.0L EcoBoost 155PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
       "price": 2076700,
       "priceFormatted": "2.076.700 TL",
-      "searchText": "ford yeni puma st line x 1 0l ecoboost 155ps hybrid otomatik"
+      "searchText": "ford puma st line x 1 0l ecoboost 155ps hybrid otomatik"
     },
     {
-      "id": "ford-yeni-puma-st-line-x-1.0l-ecoboost-155ps",
+      "id": "ford-puma-st-line-x-1.0l-ecoboost-155ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Puma",
+      "model": "Puma",
       "trim": "ST-Line X",
       "engine": "1.0L EcoBoost 155PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2224600,
-      "priceFormatted": "2.224.600 TL",
-      "searchText": "ford yeni puma st line x 1 0l ecoboost 155ps hybrid otomatik"
+      "price": 2291000,
+      "priceFormatted": "2.291.000 TL",
+      "searchText": "ford puma st line x 1 0l ecoboost 155ps hybrid otomatik"
     },
     {
       "id": "ford-focus-yeni-titanium-stil-1.5l-ecoblue-115ps",
@@ -5211,8 +5237,8 @@
       "engine": "1.5L EcoBlue 115PS",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2590100,
-      "priceFormatted": "2.590.100 TL",
+      "price": 2641700,
+      "priceFormatted": "2.641.700 TL",
       "searchText": "ford focus yeni titanium stil 1 5l ecoblue 115ps dizel otomatik"
     },
     {
@@ -5224,8 +5250,8 @@
       "engine": "1.5L EcoBlue 115PS",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2722700,
-      "priceFormatted": "2.722.700 TL",
+      "price": 2776900,
+      "priceFormatted": "2.776.900 TL",
       "searchText": "ford focus yeni titanium x 1 5l ecoblue 115ps dizel otomatik"
     },
     {
@@ -5320,82 +5346,82 @@
       "searchText": "ford kuga st line x 1 5l ecoboost 186ps benzin otomatik"
     },
     {
-      "id": "ford-yeni-journey-courier-deluxe-1.0l-ecoboost-125ps",
+      "id": "ford-journey-courier-deluxe-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier",
+      "model": "Journey Courier",
       "trim": "Deluxe",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Manuel",
       "price": 2257400,
       "priceFormatted": "2.257.400 TL",
-      "searchText": "ford yeni journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
+      "searchText": "ford journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
     },
     {
-      "id": "ford-yeni-journey-courier-deluxe-1.0l-ecoboost-125ps",
+      "id": "ford-journey-courier-deluxe-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier",
+      "model": "Journey Courier",
       "trim": "Deluxe",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Manuel",
       "price": 2347300,
       "priceFormatted": "2.347.300 TL",
-      "searchText": "ford yeni journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
+      "searchText": "ford journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
     },
     {
-      "id": "ford-yeni-journey-courier-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-journey-courier-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier",
+      "model": "Journey Courier",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
       "price": 2837200,
       "priceFormatted": "2.837.200 TL",
-      "searchText": "ford yeni journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
+      "searchText": "ford journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
     },
     {
-      "id": "ford-yeni-journey-courier-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-journey-courier-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier",
+      "model": "Journey Courier",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
       "price": 2950200,
       "priceFormatted": "2.950.200 TL",
-      "searchText": "ford yeni journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
+      "searchText": "ford journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
     },
     {
-      "id": "ford-yeni-journey-courier-bev-titanium-100kw",
+      "id": "ford-journey-courier-bev-titanium-100kw",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier BEV",
+      "model": "Journey Courier BEV",
       "trim": "Titanium",
       "engine": "100KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
       "price": 2062900,
       "priceFormatted": "2.062.900 TL",
-      "searchText": "ford yeni journey courier bev titanium 100kw elektrik otomatik"
+      "searchText": "ford journey courier bev titanium 100kw elektrik otomatik"
     },
     {
-      "id": "ford-yeni-journey-courier-bev-titanium-100kw",
+      "id": "ford-journey-courier-bev-titanium-100kw",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Yeni Journey Courier BEV",
+      "model": "Journey Courier BEV",
       "trim": "Titanium",
       "engine": "100KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
       "price": 2145100,
       "priceFormatted": "2.145.100 TL",
-      "searchText": "ford yeni journey courier bev titanium 100kw elektrik otomatik"
+      "searchText": "ford journey courier bev titanium 100kw elektrik otomatik"
     },
     {
       "id": "ford-puma-gen-e-premium-123kw",
@@ -5406,8 +5432,8 @@
       "engine": "123KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1900100,
-      "priceFormatted": "1.900.100 TL",
+      "price": 1937900,
+      "priceFormatted": "1.937.900 TL",
       "searchText": "ford puma gen e premium 123kw elektrik otomatik"
     },
     {
@@ -5419,8 +5445,8 @@
       "engine": "123KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2055300,
-      "priceFormatted": "2.055.300 TL",
+      "price": 2116600,
+      "priceFormatted": "2.116.600 TL",
       "searchText": "ford puma gen e premium 123kw elektrik otomatik"
     },
     {

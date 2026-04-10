@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-09T01:33:15.911Z",
-  "totalVehicles": 529,
+  "generatedAt": "2026-04-10T01:34:26.614Z",
+  "totalVehicles": 531,
   "overallStats": {
-    "avgPrice": 4872557,
+    "avgPrice": 4944528,
     "minPrice": 544900,
     "maxPrice": 38034000,
-    "medianPrice": 3055999.99
+    "medianPrice": 3080000
   },
   "brandStats": [
     {
@@ -18,11 +18,11 @@
     },
     {
       "name": "BMW",
-      "vehicleCount": 61,
-      "avgPrice": 9473238,
+      "vehicleCount": 63,
+      "avgPrice": 9928849,
       "minPrice": 3724300,
       "maxPrice": 24075900,
-      "medianPrice": 7480700
+      "medianPrice": 7751700
     },
     {
       "name": "Volkswagen",
@@ -99,7 +99,7 @@
     {
       "name": "Ford",
       "vehicleCount": 21,
-      "avgPrice": 2504114,
+      "avgPrice": 2518957,
       "minPrice": 1842100,
       "maxPrice": 3305300,
       "medianPrice": 2379100
@@ -165,32 +165,32 @@
     {
       "fuel": "Benzin",
       "count": 217,
-      "percentage": 41,
+      "percentage": 40.9,
       "avgPrice": 5102919
     },
     {
       "fuel": "Elektrik",
       "count": 121,
-      "percentage": 22.9,
-      "avgPrice": 4771249
+      "percentage": 22.8,
+      "avgPrice": 4772068
     },
     {
       "fuel": "Hibrit",
       "count": 68,
-      "percentage": 12.9,
-      "avgPrice": 3173388
+      "percentage": 12.8,
+      "avgPrice": 3174958
     },
     {
       "fuel": "Dizel",
       "count": 66,
-      "percentage": 12.5,
-      "avgPrice": 4649783
+      "percentage": 12.4,
+      "avgPrice": 4651386
     },
     {
       "fuel": "Hafif Hibrit",
-      "count": 32,
-      "percentage": 6,
-      "avgPrice": 6940272
+      "count": 34,
+      "percentage": 6.4,
+      "avgPrice": 7933491
     },
     {
       "fuel": "Plug-in Hibrit",
@@ -214,14 +214,14 @@
   "transmissionStats": [
     {
       "transmission": "Otomatik",
-      "count": 363,
-      "percentage": 68.6,
-      "avgPrice": 5683177
+      "count": 365,
+      "percentage": 68.7,
+      "avgPrice": 5783439
     },
     {
       "transmission": "DSG",
       "count": 85,
-      "percentage": 16.1,
+      "percentage": 16,
       "avgPrice": 3854640
     },
     {
@@ -233,7 +233,7 @@
     {
       "transmission": "DCT",
       "count": 22,
-      "percentage": 4.2,
+      "percentage": 4.1,
       "avgPrice": 2552136
     },
     {
@@ -256,25 +256,25 @@
       "min": 1500000,
       "max": 3000000,
       "count": 236,
-      "percentage": 44.6
+      "percentage": 44.4
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
       "count": 122,
-      "percentage": 23.1
+      "percentage": 23
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
-      "count": 146,
-      "percentage": 27.6
+      "count": 148,
+      "percentage": 27.9
     }
   ],
   "otvStats": {
-    "avgOtvRate": 108.3,
+    "avgOtvRate": 109.2,
     "distribution": [
       {
         "rate": 1,
@@ -297,7 +297,7 @@
       {
         "rate": 55,
         "count": 18,
-        "percentage": 6.7,
+        "percentage": 6.6,
         "avgPrice": 4958283
       },
       {
@@ -309,25 +309,25 @@
       {
         "rate": 75,
         "count": 38,
-        "percentage": 14.1,
+        "percentage": 14,
         "avgPrice": 6186595
       },
       {
         "rate": 80,
         "count": 12,
-        "percentage": 4.5,
+        "percentage": 4.4,
         "avgPrice": 2149708
       },
       {
         "rate": 90,
         "count": 43,
-        "percentage": 16,
+        "percentage": 15.9,
         "avgPrice": 3101919
       },
       {
         "rate": 100,
         "count": 49,
-        "percentage": 18.2,
+        "percentage": 18.1,
         "avgPrice": 5685961
       },
       {
@@ -339,14 +339,14 @@
       {
         "rate": 170,
         "count": 54,
-        "percentage": 20.1,
+        "percentage": 19.9,
         "avgPrice": 8240463
       },
       {
         "rate": 220,
-        "count": 26,
-        "percentage": 9.7,
-        "avgPrice": 21636877
+        "count": 28,
+        "percentage": 10.3,
+        "avgPrice": 21793171
       }
     ],
     "byBrand": [
@@ -357,8 +357,8 @@
       },
       {
         "brand": "BMW",
-        "avgOtvRate": 116.5,
-        "count": 61
+        "avgOtvRate": 119.8,
+        "count": 63
       },
       {
         "brand": "Volkswagen",
@@ -398,13 +398,13 @@
         "year": "2026",
         "count": 275,
         "percentage": 65.5,
-        "avgPrice": 4772626
+        "avgPrice": 4773237
       },
       {
         "year": "2025",
         "count": 135,
         "percentage": 32.1,
-        "avgPrice": 4274405
+        "avgPrice": 4275469
       },
       {
         "year": "2023",
@@ -423,8 +423,8 @@
       },
       {
         "fuel": "Hafif Hibrit",
-        "avgConsumption": 7.1,
-        "count": 21
+        "avgConsumption": 7.6,
+        "count": 23
       },
       {
         "fuel": "Benzin",

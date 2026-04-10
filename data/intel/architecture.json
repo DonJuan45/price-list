@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-09T01:33:19.358Z",
-  "date": "2026-04-09",
+  "generatedAt": "2026-04-10T01:34:30.031Z",
+  "date": "2026-04-10",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1173,7 +1173,7 @@
           "priceFormatted": "₺1.795.000,00",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "evolution plus TCe 115 EDC",
+          "engine": "evolution plus TCe EDC 115 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin"
         },
@@ -1183,7 +1183,7 @@
           "priceFormatted": "₺1.996.000,01",
           "stepFromBase": 201000.01,
           "stepPercent": 11.197772144846798,
-          "engine": "esprit alpine TCe 115 EDC",
+          "engine": "esprit alpine TCe EDC 115 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin"
         }
@@ -5047,6 +5047,52 @@
       "trimCount": 1
     },
     {
+      "id": "bmw-bmw-x5-m-competition",
+      "model": "BMW X5 M Competition",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "trims": [
+        {
+          "trim": "M",
+          "price": 23650000,
+          "priceFormatted": "23.650.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "625 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hafif Hibrit"
+        }
+      ],
+      "basePrice": 23650000,
+      "topPrice": 23650000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
+      "id": "bmw-bmw-x6-m-competition",
+      "model": "BMW X6 M Competition",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "trims": [
+        {
+          "trim": "M",
+          "price": 24000000,
+          "priceFormatted": "24.000.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "625 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hafif Hibrit"
+        }
+      ],
+      "basePrice": 24000000,
+      "topPrice": 24000000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
       "id": "bmw-bmw-x1-m35i-xdrive",
       "model": "BMW X1 M35i xDrive",
       "brand": "BMW",
@@ -6394,8 +6440,8 @@
       "trimCount": 1
     },
     {
-      "id": "ford-yeni-puma",
-      "model": "Yeni Puma",
+      "id": "ford-puma",
+      "model": "Puma",
       "brand": "Ford",
       "brandId": "ford",
       "trims": [
@@ -6411,10 +6457,10 @@
         },
         {
           "trim": "Titanium",
-          "price": 2029300,
-          "priceFormatted": "2.029.300 TL",
-          "stepFromBase": 187200,
-          "stepPercent": 10.162314749470713,
+          "price": 2069700,
+          "priceFormatted": "2.069.700 TL",
+          "stepFromBase": 227600,
+          "stepPercent": 12.355463872753921,
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
@@ -6431,19 +6477,19 @@
         },
         {
           "trim": "ST-Line X",
-          "price": 2224600,
-          "priceFormatted": "2.224.600 TL",
-          "stepFromBase": 382500,
-          "stepPercent": 20.76434504098583,
+          "price": 2291000,
+          "priceFormatted": "2.291.000 TL",
+          "stepFromBase": 448900,
+          "stepPercent": 24.368926768362194,
           "engine": "1.0L EcoBoost 155PS",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
       "basePrice": 1842100,
-      "topPrice": 2224600,
-      "priceSpread": 382500,
-      "priceSpreadPercent": 20.76,
+      "topPrice": 2291000,
+      "priceSpread": 448900,
+      "priceSpreadPercent": 24.37,
       "trimCount": 4
     },
     {
@@ -6454,8 +6500,8 @@
       "trims": [
         {
           "trim": "Yeni Titanium Stil",
-          "price": 2590100,
-          "priceFormatted": "2.590.100 TL",
+          "price": 2641700,
+          "priceFormatted": "2.641.700 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.5L EcoBlue 115PS",
@@ -6464,18 +6510,18 @@
         },
         {
           "trim": "Yeni Titanium X",
-          "price": 2722700,
-          "priceFormatted": "2.722.700 TL",
-          "stepFromBase": 132600,
-          "stepPercent": 5.119493455851125,
+          "price": 2776900,
+          "priceFormatted": "2.776.900 TL",
+          "stepFromBase": 135200,
+          "stepPercent": 5.117916493167279,
           "engine": "1.5L EcoBlue 115PS",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         }
       ],
-      "basePrice": 2590100,
-      "topPrice": 2722700,
-      "priceSpread": 132600,
+      "basePrice": 2641700,
+      "topPrice": 2776900,
+      "priceSpread": 135200,
       "priceSpreadPercent": 5.12,
       "trimCount": 2
     },
@@ -6563,8 +6609,8 @@
       "trimCount": 7
     },
     {
-      "id": "ford-yeni-journey-courier",
-      "model": "Yeni Journey Courier",
+      "id": "ford-journey-courier",
+      "model": "Journey Courier",
       "brand": "Ford",
       "brandId": "ford",
       "trims": [
@@ -6616,8 +6662,8 @@
       "trimCount": 4
     },
     {
-      "id": "ford-yeni-journey-courier-bev",
-      "model": "Yeni Journey Courier BEV",
+      "id": "ford-journey-courier-bev",
+      "model": "Journey Courier BEV",
       "brand": "Ford",
       "brandId": "ford",
       "trims": [
@@ -6656,8 +6702,8 @@
       "trims": [
         {
           "trim": "Premium",
-          "price": 1900100,
-          "priceFormatted": "1.900.100 TL",
+          "price": 1937900,
+          "priceFormatted": "1.937.900 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "123KW",
@@ -6666,19 +6712,19 @@
         },
         {
           "trim": "Premium",
-          "price": 2055300,
-          "priceFormatted": "2.055.300 TL",
-          "stepFromBase": 155200,
-          "stepPercent": 8.167991158360087,
+          "price": 2116600,
+          "priceFormatted": "2.116.600 TL",
+          "stepFromBase": 178700,
+          "stepPercent": 9.221322049641364,
           "engine": "123KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 1900100,
-      "topPrice": 2055300,
-      "priceSpread": 155200,
-      "priceSpreadPercent": 8.17,
+      "basePrice": 1937900,
+      "topPrice": 2116600,
+      "priceSpread": 178700,
+      "priceSpreadPercent": 9.22,
       "trimCount": 2
     },
     {
@@ -8506,21 +8552,21 @@
         {
           "brand": "Ford",
           "brandId": "ford",
-          "model": "Yeni Puma",
+          "model": "Puma",
           "basePrice": 1842100,
-          "topPrice": 2224600,
+          "topPrice": 2291000,
           "basePriceFormatted": "₺1.842.100",
-          "topPriceFormatted": "₺2.224.600",
+          "topPriceFormatted": "₺2.291.000",
           "trimCount": 4
         },
         {
           "brand": "Ford",
           "brandId": "ford",
           "model": "PUMA GEN-E",
-          "basePrice": 1900100,
-          "topPrice": 2055300,
-          "basePriceFormatted": "₺1.900.100",
-          "topPriceFormatted": "₺2.055.300",
+          "basePrice": 1937900,
+          "topPrice": 2116600,
+          "basePriceFormatted": "₺1.937.900",
+          "topPriceFormatted": "₺2.116.600",
           "trimCount": 2
         },
         {
@@ -8646,7 +8692,7 @@
         {
           "brand": "Ford",
           "brandId": "ford",
-          "model": "Yeni Journey Courier",
+          "model": "Journey Courier",
           "basePrice": 2257400,
           "topPrice": 2950200,
           "basePriceFormatted": "₺2.257.400",
@@ -9574,8 +9620,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 7987392,
-      "avgTopPrice": 8268081
+      "avgBasePrice": 7987692,
+      "avgTopPrice": 8269094
     },
     {
       "segment": "SUV",
@@ -9989,10 +10035,30 @@
           "basePriceFormatted": "₺21.721.700",
           "topPriceFormatted": "₺21.721.700",
           "trimCount": 1
+        },
+        {
+          "brand": "BMW",
+          "brandId": "bmw",
+          "model": "BMW X5 M Competition",
+          "basePrice": 23650000,
+          "topPrice": 23650000,
+          "basePriceFormatted": "₺23.650.000",
+          "topPriceFormatted": "₺23.650.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "BMW",
+          "brandId": "bmw",
+          "model": "BMW X6 M Competition",
+          "basePrice": 24000000,
+          "topPrice": 24000000,
+          "basePriceFormatted": "₺24.000.000",
+          "topPriceFormatted": "₺24.000.000",
+          "trimCount": 1
         }
       ],
-      "avgBasePrice": 4324570,
-      "avgTopPrice": 4854634
+      "avgBasePrice": 5231567,
+      "avgTopPrice": 5736977
     },
     {
       "segment": "Sedan",
@@ -10108,16 +10174,6 @@
           "trimCount": 1
         },
         {
-          "brand": "Ford",
-          "brandId": "ford",
-          "model": "Focus",
-          "basePrice": 2590100,
-          "topPrice": 2722700,
-          "basePriceFormatted": "₺2.590.100",
-          "topPriceFormatted": "₺2.722.700",
-          "trimCount": 2
-        },
-        {
           "brand": "Škoda",
           "brandId": "skoda",
           "model": "Škoda Octavia",
@@ -10126,6 +10182,16 @@
           "basePriceFormatted": "₺2.639.900",
           "topPriceFormatted": "₺5.529.900",
           "trimCount": 7
+        },
+        {
+          "brand": "Ford",
+          "brandId": "ford",
+          "model": "Focus",
+          "basePrice": 2641700,
+          "topPrice": 2776900,
+          "basePriceFormatted": "₺2.641.700",
+          "topPriceFormatted": "₺2.776.900",
+          "trimCount": 2
         },
         {
           "brand": "Toyota",
@@ -10238,8 +10304,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5535297,
-      "avgTopPrice": 6222622
+      "avgBasePrice": 5537447,
+      "avgTopPrice": 6224880
     },
     {
       "segment": "Electric",
@@ -10277,7 +10343,7 @@
         {
           "brand": "Ford",
           "brandId": "ford",
-          "model": "Yeni Journey Courier BEV",
+          "model": "Journey Courier BEV",
           "basePrice": 2062900,
           "topPrice": 2145100,
           "basePriceFormatted": "₺2.062.900",
@@ -10664,9 +10730,9 @@
     }
   ],
   "summary": {
-    "totalModels": 232,
+    "totalModels": 234,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 377517,
-    "avgPriceSpreadPercent": 12.51
+    "avgPriceSpread": 374686,
+    "avgPriceSpreadPercent": 12.42
   }
 }
