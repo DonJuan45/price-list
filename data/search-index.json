@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-14T01:33:28.213Z",
-  "totalEntries": 526,
+  "generatedAt": "2026-04-15T01:33:40.992Z",
+  "totalEntries": 528,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -2928,6 +2928,19 @@
       "searchText": "opel mokka edition 1 2 136 hp benzin benzin manuel"
     },
     {
+      "id": "opel-mokka-gse-elektrik-207-kw",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Mokka",
+      "trim": "GSE",
+      "engine": "Elektrik 207 kW",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "price": 3500000,
+      "priceFormatted": "3.500.000 TL",
+      "searchText": "opel mokka gse elektrik 207 kw elektrik"
+    },
+    {
       "id": "opel-mokka-edition-1.2-130-hp-benzin",
       "brand": "Opel",
       "brandId": "opel",
@@ -3030,6 +3043,19 @@
       "price": 3460000,
       "priceFormatted": "3.460.000 TL",
       "searchText": "opel grandland elektrik edition 157 kw elektrik"
+    },
+    {
+      "id": "opel-grandland-elektrik-gs-239-kw-awd",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Grandland Elektrik",
+      "trim": "GS",
+      "engine": "239 kW AWD",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "price": 4222000,
+      "priceFormatted": "4.222.000 TL",
+      "searchText": "opel grandland elektrik gs 239 kw awd elektrik"
     },
     {
       "id": "citroën-elektrikli-ë-c3-plus-83-kw-elektrikli-motor",

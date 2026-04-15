@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-14T01:33:31.269Z",
-  "date": "2026-04-14",
-  "previousDate": "2026-04-13",
+  "generatedAt": "2026-04-15T01:33:43.754Z",
+  "date": "2026-04-15",
+  "previousDate": "2026-04-14",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-04-14",
-    "totalDays": 77
+    "end": "2026-04-15",
+    "totalDays": 78
   },
   "summary": {
-    "totalEvents": 1242,
-    "newVehicles": 273,
+    "totalEvents": 1244,
+    "newVehicles": 275,
     "removedVehicles": 288,
     "priceIncreases": 547,
     "priceDecreases": 134,
@@ -17,6 +17,36 @@
     "avgPriceChangePercent": 1.69
   },
   "events": [
+    {
+      "id": "opel-mokka-gse-elektrik-207-kw-new-2026-04-15",
+      "type": "new",
+      "vehicleId": "opel-mokka-gse-elektrik-207-kw",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Mokka",
+      "trim": "GSE",
+      "engine": "Elektrik 207 kW",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "newPrice": 3500000,
+      "newPriceFormatted": "3.500.000 TL",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "opel-grandland-elektrik-gs-239-kw-awd-new-2026-04-15",
+      "type": "new",
+      "vehicleId": "opel-grandland-elektrik-gs-239-kw-awd",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Grandland Elektrik",
+      "trim": "GS",
+      "engine": "239 kW AWD",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "newPrice": 4222000,
+      "newPriceFormatted": "4.222.000 TL",
+      "date": "2026-04-15"
+    },
     {
       "id": "renault-yeni-duster-evolution-evolution-eco-g-120-hp-price_increase-2026-04-14",
       "type": "price_increase",
