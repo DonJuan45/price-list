@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T01:34:31.478Z",
-  "totalEntries": 532,
+  "generatedAt": "2026-04-30T01:34:33.554Z",
+  "totalEntries": 534,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -5983,6 +5983,19 @@
       "searchText": "nissan townstar combi ev platinum elektrik otomatik"
     },
     {
+      "id": "honda-jazz-hybrid-crosstar-1.5l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "Jazz Hybrid",
+      "trim": "Crosstar",
+      "engine": "1.5L Hibrit Otomatik",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 2525000,
+      "priceFormatted": "2.525.000 TL",
+      "searchText": "honda jazz hybrid crosstar 1 5l hibrit otomatik hybrid otomatik"
+    },
+    {
       "id": "honda-hr-v-hybrid-elegance-1.5l-hibrit-otomatik",
       "brand": "Honda",
       "brandId": "honda",
@@ -6007,6 +6020,19 @@
       "price": 2730000,
       "priceFormatted": "2.730.000 TL",
       "searchText": "honda hr v hybrid advance 1 5l hibrit otomatik hybrid otomatik"
+    },
+    {
+      "id": "honda-prelude-hybrid-advance-2.0l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "Prelude Hybrid",
+      "trim": "Advance",
+      "engine": "2.0L Hibrit Otomatik",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 5500000,
+      "priceFormatted": "5.500.000 TL",
+      "searchText": "honda prelude hybrid advance 2 0l hibrit otomatik hybrid otomatik"
     },
     {
       "id": "seat-yeni̇-style-plus-1.0-tsi-116-ps",

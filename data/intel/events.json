@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-29T01:34:37.370Z",
-  "date": "2026-04-29",
-  "previousDate": "2026-04-28",
+  "generatedAt": "2026-04-30T01:34:39.134Z",
+  "date": "2026-04-30",
+  "previousDate": "2026-04-29",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-04-29",
-    "totalDays": 92
+    "end": "2026-04-30",
+    "totalDays": 93
   },
   "summary": {
-    "totalEvents": 1288,
-    "newVehicles": 278,
+    "totalEvents": 1290,
+    "newVehicles": 280,
     "removedVehicles": 288,
     "priceIncreases": 586,
     "priceDecreases": 136,
@@ -17,6 +17,36 @@
     "avgPriceChangePercent": 1.64
   },
   "events": [
+    {
+      "id": "honda-jazz-hybrid-crosstar-1.5l-hibrit-otomatik-new-2026-04-30",
+      "type": "new",
+      "vehicleId": "honda-jazz-hybrid-crosstar-1.5l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "Jazz Hybrid",
+      "trim": "Crosstar",
+      "engine": "1.5L Hibrit Otomatik",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "newPrice": 2525000,
+      "newPriceFormatted": "2.525.000 TL",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "honda-prelude-hybrid-advance-2.0l-hibrit-otomatik-new-2026-04-30",
+      "type": "new",
+      "vehicleId": "honda-prelude-hybrid-advance-2.0l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "Prelude Hybrid",
+      "trim": "Advance",
+      "engine": "2.0L Hibrit Otomatik",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "newPrice": 5500000,
+      "newPriceFormatted": "5.500.000 TL",
+      "date": "2026-04-30"
+    },
     {
       "id": "nissan-qashqai-designpack-1.3-dig-t-mild-hybrid-158ps-price_increase-2026-04-28",
       "type": "price_increase",

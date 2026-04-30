@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T01:34:44.675Z",
-  "date": "2026-04-29",
+  "generatedAt": "2026-04-30T01:34:46.306Z",
+  "date": "2026-04-30",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -7268,6 +7268,29 @@
       "trimCount": 2
     },
     {
+      "id": "honda-jazz-hybrid",
+      "model": "Jazz Hybrid",
+      "brand": "Honda",
+      "brandId": "honda",
+      "trims": [
+        {
+          "trim": "Crosstar",
+          "price": 2525000,
+          "priceFormatted": "2.525.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.5L Hibrit Otomatik",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        }
+      ],
+      "basePrice": 2525000,
+      "topPrice": 2525000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
       "id": "honda-hr-v-hybrid",
       "model": "HR-V Hybrid",
       "brand": "Honda",
@@ -7299,6 +7322,29 @@
       "priceSpread": 341000,
       "priceSpreadPercent": 14.27,
       "trimCount": 2
+    },
+    {
+      "id": "honda-prelude-hybrid",
+      "model": "Prelude Hybrid",
+      "brand": "Honda",
+      "brandId": "honda",
+      "trims": [
+        {
+          "trim": "Advance",
+          "price": 5500000,
+          "priceFormatted": "5.500.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "2.0L Hibrit Otomatik",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        }
+      ],
+      "basePrice": 5500000,
+      "topPrice": 5500000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
     },
     {
       "id": "seat-yeni̇",
@@ -9046,6 +9092,16 @@
           "trimCount": 1
         },
         {
+          "brand": "Honda",
+          "brandId": "honda",
+          "model": "Prelude Hybrid",
+          "basePrice": 5500000,
+          "topPrice": 5500000,
+          "basePriceFormatted": "₺5.500.000",
+          "topPriceFormatted": "₺5.500.000",
+          "trimCount": 1
+        },
+        {
           "brand": "Mercedes-Benz",
           "brandId": "mercedes",
           "model": "EQE 280",
@@ -9656,8 +9712,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 7986690,
-      "avgTopPrice": 8274172
+      "avgBasePrice": 7967110,
+      "avgTopPrice": 8252328
     },
     {
       "segment": "SUV",
@@ -10664,6 +10720,16 @@
           "trimCount": 3
         },
         {
+          "brand": "Honda",
+          "brandId": "honda",
+          "model": "Jazz Hybrid",
+          "basePrice": 2525000,
+          "topPrice": 2525000,
+          "basePriceFormatted": "₺2.525.000",
+          "topPriceFormatted": "₺2.525.000",
+          "trimCount": 1
+        },
+        {
           "brand": "SEAT",
           "brandId": "seat",
           "model": "Leon",
@@ -10694,8 +10760,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 2475172,
-      "avgTopPrice": 2723234
+      "avgBasePrice": 2478103,
+      "avgTopPrice": 2711574
     },
     {
       "segment": "MPV",
@@ -10786,9 +10852,9 @@
     }
   ],
   "summary": {
-    "totalModels": 236,
-    "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 377744,
-    "avgPriceSpreadPercent": 12.53
+    "totalModels": 238,
+    "avgTrimsPerModel": 2.2,
+    "avgPriceSpread": 374569,
+    "avgPriceSpreadPercent": 12.43
   }
 }
