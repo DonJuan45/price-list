@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-30T01:34:33.538Z",
-  "totalVehicles": 534,
+  "generatedAt": "2026-05-01T01:34:09.688Z",
+  "totalVehicles": 509,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2521,7 +2521,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -2529,14 +2529,14 @@
           "engine": "evolution plus TCe EDC 115 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺1.795.000,00",
-          "priceNumeric": 1795000,
+          "priceRaw": "₺1.830.000,00",
+          "priceNumeric": 1830000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 75,
-          "netPrice": 827980,
-          "otvAmount": 620985,
-          "kdvAmount": 289793,
+          "netPrice": 844646.67,
+          "otvAmount": 633485,
+          "kdvAmount": 295626.33,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2548,7 +2548,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1795000,
+          "otvIncentivePrice": 1830000,
           "powerHP": 115,
           "engineType": "TCe"
         },
@@ -2558,14 +2558,14 @@
           "engine": "esprit alpine TCe EDC 115 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺1.996.000,01",
-          "priceNumeric": 1996000.01,
+          "priceRaw": "₺2.035.000,00",
+          "priceNumeric": 2035000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 80,
-          "netPrice": 897480.56,
-          "otvAmount": 717984.45,
-          "kdvAmount": 323093,
+          "netPrice": 915536.11,
+          "otvAmount": 732428.89,
+          "kdvAmount": 329593,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2577,7 +2577,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1996000.01,
+          "otvIncentivePrice": 2035000,
           "powerHP": 115,
           "engineType": "TCe"
         },
@@ -2749,14 +2749,14 @@
           "engine": "evolution 1.0 TCe X-Tronic 90 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺1.694.999,99",
-          "priceNumeric": 1694999.99,
+          "priceRaw": "₺1.735.000,00",
+          "priceNumeric": 1735000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 75,
-          "netPrice": 780360.95,
-          "otvAmount": 585270.71,
-          "kdvAmount": 273126.33,
+          "netPrice": 799408.57,
+          "otvAmount": 599556.43,
+          "kdvAmount": 279793,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2768,7 +2768,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1694999.99,
+          "otvIncentivePrice": 1735000,
           "powerHP": 90,
           "engineType": "TCe"
         },
@@ -2836,14 +2836,14 @@
           "engine": "evolution Eco-G 120 hp",
           "transmission": "Manuel",
           "fuel": "LPG",
-          "priceRaw": "₺1.788.000,00",
-          "priceNumeric": 1788000,
+          "priceRaw": "₺1.824.999,99",
+          "priceNumeric": 1824999.99,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 75,
-          "netPrice": 824646.67,
-          "otvAmount": 618485,
-          "kdvAmount": 288626.33,
+          "netPrice": 842265.71,
+          "otvAmount": 631699.28,
+          "kdvAmount": 294793,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2851,7 +2851,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1788000,
+          "otvIncentivePrice": 1824999.99,
           "powerHP": 120
         },
         {
@@ -2860,14 +2860,14 @@
           "engine": "evolution Turbo Tce EDC 145 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺1.967.000,01",
-          "priceNumeric": 1967000.01,
+          "priceRaw": "₺2.010.000,00",
+          "priceNumeric": 2010000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 80,
-          "netPrice": 882868.06,
-          "otvAmount": 706294.45,
-          "kdvAmount": 317832.5,
+          "netPrice": 902775.46,
+          "otvAmount": 722220.37,
+          "kdvAmount": 324999.17,
           "optionalEquipment": [
             {
               "name": "Yedek Lastik",
@@ -2887,7 +2887,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1967000.01,
+          "otvIncentivePrice": 2010000,
           "powerHP": 145,
           "engineType": "TCe"
         },
@@ -2897,14 +2897,14 @@
           "engine": "evolution hybrid 4x4 LPG 150 hp",
           "transmission": "Otomatik",
           "fuel": "LPG",
-          "priceRaw": "₺2.533.000,00",
-          "priceNumeric": 2533000,
+          "priceRaw": "₺2.714.999,99",
+          "priceNumeric": 2714999.99,
           "brand": "Renault",
-          "modelYear": "2025",
+          "modelYear": "2026",
           "otvRate": 90,
-          "netPrice": 1084718.42,
-          "otvAmount": 976246.58,
-          "kdvAmount": 412193,
+          "netPrice": 1164542.98,
+          "otvAmount": 1048088.68,
+          "kdvAmount": 442526.33,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2912,7 +2912,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2533000,
+          "otvIncentivePrice": 2714999.99,
           "powerHP": 150
         },
         {
@@ -2921,14 +2921,14 @@
           "engine": "techno Turbo Tce EDC 145 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺2.038.000,00",
-          "priceNumeric": 2038000,
+          "priceRaw": "₺2.080.000,00",
+          "priceNumeric": 2080000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 80,
-          "netPrice": 915738.43,
-          "otvAmount": 732590.74,
-          "kdvAmount": 329665.83,
+          "netPrice": 935182.87,
+          "otvAmount": 748146.3,
+          "kdvAmount": 336665.83,
           "optionalEquipment": [
             {
               "name": "Ön ve yan park sensörü",
@@ -2960,7 +2960,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2038000,
+          "otvIncentivePrice": 2080000,
           "powerHP": 145,
           "engineType": "TCe"
         },
@@ -2970,14 +2970,14 @@
           "engine": "techno Full hybrid E-Tech 160 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺2.503.000,00",
-          "priceNumeric": 2503000,
+          "priceRaw": "₺2.529.999,99",
+          "priceNumeric": 2529999.99,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 70,
-          "netPrice": 1196462.5,
-          "otvAmount": 837523.75,
-          "kdvAmount": 406797.25,
+          "netPrice": 1209697.79,
+          "otvAmount": 846788.45,
+          "kdvAmount": 411297.25,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -2985,7 +2985,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2503000,
+          "otvIncentivePrice": 2530000,
           "powerHP": 160,
           "engineType": "E-TECH",
           "isHybrid": true
@@ -2996,14 +2996,14 @@
           "engine": "techno hybrid 4x4 LPG 150 hp",
           "transmission": "Otomatik",
           "fuel": "LPG",
-          "priceRaw": "₺2.563.000,01",
-          "priceNumeric": 2563000.01,
+          "priceRaw": "₺2.750.000,00",
+          "priceNumeric": 2750000,
           "brand": "Renault",
-          "modelYear": "2025",
+          "modelYear": "2026",
           "otvRate": 90,
-          "netPrice": 1097876.32,
-          "otvAmount": 988088.69,
-          "kdvAmount": 417193,
+          "netPrice": 1179893.86,
+          "otvAmount": 1061904.47,
+          "kdvAmount": 448359.67,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -3011,7 +3011,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2563000.01,
+          "otvIncentivePrice": 2750000,
           "powerHP": 150
         },
         {
@@ -3138,14 +3138,14 @@
           "engine": "Touch 1.3 TCe 140 bg",
           "transmission": "Manuel",
           "fuel": "Benzin",
-          "priceRaw": "₺1.766.000,00",
-          "priceNumeric": 1766000,
+          "priceRaw": "₺1.791.000,00",
+          "priceNumeric": 1791000,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 75,
-          "netPrice": 812950,
-          "otvAmount": 609712.5,
-          "kdvAmount": 284532.5,
+          "netPrice": 824854.76,
+          "otvAmount": 618641.07,
+          "kdvAmount": 288699.17,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -3153,7 +3153,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1766000,
+          "otvIncentivePrice": 1791000,
           "powerHP": 140,
           "engineType": "TCe"
         },
@@ -3163,14 +3163,14 @@
           "engine": "Touch 1.3 TCe EDC 140 bg",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺2.107.999,99",
-          "priceNumeric": 2107999.99,
+          "priceRaw": "₺2.160.000,01",
+          "priceNumeric": 2160000.01,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 80,
-          "netPrice": 948145.83,
-          "otvAmount": 758516.66,
-          "kdvAmount": 341332.5,
+          "netPrice": 972219.91,
+          "otvAmount": 777775.93,
+          "kdvAmount": 349999.17,
           "optionalEquipment": [
             {
               "name": "Metalik Renk",
@@ -3182,7 +3182,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2107999.99,
+          "otvIncentivePrice": 2160000.01,
           "powerHP": 140,
           "engineType": "TCe"
         },
@@ -3192,14 +3192,14 @@
           "engine": "Icon 1.3 TCe EDC 140 bg",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "₺2.265.999,99",
-          "priceNumeric": 2265999.99,
+          "priceRaw": "₺2.325.000,01",
+          "priceNumeric": 2325000.01,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 80,
-          "netPrice": 1021293.98,
-          "otvAmount": 817035.18,
-          "kdvAmount": 367665.83,
+          "netPrice": 1048608.8,
+          "otvAmount": 838887.04,
+          "kdvAmount": 377499.17,
           "optionalEquipment": [
             {
               "name": "Elektrikli Açılır Panoramik Cam Tavan",
@@ -3231,7 +3231,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2265999.99,
+          "otvIncentivePrice": 2325000.01,
           "powerHP": 140,
           "engineType": "TCe"
         },
@@ -3241,14 +3241,14 @@
           "engine": "Icon 1.5 Blue dCi EDC 115 bg",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "₺2.670.999,99",
-          "priceNumeric": 2670999.99,
+          "priceRaw": "₺2.699.000,01",
+          "priceNumeric": 2699000.01,
           "brand": "Renault",
           "modelYear": "2026",
           "otvRate": 90,
-          "netPrice": 1144120.61,
-          "otvAmount": 1029708.55,
-          "kdvAmount": 434765.83,
+          "netPrice": 1156401.32,
+          "otvAmount": 1040761.19,
+          "kdvAmount": 439432.5,
           "optionalEquipment": [
             {
               "name": "Yedek Lastik",
@@ -3276,7 +3276,7 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2671000,
+          "otvIncentivePrice": 2699050,
           "powerHP": 115,
           "engineType": "dCi"
         },
@@ -3454,7 +3454,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4047,7 +4047,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "i20",
@@ -4480,7 +4480,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "E-208",
@@ -4882,7 +4882,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "ATTO 3",
@@ -5004,7 +5004,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5313,7 +5313,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5813,7 +5813,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6837,7 +6837,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "A 200",
@@ -7896,7 +7896,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Puma",
@@ -8614,7 +8614,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8929,7 +8929,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9405,7 +9405,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9468,7 +9468,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9476,8 +9476,8 @@
           "engine": "1.0 TSI 116 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Benzin",
-          "priceRaw": "1.785.150 TL",
-          "priceNumeric": 1785150,
+          "priceRaw": "1.821.000 TL",
+          "priceNumeric": 1821000,
           "brand": "SEAT",
           "powerHP": 116,
           "engineDisplacement": "1.0L",
@@ -9504,8 +9504,8 @@
           "engine": "1.0 TSI 116 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Benzin",
-          "priceRaw": "1.876.150 TL",
-          "priceNumeric": 1876150,
+          "priceRaw": "1.968.000 TL",
+          "priceNumeric": 1968000,
           "brand": "SEAT",
           "powerHP": 116,
           "engineDisplacement": "1.0L",
@@ -9548,8 +9548,8 @@
           "engine": "1.5 eTSI 116 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Hybrid",
-          "priceRaw": "2.199.150 TL",
-          "priceNumeric": 2199150,
+          "priceRaw": "2.244.000 TL",
+          "priceNumeric": 2244000,
           "brand": "SEAT",
           "powerHP": 116,
           "engineDisplacement": "1.5L",
@@ -9562,8 +9562,8 @@
           "engine": "1.5 EcoTSI ACT 150 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Benzin",
-          "priceRaw": "2.379.150 TL",
-          "priceNumeric": 2379150,
+          "priceRaw": "2.561.000 TL",
+          "priceNumeric": 2561000,
           "brand": "SEAT",
           "powerHP": 150,
           "engineDisplacement": "1.5L",
@@ -9588,54 +9588,8 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
-        {
-          "model": "Stonic",
-          "trim": "Cool",
-          "engine": "100 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "1.999.000 TL",
-          "priceNumeric": 1999000,
-          "brand": "Kia",
-          "priceListNumeric": 921087.5,
-          "priceCampaignNumeric": 1999000,
-          "powerHP": 100,
-          "engineDisplacement": "1.0L",
-          "transmissionType": "DCT",
-          "modelYear": 2025
-        },
-        {
-          "model": "Picanto",
-          "trim": "Feel",
-          "engine": "67 PS",
-          "transmission": "Manuel",
-          "fuel": "Benzin",
-          "priceRaw": "1.315.000 TL",
-          "priceNumeric": 1315000,
-          "brand": "Kia",
-          "priceListNumeric": 639975,
-          "priceCampaignNumeric": 1315000,
-          "powerHP": 67,
-          "engineDisplacement": "1.0L",
-          "modelYear": 2026
-        },
-        {
-          "model": "Picanto",
-          "trim": "Cool",
-          "engine": "67 PS",
-          "transmission": "Manuel",
-          "fuel": "Benzin",
-          "priceRaw": "1.435.000 TL",
-          "priceNumeric": 1435000,
-          "brand": "Kia",
-          "priceListNumeric": 649778.92,
-          "priceCampaignNumeric": 1335000,
-          "powerHP": 67,
-          "engineDisplacement": "1.0L",
-          "modelYear": 2026
-        },
         {
           "model": "CEE",
           "trim": "Elegance",
@@ -9701,384 +9655,12 @@
           "engineDisplacement": "1.6L",
           "transmissionType": "DCT",
           "modelYear": 2026
-        },
-        {
-          "model": "Sportage",
-          "trim": "Cool",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "2.370.000 TL",
-          "priceNumeric": 2370000,
-          "brand": "Kia",
-          "priceListNumeric": 1091660.19,
-          "priceCampaignNumeric": 2370000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2025
-        },
-        {
-          "model": "Sportage",
-          "trim": "Live",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "2.049.000 TL",
-          "priceNumeric": 2049000,
-          "brand": "Kia",
-          "priceListNumeric": 943049.07,
-          "priceCampaignNumeric": 2049000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2026
-        },
-        {
-          "model": "Sportage",
-          "trim": "Prestige",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "3.085.000 TL",
-          "priceNumeric": 3085000,
-          "brand": "Kia",
-          "priceListNumeric": 1347800.88,
-          "priceCampaignNumeric": 3085000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2025,
-          "otvRate": 1
-        },
-        {
-          "model": "Sportage",
-          "trim": "Cool",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "2.550.000 TL",
-          "priceNumeric": 2550000,
-          "brand": "Kia",
-          "priceListNumeric": 1113151.75,
-          "priceCampaignNumeric": 2550000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2026,
-          "otvRate": 1
-        },
-        {
-          "model": "Sportage",
-          "trim": "GT-Line",
-          "engine": "180 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "3.325.000 TL",
-          "priceNumeric": 3325000,
-          "brand": "Kia",
-          "priceListNumeric": 1453064.04,
-          "priceCampaignNumeric": 3325000,
-          "powerHP": 180,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2025,
-          "otvRate": 1
-        },
-        {
-          "model": "Sportage",
-          "trim": "Elegance",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "2.895.000 TL",
-          "priceNumeric": 2895000,
-          "brand": "Kia",
-          "priceListNumeric": 1264467.54,
-          "priceCampaignNumeric": 2895000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2026,
-          "otvRate": 1
-        },
-        {
-          "model": "Sportage",
-          "trim": "Prestige",
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "3.160.000 TL",
-          "priceNumeric": 3160000,
-          "brand": "Kia",
-          "priceListNumeric": 1380695.61,
-          "priceCampaignNumeric": 3160000,
-          "powerHP": 150,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2026,
-          "otvRate": 1
-        },
-        {
-          "model": "Sportage",
-          "trim": "GT-Line",
-          "engine": "180 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "3.400.000 TL",
-          "priceNumeric": 3400000,
-          "brand": "Kia",
-          "priceListNumeric": 1485958.77,
-          "priceCampaignNumeric": 3400000,
-          "powerHP": 180,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "DCT",
-          "modelYear": 2026,
-          "otvRate": 1
-        },
-        {
-          "model": "Sorento",
-          "trim": "Prestige Smart",
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hybrid",
-          "priceRaw": "5.990.000 TL",
-          "priceNumeric": 5990000,
-          "brand": "Kia",
-          "priceListNumeric": 2490827.5,
-          "priceCampaignNumeric": 5990000,
-          "powerHP": 239,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "otvRate": 2,
-          "isHybrid": true
-        },
-        {
-          "model": "Sorento",
-          "trim": "Prestige Smart",
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hybrid",
-          "priceRaw": "6.190.000 TL",
-          "priceNumeric": 6190000,
-          "brand": "Kia",
-          "priceListNumeric": 2574160.83,
-          "priceCampaignNumeric": 6190000,
-          "powerHP": 239,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 2,
-          "isHybrid": true
-        },
-        {
-          "model": "Sorento",
-          "trim": "Prestige Smart",
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hybrid",
-          "priceRaw": "6.130.000 TL",
-          "priceNumeric": 6130000,
-          "brand": "Kia",
-          "priceListNumeric": 2549160.83,
-          "priceCampaignNumeric": 6130000,
-          "powerHP": 239,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "otvRate": 2,
-          "isHybrid": true
-        },
-        {
-          "model": "Sorento",
-          "trim": "Prestige Smart",
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hybrid",
-          "priceRaw": "6.330.000 TL",
-          "priceNumeric": 6330000,
-          "brand": "Kia",
-          "priceListNumeric": 2632494.17,
-          "priceCampaignNumeric": 6330000,
-          "powerHP": 239,
-          "engineDisplacement": "1.6L",
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 2,
-          "isHybrid": true
-        },
-        {
-          "model": "EV3",
-          "trim": "Elegance Standard Range",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.095.000 TL",
-          "priceNumeric": 2095000,
-          "brand": "Kia",
-          "priceListNumeric": 1388481.91,
-          "priceCampaignNumeric": 2095000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "isElectric": true
-        },
-        {
-          "model": "EV3",
-          "trim": "Elegance Long Range",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.385.000 TL",
-          "priceNumeric": 2385000,
-          "brand": "Kia",
-          "priceListNumeric": 1581815.25,
-          "priceCampaignNumeric": 2385000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "isElectric": true
-        },
-        {
-          "model": "EV3",
-          "trim": "Prestige Standard Range",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.405.000 TL",
-          "priceNumeric": 2405000,
-          "brand": "Kia",
-          "priceListNumeric": 1595148.58,
-          "priceCampaignNumeric": 2405000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "isElectric": true
-        },
-        {
-          "model": "EV3",
-          "trim": "Prestige Standard Range",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.345.000 TL",
-          "priceNumeric": 2345000,
-          "brand": "Kia",
-          "priceListNumeric": 1555148.58,
-          "priceCampaignNumeric": 2345000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "isElectric": true
-        },
-        {
-          "model": "EV3",
-          "trim": "GT-Line Long Range",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "3.760.000 TL",
-          "priceNumeric": 3760000,
-          "brand": "Kia",
-          "priceListNumeric": 2014904.77,
-          "priceCampaignNumeric": 3760000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 1,
-          "isElectric": true
-        },
-        {
-          "model": "EV6 PE",
-          "trim": "Elegance Standard Range",
-          "engine": "125 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "3.760.000 TL",
-          "priceNumeric": 3760000,
-          "brand": "Kia",
-          "priceListNumeric": 2014904.77,
-          "priceCampaignNumeric": 3760000,
-          "powerKW": 125,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 1,
-          "isElectric": true
-        },
-        {
-          "model": "EV9",
-          "trim": "Prestige",
-          "engine": "149 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "6.360.000 TL",
-          "priceNumeric": 6360000,
-          "brand": "Kia",
-          "priceListNumeric": 3412754.23,
-          "priceCampaignNumeric": 6360000,
-          "powerKW": 149,
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "otvRate": 1,
-          "isElectric": true
-        },
-        {
-          "model": "EV9",
-          "trim": "Prestige",
-          "engine": "149 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "6.540.000 TL",
-          "priceNumeric": 6540000,
-          "brand": "Kia",
-          "priceListNumeric": 3509528.42,
-          "priceCampaignNumeric": 6540000,
-          "powerKW": 149,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 1,
-          "isElectric": true
-        },
-        {
-          "model": "EV9",
-          "trim": "GT-Line",
-          "engine": "283 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "7.630.000 TL",
-          "priceNumeric": 7630000,
-          "brand": "Kia",
-          "priceListNumeric": 3615502.74,
-          "priceCampaignNumeric": 7630000,
-          "powerKW": 283,
-          "transmissionType": "AT",
-          "modelYear": 2025,
-          "otvRate": 2,
-          "isElectric": true
-        },
-        {
-          "model": "EV9",
-          "trim": "GT-Line",
-          "engine": "283 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "7.870.000 TL",
-          "priceNumeric": 7870000,
-          "brand": "Kia",
-          "priceListNumeric": 3729788.45,
-          "priceCampaignNumeric": 7870000,
-          "powerKW": 283,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "otvRate": 2,
-          "isElectric": true
         }
       ]
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "EX30",
@@ -10316,7 +9898,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-04-30",
+      "date": "2026-05-01",
       "vehicles": [
         {
           "model": "Egea Sedan",

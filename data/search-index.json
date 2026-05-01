@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-30T01:34:33.554Z",
-  "totalEntries": 534,
+  "generatedAt": "2026-05-01T01:34:09.702Z",
+  "totalEntries": 509,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1129,8 +1129,8 @@
       "engine": "evolution plus TCe EDC 115 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1795000,
-      "priceFormatted": "₺1.795.000,00",
+      "price": 1830000,
+      "priceFormatted": "₺1.830.000,00",
       "searchText": "renault yeni clio evolution plus evolution plus tce edc 115 hp benzin otomatik"
     },
     {
@@ -1142,8 +1142,8 @@
       "engine": "esprit alpine TCe EDC 115 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1996000.01,
-      "priceFormatted": "₺1.996.000,01",
+      "price": 2035000,
+      "priceFormatted": "₺2.035.000,00",
       "searchText": "renault yeni clio esprit alpine esprit alpine tce edc 115 hp benzin otomatik"
     },
     {
@@ -1194,8 +1194,8 @@
       "engine": "evolution 1.0 TCe X-Tronic 90 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1694999.99,
-      "priceFormatted": "₺1.694.999,99",
+      "price": 1735000,
+      "priceFormatted": "₺1.735.000,00",
       "searchText": "renault clio evolution evolution 1 0 tce x tronic 90 hp benzin otomatik"
     },
     {
@@ -1233,8 +1233,8 @@
       "engine": "evolution Eco-G 120 hp",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1788000,
-      "priceFormatted": "₺1.788.000,00",
+      "price": 1824999.99,
+      "priceFormatted": "₺1.824.999,99",
       "searchText": "renault yeni duster evolution evolution eco g 120 hp lpg manuel"
     },
     {
@@ -1246,8 +1246,8 @@
       "engine": "evolution Turbo Tce EDC 145 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1967000.01,
-      "priceFormatted": "₺1.967.000,01",
+      "price": 2010000,
+      "priceFormatted": "₺2.010.000,00",
       "searchText": "renault yeni duster evolution evolution turbo tce edc 145 hp benzin otomatik"
     },
     {
@@ -1259,8 +1259,8 @@
       "engine": "evolution hybrid 4x4 LPG 150 hp",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 2533000,
-      "priceFormatted": "₺2.533.000,00",
+      "price": 2714999.99,
+      "priceFormatted": "₺2.714.999,99",
       "searchText": "renault yeni duster evolution evolution hybrid 4x4 lpg 150 hp lpg otomatik"
     },
     {
@@ -1272,8 +1272,8 @@
       "engine": "techno Turbo Tce EDC 145 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2038000,
-      "priceFormatted": "₺2.038.000,00",
+      "price": 2080000,
+      "priceFormatted": "₺2.080.000,00",
       "searchText": "renault yeni duster techno techno turbo tce edc 145 hp benzin otomatik"
     },
     {
@@ -1285,8 +1285,8 @@
       "engine": "techno Full hybrid E-Tech 160 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2503000,
-      "priceFormatted": "₺2.503.000,00",
+      "price": 2529999.99,
+      "priceFormatted": "₺2.529.999,99",
       "searchText": "renault yeni duster techno techno full hybrid e tech 160 hp benzin otomatik"
     },
     {
@@ -1298,8 +1298,8 @@
       "engine": "techno hybrid 4x4 LPG 150 hp",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 2563000.01,
-      "priceFormatted": "₺2.563.000,01",
+      "price": 2750000,
+      "priceFormatted": "₺2.750.000,00",
       "searchText": "renault yeni duster techno techno hybrid 4x4 lpg 150 hp lpg otomatik"
     },
     {
@@ -1350,8 +1350,8 @@
       "engine": "Touch 1.3 TCe 140 bg",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 1766000,
-      "priceFormatted": "₺1.766.000,00",
+      "price": 1791000,
+      "priceFormatted": "₺1.791.000,00",
       "searchText": "renault megane sedan touch touch 1 3 tce 140 bg benzin manuel"
     },
     {
@@ -1363,8 +1363,8 @@
       "engine": "Touch 1.3 TCe EDC 140 bg",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2107999.99,
-      "priceFormatted": "₺2.107.999,99",
+      "price": 2160000.01,
+      "priceFormatted": "₺2.160.000,01",
       "searchText": "renault megane sedan touch touch 1 3 tce edc 140 bg benzin otomatik"
     },
     {
@@ -1376,8 +1376,8 @@
       "engine": "Icon 1.3 TCe EDC 140 bg",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2265999.99,
-      "priceFormatted": "₺2.265.999,99",
+      "price": 2325000.01,
+      "priceFormatted": "₺2.325.000,01",
       "searchText": "renault megane sedan icon icon 1 3 tce edc 140 bg benzin otomatik"
     },
     {
@@ -1389,8 +1389,8 @@
       "engine": "Icon 1.5 Blue dCi EDC 115 bg",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2670999.99,
-      "priceFormatted": "₺2.670.999,99",
+      "price": 2699000.01,
+      "priceFormatted": "₺2.699.000,01",
       "searchText": "renault megane sedan icon icon 1 5 blue dci edc 115 bg dizel otomatik"
     },
     {
@@ -6043,8 +6043,8 @@
       "engine": "1.0 TSI 116 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 1785150,
-      "priceFormatted": "1.785.150 TL",
+      "price": 1821000,
+      "priceFormatted": "1.821.000 TL",
       "searchText": "seat yeni style plus 1 0 tsi 116 ps benzin otomatik dsg"
     },
     {
@@ -6069,8 +6069,8 @@
       "engine": "1.0 TSI 116 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 1876150,
-      "priceFormatted": "1.876.150 TL",
+      "price": 1968000,
+      "priceFormatted": "1.968.000 TL",
       "searchText": "seat yeni style plus 1 0 tsi 116 ps benzin otomatik dsg"
     },
     {
@@ -6108,8 +6108,8 @@
       "engine": "1.5 eTSI 116 PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik (DSG)",
-      "price": 2199150,
-      "priceFormatted": "2.199.150 TL",
+      "price": 2244000,
+      "priceFormatted": "2.244.000 TL",
       "searchText": "seat leon style 1 5 etsi 116 ps hybrid otomatik dsg"
     },
     {
@@ -6121,8 +6121,8 @@
       "engine": "1.5 EcoTSI ACT 150 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 2379150,
-      "priceFormatted": "2.379.150 TL",
+      "price": 2561000,
+      "priceFormatted": "2.561.000 TL",
       "searchText": "seat ateca style plus 1 5 ecotsi act 150 ps benzin otomatik dsg"
     },
     {
@@ -6137,45 +6137,6 @@
       "price": 2919150,
       "priceFormatted": "2.919.150 TL",
       "searchText": "seat ateca fr dark edition 1 5 ecotsi act 150 ps benzin otomatik dsg"
-    },
-    {
-      "id": "kia-stonic-cool-100-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Stonic",
-      "trim": "Cool",
-      "engine": "100 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 1999000,
-      "priceFormatted": "1.999.000 TL",
-      "searchText": "kia stonic cool 100 ps benzin otomatik"
-    },
-    {
-      "id": "kia-picanto-feel-67-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Picanto",
-      "trim": "Feel",
-      "engine": "67 PS",
-      "fuel": "Benzin",
-      "transmission": "Manuel",
-      "price": 1315000,
-      "priceFormatted": "1.315.000 TL",
-      "searchText": "kia picanto feel 67 ps benzin manuel"
-    },
-    {
-      "id": "kia-picanto-cool-67-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Picanto",
-      "trim": "Cool",
-      "engine": "67 PS",
-      "fuel": "Benzin",
-      "transmission": "Manuel",
-      "price": 1435000,
-      "priceFormatted": "1.435.000 TL",
-      "searchText": "kia picanto cool 67 ps benzin manuel"
     },
     {
       "id": "kia-cee-elegance-140-ps",
@@ -6228,292 +6189,6 @@
       "price": 2175000,
       "priceFormatted": "2.175.000 TL",
       "searchText": "kia xceed elegance 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-cool-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Cool",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 2370000,
-      "priceFormatted": "2.370.000 TL",
-      "searchText": "kia sportage cool 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-live-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Live",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 2049000,
-      "priceFormatted": "2.049.000 TL",
-      "searchText": "kia sportage live 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-prestige-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Prestige",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 3085000,
-      "priceFormatted": "3.085.000 TL",
-      "searchText": "kia sportage prestige 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-cool-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Cool",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 2550000,
-      "priceFormatted": "2.550.000 TL",
-      "searchText": "kia sportage cool 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-gt-line-180-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "GT-Line",
-      "engine": "180 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 3325000,
-      "priceFormatted": "3.325.000 TL",
-      "searchText": "kia sportage gt line 180 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-elegance-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Elegance",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 2895000,
-      "priceFormatted": "2.895.000 TL",
-      "searchText": "kia sportage elegance 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-prestige-150-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "Prestige",
-      "engine": "150 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 3160000,
-      "priceFormatted": "3.160.000 TL",
-      "searchText": "kia sportage prestige 150 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sportage-gt-line-180-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sportage",
-      "trim": "GT-Line",
-      "engine": "180 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 3400000,
-      "priceFormatted": "3.400.000 TL",
-      "searchText": "kia sportage gt line 180 ps benzin otomatik"
-    },
-    {
-      "id": "kia-sorento-prestige-smart-239-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sorento",
-      "trim": "Prestige Smart",
-      "engine": "239 PS",
-      "fuel": "Hybrid",
-      "transmission": "Otomatik",
-      "price": 5990000,
-      "priceFormatted": "5.990.000 TL",
-      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
-    },
-    {
-      "id": "kia-sorento-prestige-smart-239-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sorento",
-      "trim": "Prestige Smart",
-      "engine": "239 PS",
-      "fuel": "Hybrid",
-      "transmission": "Otomatik",
-      "price": 6190000,
-      "priceFormatted": "6.190.000 TL",
-      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
-    },
-    {
-      "id": "kia-sorento-prestige-smart-239-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sorento",
-      "trim": "Prestige Smart",
-      "engine": "239 PS",
-      "fuel": "Hybrid",
-      "transmission": "Otomatik",
-      "price": 6130000,
-      "priceFormatted": "6.130.000 TL",
-      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
-    },
-    {
-      "id": "kia-sorento-prestige-smart-239-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Sorento",
-      "trim": "Prestige Smart",
-      "engine": "239 PS",
-      "fuel": "Hybrid",
-      "transmission": "Otomatik",
-      "price": 6330000,
-      "priceFormatted": "6.330.000 TL",
-      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
-    },
-    {
-      "id": "kia-ev3-elegance-standard-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Elegance Standard Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2095000,
-      "priceFormatted": "2.095.000 TL",
-      "searchText": "kia ev3 elegance standard range 150 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev3-elegance-long-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Elegance Long Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2385000,
-      "priceFormatted": "2.385.000 TL",
-      "searchText": "kia ev3 elegance long range 150 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev3-prestige-standard-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Prestige Standard Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2405000,
-      "priceFormatted": "2.405.000 TL",
-      "searchText": "kia ev3 prestige standard range 150 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev3-prestige-standard-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Prestige Standard Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2345000,
-      "priceFormatted": "2.345.000 TL",
-      "searchText": "kia ev3 prestige standard range 150 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev3-gt-line-long-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "GT-Line Long Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 3760000,
-      "priceFormatted": "3.760.000 TL",
-      "searchText": "kia ev3 gt line long range 150 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev6-pe-elegance-standard-range-125-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV6 PE",
-      "trim": "Elegance Standard Range",
-      "engine": "125 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 3760000,
-      "priceFormatted": "3.760.000 TL",
-      "searchText": "kia ev6 pe elegance standard range 125 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev9-prestige-149-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV9",
-      "trim": "Prestige",
-      "engine": "149 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 6360000,
-      "priceFormatted": "6.360.000 TL",
-      "searchText": "kia ev9 prestige 149 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev9-prestige-149-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV9",
-      "trim": "Prestige",
-      "engine": "149 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 6540000,
-      "priceFormatted": "6.540.000 TL",
-      "searchText": "kia ev9 prestige 149 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev9-gt-line-283-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV9",
-      "trim": "GT-Line",
-      "engine": "283 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 7630000,
-      "priceFormatted": "7.630.000 TL",
-      "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
-    },
-    {
-      "id": "kia-ev9-gt-line-283-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV9",
-      "trim": "GT-Line",
-      "engine": "283 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 7870000,
-      "priceFormatted": "7.870.000 TL",
-      "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
     },
     {
       "id": "volvo-ex30-single-motor-extended-range,-ultra-150-kw-/-204-hp",
