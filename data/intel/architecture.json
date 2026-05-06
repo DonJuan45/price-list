@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-05T01:33:54.084Z",
-  "date": "2026-05-05",
+  "generatedAt": "2026-05-06T01:34:34.068Z",
+  "date": "2026-05-06",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1268,30 +1268,20 @@
       "trims": [
         {
           "trim": "techno",
-          "price": 2063000,
-          "priceFormatted": "₺2.063.000,00",
+          "price": 2156000.01,
+          "priceFormatted": "₺2.156.000,01",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "techno mild hybrid EDC 140 hp",
           "transmission": "Otomatik",
           "fuel": "Benzin"
-        },
-        {
-          "trim": "techno",
-          "price": 2156000.01,
-          "priceFormatted": "₺2.156.000,01",
-          "stepFromBase": 93000.00999999978,
-          "stepPercent": 4.507998545807066,
-          "engine": "techno mild hybrid EDC 140 hp",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
         }
       ],
-      "basePrice": 2063000,
+      "basePrice": 2156000.01,
       "topPrice": 2156000.01,
-      "priceSpread": 93000.00999999978,
-      "priceSpreadPercent": 4.51,
-      "trimCount": 2
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
     },
     {
       "id": "renault-yeni-duster",
@@ -3861,33 +3851,13 @@
           "engine": "2.2 BlueHDi 180 HP - EAT8",
           "transmission": "Otomatik",
           "fuel": "Dizel"
-        },
-        {
-          "trim": "15m3 4.2T Personel",
-          "price": 2428000,
-          "priceFormatted": "2.428.000 TL",
-          "stepFromBase": 554000,
-          "stepPercent": 29.562433297758805,
-          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
-          "transmission": "Manuel",
-          "fuel": "Dizel"
-        },
-        {
-          "trim": "15m3 4.2T Okul",
-          "price": 2479000,
-          "priceFormatted": "2.479.000 TL",
-          "stepFromBase": 605000,
-          "stepPercent": 32.28388473852721,
-          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
-          "transmission": "Manuel",
-          "fuel": "Dizel"
         }
       ],
       "basePrice": 1874000,
-      "topPrice": 2479000,
-      "priceSpread": 605000,
-      "priceSpreadPercent": 32.28,
-      "trimCount": 5
+      "topPrice": 1996000,
+      "priceSpread": 122000,
+      "priceSpreadPercent": 6.51,
+      "trimCount": 3
     },
     {
       "id": "citroen-ami",
@@ -4731,6 +4701,29 @@
       "trimCount": 1
     },
     {
+      "id": "bmw-bmw-x6-xdrive40d",
+      "model": "BMW X6 xDrive40d",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "trims": [
+        {
+          "trim": "M Sport",
+          "price": 17790400,
+          "priceFormatted": "17.790.400 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "3.0L 340+12 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hafif Hibrit"
+        }
+      ],
+      "basePrice": 17790400,
+      "topPrice": 17790400,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
       "id": "bmw-bmw-x7-xdrive40d",
       "model": "BMW X7 xDrive40d",
       "brand": "BMW",
@@ -4945,8 +4938,8 @@
       "trims": [
         {
           "trim": "M",
-          "price": 23650000,
-          "priceFormatted": "23.650.000 TL",
+          "price": 23929300,
+          "priceFormatted": "23.929.300 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "4.4L 625+12 HP",
@@ -4954,8 +4947,8 @@
           "fuel": "Hafif Hibrit"
         }
       ],
-      "basePrice": 23650000,
-      "topPrice": 23650000,
+      "basePrice": 23929300,
+      "topPrice": 23929300,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -4968,8 +4961,8 @@
       "trims": [
         {
           "trim": "M",
-          "price": 24000000,
-          "priceFormatted": "24.000.000 TL",
+          "price": 24283500,
+          "priceFormatted": "24.283.500 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "4.4L 625+12 HP",
@@ -4977,8 +4970,8 @@
           "fuel": "Hafif Hibrit"
         }
       ],
-      "basePrice": 24000000,
-      "topPrice": 24000000,
+      "basePrice": 24283500,
+      "topPrice": 24283500,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -8282,10 +8275,10 @@
           "brandId": "citroen",
           "model": "Jumper",
           "basePrice": 1874000,
-          "topPrice": 2479000,
+          "topPrice": 1996000,
           "basePriceFormatted": "₺1.874.000",
-          "topPriceFormatted": "₺2.479.000",
-          "trimCount": 5
+          "topPriceFormatted": "₺1.996.000",
+          "trimCount": 3
         },
         {
           "brand": "Ford",
@@ -9309,7 +9302,7 @@
         }
       ],
       "avgBasePrice": 8025832,
-      "avgTopPrice": 8292183
+      "avgTopPrice": 8288224
     },
     {
       "segment": "SUV",
@@ -9355,16 +9348,6 @@
           "trimCount": 6
         },
         {
-          "brand": "Renault",
-          "brandId": "renault",
-          "model": "Captur",
-          "basePrice": 2063000,
-          "topPrice": 2156000.01,
-          "basePriceFormatted": "₺2.063.000",
-          "topPriceFormatted": "₺2.156.000",
-          "trimCount": 2
-        },
-        {
           "brand": "Citroën",
           "brandId": "citroen",
           "model": "C3 Aircross Hybrid 145",
@@ -9373,6 +9356,16 @@
           "basePriceFormatted": "₺2.125.000",
           "topPriceFormatted": "₺2.330.000",
           "trimCount": 3
+        },
+        {
+          "brand": "Renault",
+          "brandId": "renault",
+          "model": "Captur",
+          "basePrice": 2156000.01,
+          "topPrice": 2156000.01,
+          "basePriceFormatted": "₺2.156.000",
+          "topPriceFormatted": "₺2.156.000",
+          "trimCount": 1
         },
         {
           "brand": "Peugeot",
@@ -9697,6 +9690,16 @@
         {
           "brand": "BMW",
           "brandId": "bmw",
+          "model": "BMW X6 xDrive40d",
+          "basePrice": 17790400,
+          "topPrice": 17790400,
+          "basePriceFormatted": "₺17.790.400",
+          "topPriceFormatted": "₺17.790.400",
+          "trimCount": 1
+        },
+        {
+          "brand": "BMW",
+          "brandId": "bmw",
           "model": "BMW X7 xDrive40d",
           "basePrice": 22164200,
           "topPrice": 22164200,
@@ -9708,25 +9711,25 @@
           "brand": "BMW",
           "brandId": "bmw",
           "model": "BMW X5 M Competition",
-          "basePrice": 23650000,
-          "topPrice": 23650000,
-          "basePriceFormatted": "₺23.650.000",
-          "topPriceFormatted": "₺23.650.000",
+          "basePrice": 23929300,
+          "topPrice": 23929300,
+          "basePriceFormatted": "₺23.929.300",
+          "topPriceFormatted": "₺23.929.300",
           "trimCount": 1
         },
         {
           "brand": "BMW",
           "brandId": "bmw",
           "model": "BMW X6 M Competition",
-          "basePrice": 24000000,
-          "topPrice": 24000000,
-          "basePriceFormatted": "₺24.000.000",
-          "topPriceFormatted": "₺24.000.000",
+          "basePrice": 24283500,
+          "topPrice": 24283500,
+          "basePriceFormatted": "₺24.283.500",
+          "topPriceFormatted": "₺24.283.500",
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5406444,
-      "avgTopPrice": 5898835
+      "avgBasePrice": 5716914,
+      "avgTopPrice": 6195368
     },
     {
       "segment": "Sedan",
@@ -10418,9 +10421,9 @@
     }
   ],
   "summary": {
-    "totalModels": 230,
+    "totalModels": 231,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 364875,
-    "avgPriceSpreadPercent": 12.11
+    "avgPriceSpread": 360802,
+    "avgPriceSpreadPercent": 11.93
   }
 }

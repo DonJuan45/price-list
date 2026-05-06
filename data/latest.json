@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-05T01:33:50.592Z",
-  "totalVehicles": 509,
+  "generatedAt": "2026-05-06T01:34:30.068Z",
+  "totalVehicles": 507,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2523,7 +2523,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -2773,35 +2773,6 @@
           "otvIncentivePrice": 1735000,
           "powerHP": 90,
           "engineType": "TCe"
-        },
-        {
-          "model": "Captur",
-          "trim": "techno",
-          "engine": "techno mild hybrid EDC 140 hp",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "₺2.063.000,00",
-          "priceNumeric": 2063000,
-          "brand": "Renault",
-          "modelYear": "2025",
-          "otvRate": 80,
-          "netPrice": 927312.5,
-          "otvAmount": 741850,
-          "kdvAmount": 333832.5,
-          "optionalEquipment": [
-            {
-              "name": "Metalik Renk",
-              "price": 15000
-            },
-            {
-              "name": "Yedek Lastik (hacim kazanımlı)",
-              "price": 14000
-            }
-          ],
-          "vehicleCategory": "Binek",
-          "otvIncentivePrice": 2063000,
-          "powerHP": 140,
-          "isHybrid": true
         },
         {
           "model": "Captur",
@@ -3393,7 +3364,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3958,7 +3929,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "i20",
@@ -4391,7 +4362,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "E-208",
@@ -4793,7 +4764,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4896,7 +4867,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5106,7 +5077,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5559,34 +5530,6 @@
           "engineType": "BlueHDi"
         },
         {
-          "model": "Jumper",
-          "trim": "15m3 4.2T Okul",
-          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
-          "transmission": "Manuel",
-          "fuel": "Dizel",
-          "priceRaw": "2.479.000 TL",
-          "priceNumeric": 2479000,
-          "brand": "Citroën",
-          "priceListNumeric": 2479000,
-          "powerHP": 140,
-          "engineDisplacement": "2.2L",
-          "engineType": "BlueHDi"
-        },
-        {
-          "model": "Jumper",
-          "trim": "15m3 4.2T Personel",
-          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
-          "transmission": "Manuel",
-          "fuel": "Dizel",
-          "priceRaw": "2.428.000 TL",
-          "priceNumeric": 2428000,
-          "brand": "Citroën",
-          "priceListNumeric": 2428000,
-          "powerHP": 140,
-          "engineDisplacement": "2.2L",
-          "engineType": "BlueHDi"
-        },
-        {
           "model": "Ami",
           "trim": "Ami",
           "engine": "6 kW Elektrik Motor",
@@ -5616,7 +5559,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6374,6 +6317,24 @@
           "driveType": "AWD"
         },
         {
+          "model": "BMW X6 xDrive40d",
+          "trim": "M Sport",
+          "engine": "3.0L 340+12 HP",
+          "transmission": "Otomatik",
+          "fuel": "Mild Hybrid",
+          "priceRaw": "17.790.400 TL",
+          "priceNumeric": 17790400,
+          "brand": "BMW",
+          "fuelConsumption": "7,8",
+          "otvRate": 220,
+          "powerHP": 340,
+          "powerHPSecondary": 12,
+          "engineDisplacement": "3.0L",
+          "isHybrid": true,
+          "isMildHybrid": true,
+          "driveType": "AWD"
+        },
+        {
           "model": "BMW X7 xDrive40d",
           "trim": "M Excellence",
           "engine": "3.0L 340+12 HP",
@@ -6520,8 +6481,8 @@
           "engine": "4.4L 625+12 HP",
           "transmission": "Otomatik",
           "fuel": "Mild Hybrid",
-          "priceRaw": "23.650.000 TL",
-          "priceNumeric": 23650000,
+          "priceRaw": "23.929.300 TL",
+          "priceNumeric": 23929300,
           "brand": "BMW",
           "fuelConsumption": "12,9",
           "otvRate": 220,
@@ -6537,8 +6498,8 @@
           "engine": "4.4L 625+12 HP",
           "transmission": "Otomatik",
           "fuel": "Mild Hybrid",
-          "priceRaw": "24.000.000 TL",
-          "priceNumeric": 24000000,
+          "priceRaw": "24.283.500 TL",
+          "priceNumeric": 24283500,
           "brand": "BMW",
           "fuelConsumption": "12,8",
           "otvRate": 220,
@@ -6627,7 +6588,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "A 200",
@@ -7556,22 +7517,6 @@
           "driveType": "AWD"
         },
         {
-          "model": "CLA 220 4MATIC",
-          "trim": "AMG",
-          "engine": "1.5L 190 HP",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "4.643.000 TL",
-          "priceNumeric": 4643000,
-          "brand": "Mercedes-Benz",
-          "otvRate": 100,
-          "modelYear": "2025",
-          "priceListNumeric": 1934583,
-          "powerHP": 190,
-          "engineDisplacement": "1.5L",
-          "driveType": "AWD"
-        },
-        {
           "model": "CLA 350 4MATIC",
           "trim": "Edition 1 AMG",
           "engine": "354 HP",
@@ -7586,12 +7531,28 @@
           "powerHP": 354,
           "isElectric": true,
           "driveType": "AWD"
+        },
+        {
+          "model": "CLA 220 4MATIC",
+          "trim": "AMG",
+          "engine": "1.5L 190 HP",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "4.643.000 TL",
+          "priceNumeric": 4643000,
+          "brand": "Mercedes-Benz",
+          "otvRate": 100,
+          "modelYear": "2025",
+          "priceListNumeric": 1934583,
+          "powerHP": 190,
+          "engineDisplacement": "1.5L",
+          "driveType": "AWD"
         }
       ]
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Puma",
@@ -8309,7 +8270,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8393,16 +8354,12 @@
           "kdvAmount": 213826.33,
           "optionalEquipment": [
             {
-              "name": "Yedek Lastik",
-              "price": 12000
-            },
-            {
-              "name": "Özel Renk",
-              "price": 13000
-            },
-            {
               "name": "Metalik Renk",
               "price": 13000
+            },
+            {
+              "name": "Yedek Lastik",
+              "price": 12000
             }
           ],
           "vehicleCategory": "Binek",
@@ -8426,16 +8383,12 @@
           "kdvAmount": 228293,
           "optionalEquipment": [
             {
-              "name": "Yedek Lastik",
-              "price": 12000
-            },
-            {
-              "name": "Özel Renk",
-              "price": 13000
-            },
-            {
               "name": "Metalik Renk",
               "price": 13000
+            },
+            {
+              "name": "Yedek Lastik",
+              "price": 12000
             }
           ],
           "vehicleCategory": "Binek",
@@ -8624,7 +8577,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9100,7 +9053,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9163,7 +9116,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9283,7 +9236,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Picanto",
@@ -9722,7 +9675,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "EX40 Black Edition Ultra",
@@ -9861,7 +9814,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "vehicles": [
         {
           "model": "Egea Sedan",
