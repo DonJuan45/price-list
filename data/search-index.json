@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T01:34:30.084Z",
+  "generatedAt": "2026-05-07T01:34:35.455Z",
   "totalEntries": 507,
   "entries": [
     {
@@ -3053,8 +3053,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2040000,
-      "priceFormatted": "2.040.000 TL",
+      "price": 2060000,
+      "priceFormatted": "2.060.000 TL",
       "searchText": "citroen c4 hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3066,8 +3066,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2140000,
-      "priceFormatted": "2.140.000 TL",
+      "price": 2170000,
+      "priceFormatted": "2.170.000 TL",
       "searchText": "citroen c4 hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3092,8 +3092,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2040000,
-      "priceFormatted": "2.040.000 TL",
+      "price": 2060000,
+      "priceFormatted": "2.060.000 TL",
       "searchText": "citroen c4 x hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3105,8 +3105,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2140000,
-      "priceFormatted": "2.140.000 TL",
+      "price": 2170000,
+      "priceFormatted": "2.170.000 TL",
       "searchText": "citroen c4 x hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -4405,8 +4405,8 @@
       "engine": "3.0L 585 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 15892100,
-      "priceFormatted": "15.892.100 TL",
+      "price": 20839000,
+      "priceFormatted": "20.839.000 TL",
       "searchText": "mercedes benz mercedes amg e 53 hybrid 4matic performance 3 0l 585 hp elektrik otomatik"
     },
     {
@@ -4501,17 +4501,17 @@
       "searchText": "mercedes benz cle 300 4matic cabriolet amg 2 0l 258 hp benzin otomatik"
     },
     {
-      "id": "mercedes-benz-s-450-d-4matic-l-inspiration-2.9l-367-hp",
+      "id": "mercedes-benz-s-450-d-4matic-l-inspiration-3.0l-367-hp",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "S 450 d 4MATIC L",
       "trim": "Inspiration",
-      "engine": "2.9L 367 HP",
+      "engine": "3.0L 367 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
       "price": 21035000,
       "priceFormatted": "21.035.000 TL",
-      "searchText": "mercedes benz s 450 d 4matic l inspiration 2 9l 367 hp dizel otomatik"
+      "searchText": "mercedes benz s 450 d 4matic l inspiration 3 0l 367 hp dizel otomatik"
     },
     {
       "id": "mercedes-benz-s-450-d-4matic-l-inspiration-2.9l-367-hp",
@@ -4943,6 +4943,19 @@
       "searchText": "mercedes benz mercedes amg gt 63 pro 4matic 4 0l 612 hp benzin otomatik"
     },
     {
+      "id": "mercedes-benz-cla-200+-amg-218-hp",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "CLA 200+",
+      "trim": "AMG",
+      "engine": "218 HP",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 4191000,
+      "priceFormatted": "4.191.000 TL",
+      "searchText": "mercedes benz cla 200 amg 218 hp elektrik otomatik"
+    },
+    {
       "id": "mercedes-benz-cla-220-4matic-amg-1.5l-190-hp",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
@@ -4954,19 +4967,6 @@
       "price": 4873000,
       "priceFormatted": "4.873.000 TL",
       "searchText": "mercedes benz cla 220 4matic amg 1 5l 190 hp benzin otomatik"
-    },
-    {
-      "id": "mercedes-benz-cla-350-4matic-edition-1-amg-354-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "CLA 350 4MATIC",
-      "trim": "Edition 1 AMG",
-      "engine": "354 HP",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 4657600,
-      "priceFormatted": "4.657.600 TL",
-      "searchText": "mercedes benz cla 350 4matic edition 1 amg 354 hp elektrik otomatik"
     },
     {
       "id": "mercedes-benz-cla-220-4matic-amg-1.5l-190-hp",
@@ -4982,56 +4982,56 @@
       "searchText": "mercedes benz cla 220 4matic amg 1 5l 190 hp benzin otomatik"
     },
     {
-      "id": "ford-puma-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-yeni-puma-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Puma",
+      "model": "Yeni Puma",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1842100,
-      "priceFormatted": "1.842.100 TL",
-      "searchText": "ford puma titanium 1 0l ecoboost 125ps hybrid otomatik"
+      "price": 1897100,
+      "priceFormatted": "1.897.100 TL",
+      "searchText": "ford yeni puma titanium 1 0l ecoboost 125ps hybrid otomatik"
     },
     {
-      "id": "ford-puma-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-yeni-puma-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Puma",
+      "model": "Yeni Puma",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2069700,
-      "priceFormatted": "2.069.700 TL",
-      "searchText": "ford puma titanium 1 0l ecoboost 125ps hybrid otomatik"
+      "price": 2131500,
+      "priceFormatted": "2.131.500 TL",
+      "searchText": "ford yeni puma titanium 1 0l ecoboost 125ps hybrid otomatik"
     },
     {
-      "id": "ford-puma-st-line-x-1.0l-ecoboost-155ps",
+      "id": "ford-yeni-puma-st-line-x-1.0l-ecoboost-155ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Puma",
+      "model": "Yeni Puma",
       "trim": "ST-Line X",
       "engine": "1.0L EcoBoost 155PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2076700,
-      "priceFormatted": "2.076.700 TL",
-      "searchText": "ford puma st line x 1 0l ecoboost 155ps hybrid otomatik"
+      "price": 2138700,
+      "priceFormatted": "2.138.700 TL",
+      "searchText": "ford yeni puma st line x 1 0l ecoboost 155ps hybrid otomatik"
     },
     {
-      "id": "ford-puma-st-line-x-1.0l-ecoboost-155ps",
+      "id": "ford-yeni-puma-st-line-x-1.0l-ecoboost-155ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Puma",
+      "model": "Yeni Puma",
       "trim": "ST-Line X",
       "engine": "1.0L EcoBoost 155PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2291000,
-      "priceFormatted": "2.291.000 TL",
-      "searchText": "ford puma st line x 1 0l ecoboost 155ps hybrid otomatik"
+      "price": 2359500,
+      "priceFormatted": "2.359.500 TL",
+      "searchText": "ford yeni puma st line x 1 0l ecoboost 155ps hybrid otomatik"
     },
     {
       "id": "ford-focus-yeni-titanium-stil-1.5l-ecoblue-115ps",
@@ -5042,8 +5042,8 @@
       "engine": "1.5L EcoBlue 115PS",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2641700,
-      "priceFormatted": "2.641.700 TL",
+      "price": 2720500,
+      "priceFormatted": "2.720.500 TL",
       "searchText": "ford focus yeni titanium stil 1 5l ecoblue 115ps dizel otomatik"
     },
     {
@@ -5055,8 +5055,8 @@
       "engine": "1.5L EcoBlue 115PS",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2776900,
-      "priceFormatted": "2.776.900 TL",
+      "price": 2859900,
+      "priceFormatted": "2.859.900 TL",
       "searchText": "ford focus yeni titanium x 1 5l ecoblue 115ps dizel otomatik"
     },
     {
@@ -5068,8 +5068,8 @@
       "engine": "1.5L EcoBoost 186PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2379100,
-      "priceFormatted": "2.379.100 TL",
+      "price": 2585600,
+      "priceFormatted": "2.585.600 TL",
       "searchText": "ford kuga titanium 1 5l ecoboost 186ps benzin otomatik"
     },
     {
@@ -5081,8 +5081,8 @@
       "engine": "1.5L EcoBoost 186PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2660500,
-      "priceFormatted": "2.660.500 TL",
+      "price": 2740000,
+      "priceFormatted": "2.740.000 TL",
       "searchText": "ford kuga titanium 1 5l ecoboost 186ps benzin otomatik"
     },
     {
@@ -5094,8 +5094,8 @@
       "engine": "1.5L EcoBoost 186PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2938500,
-      "priceFormatted": "2.938.500 TL",
+      "price": 3026300,
+      "priceFormatted": "3.026.300 TL",
       "searchText": "ford kuga active x 1 5l ecoboost 186ps benzin otomatik"
     },
     {
@@ -5107,8 +5107,8 @@
       "engine": "1.5L EcoBoost 186PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 3026300,
-      "priceFormatted": "3.026.300 TL",
+      "price": 3116700,
+      "priceFormatted": "3.116.700 TL",
       "searchText": "ford kuga active x 1 5l ecoboost 186ps benzin otomatik"
     },
     {
@@ -5120,22 +5120,9 @@
       "engine": "1.5L EcoBoost 186PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 3026300,
-      "priceFormatted": "3.026.300 TL",
+      "price": 3116700,
+      "priceFormatted": "3.116.700 TL",
       "searchText": "ford kuga st line 1 5l ecoboost 186ps benzin otomatik"
-    },
-    {
-      "id": "ford-kuga-st-line-x-1.5l-ecoboost-186ps",
-      "brand": "Ford",
-      "brandId": "ford",
-      "model": "Kuga",
-      "trim": "ST-Line X",
-      "engine": "1.5L EcoBoost 186PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 3209400,
-      "priceFormatted": "3.209.400 TL",
-      "searchText": "ford kuga st line x 1 5l ecoboost 186ps benzin otomatik"
     },
     {
       "id": "ford-kuga-st-line-x-1.5l-ecoboost-186ps",
@@ -5151,82 +5138,69 @@
       "searchText": "ford kuga st line x 1 5l ecoboost 186ps benzin otomatik"
     },
     {
-      "id": "ford-journey-courier-deluxe-1.0l-ecoboost-125ps",
+      "id": "ford-kuga-st-line-x-1.5l-ecoboost-186ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Journey Courier",
+      "model": "Kuga",
+      "trim": "ST-Line X",
+      "engine": "1.5L EcoBoost 186PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 3404200,
+      "priceFormatted": "3.404.200 TL",
+      "searchText": "ford kuga st line x 1 5l ecoboost 186ps benzin otomatik"
+    },
+    {
+      "id": "ford-yeni-journey-courier-deluxe-1.0l-ecoboost-125ps",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Yeni Journey Courier",
       "trim": "Deluxe",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 2257400,
-      "priceFormatted": "2.257.400 TL",
-      "searchText": "ford journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
+      "price": 2324800,
+      "priceFormatted": "2.324.800 TL",
+      "searchText": "ford yeni journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
     },
     {
-      "id": "ford-journey-courier-deluxe-1.0l-ecoboost-125ps",
+      "id": "ford-yeni-journey-courier-deluxe-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Journey Courier",
+      "model": "Yeni Journey Courier",
       "trim": "Deluxe",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 2347300,
-      "priceFormatted": "2.347.300 TL",
-      "searchText": "ford journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
+      "price": 2551000,
+      "priceFormatted": "2.551.000 TL",
+      "searchText": "ford yeni journey courier deluxe 1 0l ecoboost 125ps benzin manuel"
     },
     {
-      "id": "ford-journey-courier-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-yeni-journey-courier-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Journey Courier",
+      "model": "Yeni Journey Courier",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2837200,
-      "priceFormatted": "2.837.200 TL",
-      "searchText": "ford journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
+      "price": 2922000,
+      "priceFormatted": "2.922.000 TL",
+      "searchText": "ford yeni journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
     },
     {
-      "id": "ford-journey-courier-titanium-1.0l-ecoboost-125ps",
+      "id": "ford-yeni-journey-courier-titanium-1.0l-ecoboost-125ps",
       "brand": "Ford",
       "brandId": "ford",
-      "model": "Journey Courier",
+      "model": "Yeni Journey Courier",
       "trim": "Titanium",
       "engine": "1.0L EcoBoost 125PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2950200,
-      "priceFormatted": "2.950.200 TL",
-      "searchText": "ford journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
-    },
-    {
-      "id": "ford-journey-courier-bev-titanium-100kw",
-      "brand": "Ford",
-      "brandId": "ford",
-      "model": "Journey Courier BEV",
-      "trim": "Titanium",
-      "engine": "100KW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2062900,
-      "priceFormatted": "2.062.900 TL",
-      "searchText": "ford journey courier bev titanium 100kw elektrik otomatik"
-    },
-    {
-      "id": "ford-journey-courier-bev-titanium-100kw",
-      "brand": "Ford",
-      "brandId": "ford",
-      "model": "Journey Courier BEV",
-      "trim": "Titanium",
-      "engine": "100KW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2145100,
-      "priceFormatted": "2.145.100 TL",
-      "searchText": "ford journey courier bev titanium 100kw elektrik otomatik"
+      "price": 3038400,
+      "priceFormatted": "3.038.400 TL",
+      "searchText": "ford yeni journey courier titanium 1 0l ecoboost 125ps benzin otomatik"
     },
     {
       "id": "ford-puma-gen-e-premium-123kw",
@@ -5237,8 +5211,8 @@
       "engine": "123KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1937900,
-      "priceFormatted": "1.937.900 TL",
+      "price": 1976500,
+      "priceFormatted": "1.976.500 TL",
       "searchText": "ford puma gen e premium 123kw elektrik otomatik"
     },
     {
@@ -5250,9 +5224,35 @@
       "engine": "123KW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2116600,
-      "priceFormatted": "2.116.600 TL",
+      "price": 2158700,
+      "priceFormatted": "2.158.700 TL",
       "searchText": "ford puma gen e premium 123kw elektrik otomatik"
+    },
+    {
+      "id": "ford-yeni-journey-courier-bev-titanium-100kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Yeni Journey Courier BEV",
+      "trim": "Titanium",
+      "engine": "100KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2165600,
+      "priceFormatted": "2.165.600 TL",
+      "searchText": "ford yeni journey courier bev titanium 100kw elektrik otomatik"
+    },
+    {
+      "id": "ford-yeni-journey-courier-bev-titanium-100kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Yeni Journey Courier BEV",
+      "trim": "Titanium",
+      "engine": "100KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2251900,
+      "priceFormatted": "2.251.900 TL",
+      "searchText": "ford yeni journey courier bev titanium 100kw elektrik otomatik"
     },
     {
       "id": "dacia-yeni-sandero-essential-essential-tce-100",
@@ -5905,6 +5905,19 @@
       "searchText": "seat ateca fr dark edition 1 5 ecotsi act 150 ps benzin otomatik dsg"
     },
     {
+      "id": "kia-niro-ev-elegance-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Niro EV",
+      "trim": "Elegance",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2299000,
+      "priceFormatted": "2.299.000 TL",
+      "searchText": "kia niro ev elegance 150 kw elektrik otomatik"
+    },
+    {
       "id": "kia-picanto-feel-67-ps",
       "brand": "Kia",
       "brandId": "kia",
@@ -6178,19 +6191,6 @@
       "searchText": "kia ev6 pe elegance standard range 125 kw elektrik otomatik"
     },
     {
-      "id": "kia-niro-ev-elegance-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Niro EV",
-      "trim": "Elegance",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2299000,
-      "priceFormatted": "2.299.000 TL",
-      "searchText": "kia niro ev elegance 150 kw elektrik otomatik"
-    },
-    {
       "id": "kia-ev9-prestige-149-kw",
       "brand": "Kia",
       "brandId": "kia",
@@ -6243,108 +6243,108 @@
       "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
     },
     {
-      "id": "volvo-ex40-black-edition-ultra-single-motor-extended-range-elektrik---150kw/204hp---2.399.540-55%-3.719.287-4.463.144-8.926-13.000-4.485.071-150-kw-/-204-hp",
+      "id": "volvo-ex40-black-edition-ultra-single-motor-extended-range-elektrik---150kw/204hp---2.399.540-55%-3.719.287-4.463.144-13.000-4.476.144-150-kw-/-204-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "EX40 Black Edition Ultra",
-      "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.399.540   55%   3.719.287   4.463.144   8.926   13.000   4.485.071",
+      "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.399.540   55%   3.719.287   4.463.144   13.000   4.476.144",
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4345292,
-      "priceFormatted": "4.345.292 TL",
-      "searchText": "volvo ex40 black edition ultra single motor extended range elektrik 150kw 204hp 2 399 540 55 3 719 287 4 463 144 8 926 13 000 4 485 071 150 kw 204 hp elektrik otomatik"
+      "price": 4336644,
+      "priceFormatted": "4.336.644 TL",
+      "searchText": "volvo ex40 black edition ultra single motor extended range elektrik 150kw 204hp 2 399 540 55 3 719 287 4 463 144 13 000 4 476 144 150 kw 204 hp elektrik otomatik"
     },
     {
-      "id": "volvo-ec40-black-edition-ultra-single-motor-extended-range-elektrik---150kw/204hp---2.448.940-55%-3.795.857-4.555.028-9.110-13.000-4.577.138-150-kw-/-204-hp",
+      "id": "volvo-ec40-black-edition-ultra-single-motor-extended-range-elektrik---150kw/204hp---2.448.940-55%-3.795.857-4.555.028-13.000-4.568.028-150-kw-/-204-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "EC40 Black Edition Ultra",
-      "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.448.940   55%   3.795.857   4.555.028   9.110   13.000   4.577.138",
+      "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.448.940   55%   3.795.857   4.555.028   13.000   4.568.028",
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4437359,
-      "priceFormatted": "4.437.359 TL",
-      "searchText": "volvo ec40 black edition ultra single motor extended range elektrik 150kw 204hp 2 448 940 55 3 795 857 4 555 028 9 110 13 000 4 577 138 150 kw 204 hp elektrik otomatik"
+      "price": 4428528,
+      "priceFormatted": "4.428.528 TL",
+      "searchText": "volvo ec40 black edition ultra single motor extended range elektrik 150kw 204hp 2 448 940 55 3 795 857 4 555 028 13 000 4 568 028 150 kw 204 hp elektrik otomatik"
     },
     {
-      "id": "volvo-xc60-plus-b5-awd-mild-hybrid,-dark-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.244.140-170%-6.059.178-7.271.014-14.542-21.000-7.306.556-1.969-cc-250-hp",
+      "id": "volvo-xc60-plus-b5-awd-mild-hybrid,-dark-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.244.140-170%-6.059.178-7.271.014-21.000-7.292.014-1.969-cc-250-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Plus",
-      "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.244.140   170%   6.059.178   7.271.014   14.542   21.000   7.306.556",
+      "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.244.140   170%   6.059.178   7.271.014   21.000   7.292.014",
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7306556,
-      "priceFormatted": "7.306.556 TL",
-      "searchText": "volvo xc60 plus b5 awd mild hybrid dark benzin 1 969 cc 250 hp 8 ileri geartronic 2 244 140 170 6 059 178 7 271 014 14 542 21 000 7 306 556 1 969 cc 250 hp hybrid otomatik"
+      "price": 7292014,
+      "priceFormatted": "7.292.014 TL",
+      "searchText": "volvo xc60 plus b5 awd mild hybrid dark benzin 1 969 cc 250 hp 8 ileri geartronic 2 244 140 170 6 059 178 7 271 014 21 000 7 292 014 1 969 cc 250 hp hybrid otomatik"
     },
     {
-      "id": "volvo-xc60-ultra-b5-awd-mild-hybrid,-dark-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.337.640-170%-6.311.628-7.573.954-15.148-21.000-7.610.102-1.969-cc-250-hp",
+      "id": "volvo-xc60-ultra-b5-awd-mild-hybrid,-dark-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.337.640-170%-6.311.628-7.573.954-21.000-7.594.954-1.969-cc-250-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Ultra",
-      "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.337.640   170%   6.311.628   7.573.954   15.148   21.000   7.610.102",
+      "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.337.640   170%   6.311.628   7.573.954   21.000   7.594.954",
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7610102,
-      "priceFormatted": "7.610.102 TL",
-      "searchText": "volvo xc60 ultra b5 awd mild hybrid dark benzin 1 969 cc 250 hp 8 ileri geartronic 2 337 640 170 6 311 628 7 573 954 15 148 21 000 7 610 102 1 969 cc 250 hp hybrid otomatik"
+      "price": 7594954,
+      "priceFormatted": "7.594.954 TL",
+      "searchText": "volvo xc60 ultra b5 awd mild hybrid dark benzin 1 969 cc 250 hp 8 ileri geartronic 2 337 640 170 6 311 628 7 573 954 21 000 7 594 954 1 969 cc 250 hp hybrid otomatik"
     },
     {
-      "id": "volvo-xc60-black-edition-ultra-b5-awd-mild-hybrid-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.470.640-170%-6.670.728-8.004.874-16.010-21.000-8.041.883-1.969-cc-250-hp",
+      "id": "volvo-xc60-black-edition-ultra-b5-awd-mild-hybrid-benzin-1.969-cc.-250-hp-8-ileri-geartronic-2.470.640-170%-6.670.728-8.004.874-21.000-8.025.874-1.969-cc-250-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Black Edition Ultra",
-      "trim": "B5 AWD Mild hybrid   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.470.640   170%   6.670.728   8.004.874   16.010   21.000   8.041.883",
+      "trim": "B5 AWD Mild hybrid   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.470.640   170%   6.670.728   8.004.874   21.000   8.025.874",
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7715612,
-      "priceFormatted": "7.715.612 TL",
-      "searchText": "volvo xc60 black edition ultra b5 awd mild hybrid benzin 1 969 cc 250 hp 8 ileri geartronic 2 470 640 170 6 670 728 8 004 874 16 010 21 000 8 041 883 1 969 cc 250 hp hybrid otomatik"
+      "price": 7700254,
+      "priceFormatted": "7.700.254 TL",
+      "searchText": "volvo xc60 black edition ultra b5 awd mild hybrid benzin 1 969 cc 250 hp 8 ileri geartronic 2 470 640 170 6 670 728 8 004 874 21 000 8 025 874 1 969 cc 250 hp hybrid otomatik"
     },
     {
-      "id": "volvo-xc60-plus-t8-awd-plug-in-hybrid,-dark-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.452.140-170%-6.620.778-7.944.934-15.890-21.000-7.981.823-1.969-cc-145-hp",
+      "id": "volvo-xc60-plus-t8-awd-plug-in-hybrid,-dark-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.452.140-170%-6.620.778-7.944.934-21.000-7.965.934-1.969-cc-145-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Plus",
-      "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.452.140   170%   6.620.778   7.944.934   15.890   21.000   7.981.823",
+      "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.452.140   170%   6.620.778   7.944.934   21.000   7.965.934",
       "engine": "1.969 cc 145 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 7981823,
-      "priceFormatted": "7.981.823 TL",
-      "searchText": "volvo xc60 plus t8 awd plug in hybrid dark elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 452 140 170 6 620 778 7 944 934 15 890 21 000 7 981 823 1 969 cc 145 hp plug in hybrid otomatik"
+      "price": 7965934,
+      "priceFormatted": "7.965.934 TL",
+      "searchText": "volvo xc60 plus t8 awd plug in hybrid dark elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 452 140 170 6 620 778 7 944 934 21 000 7 965 934 1 969 cc 145 hp plug in hybrid otomatik"
     },
     {
-      "id": "volvo-xc60-ultra-t8-awd-plug-in-hybrid,-dark-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.545.640-170%-6.873.228-8.247.874-16.496-21.000-8.285.369-1.969-cc-145-hp",
+      "id": "volvo-xc60-ultra-t8-awd-plug-in-hybrid,-dark-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.545.640-170%-6.873.228-8.247.874-21.000-8.268.874-1.969-cc-145-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Ultra",
-      "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.545.640   170%   6.873.228   8.247.874   16.496   21.000   8.285.369",
+      "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.545.640   170%   6.873.228   8.247.874   21.000   8.268.874",
       "engine": "1.969 cc 145 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8285369,
-      "priceFormatted": "8.285.369 TL",
-      "searchText": "volvo xc60 ultra t8 awd plug in hybrid dark elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 545 640 170 6 873 228 8 247 874 16 496 21 000 8 285 369 1 969 cc 145 hp plug in hybrid otomatik"
+      "price": 8268874,
+      "priceFormatted": "8.268.874 TL",
+      "searchText": "volvo xc60 ultra t8 awd plug in hybrid dark elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 545 640 170 6 873 228 8 247 874 21 000 8 268 874 1 969 cc 145 hp plug in hybrid otomatik"
     },
     {
-      "id": "volvo-xc60-black-edition-ultra-t8-awd-plug-in-hybrid-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.678.640-170%-7.232.328-8.678.794-17.358-21.000-8.717.151-1.969-cc-145-hp",
+      "id": "volvo-xc60-black-edition-ultra-t8-awd-plug-in-hybrid-elektrik/benzin-1.969-cc.-310+145-hp-8-ileri-geartronic-2.678.640-170%-7.232.328-8.678.794-21.000-8.699.794-1.969-cc-145-hp",
       "brand": "Volvo",
       "brandId": "volvo",
       "model": "XC60 Black Edition Ultra",
-      "trim": "T8 AWD Plug-in hybrid   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.678.640   170%   7.232.328   8.678.794   17.358   21.000   8.717.151",
+      "trim": "T8 AWD Plug-in hybrid   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.678.640   170%   7.232.328   8.678.794   21.000   8.699.794",
       "engine": "1.969 cc 145 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8390880,
-      "priceFormatted": "8.390.880 TL",
-      "searchText": "volvo xc60 black edition ultra t8 awd plug in hybrid elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 678 640 170 7 232 328 8 678 794 17 358 21 000 8 717 151 1 969 cc 145 hp plug in hybrid otomatik"
+      "price": 8374174,
+      "priceFormatted": "8.374.174 TL",
+      "searchText": "volvo xc60 black edition ultra t8 awd plug in hybrid elektrik benzin 1 969 cc 310 145 hp 8 ileri geartronic 2 678 640 170 7 232 328 8 678 794 21 000 8 699 794 1 969 cc 145 hp plug in hybrid otomatik"
     },
     {
       "id": "fiat-egea-sedan-urban-1.6-m.jet-130-hp-gsr*",

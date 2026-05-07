@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-06T01:34:30.068Z",
+  "generatedAt": "2026-05-07T01:34:35.440Z",
   "totalVehicles": 507,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2523,7 +2523,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3364,7 +3364,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3929,7 +3929,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "i20",
@@ -4362,7 +4362,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "E-208",
@@ -4764,7 +4764,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4867,7 +4867,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5077,7 +5077,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5186,10 +5186,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.040.000 TL",
-          "priceNumeric": 2040000,
+          "priceRaw": "2.060.000 TL",
+          "priceNumeric": 2060000,
           "brand": "Citroën",
-          "priceListNumeric": 2040000,
+          "priceListNumeric": 2060000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5202,10 +5202,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.140.000 TL",
-          "priceNumeric": 2140000,
+          "priceRaw": "2.170.000 TL",
+          "priceNumeric": 2170000,
           "brand": "Citroën",
-          "priceListNumeric": 2140000,
+          "priceListNumeric": 2170000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5231,10 +5231,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.040.000 TL",
-          "priceNumeric": 2040000,
+          "priceRaw": "2.060.000 TL",
+          "priceNumeric": 2060000,
           "brand": "Citroën",
-          "priceListNumeric": 2040000,
+          "priceListNumeric": 2060000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5247,10 +5247,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.140.000 TL",
-          "priceNumeric": 2140000,
+          "priceRaw": "2.170.000 TL",
+          "priceNumeric": 2170000,
           "brand": "Citroën",
-          "priceListNumeric": 2140000,
+          "priceListNumeric": 2170000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5559,7 +5559,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -5572,6 +5572,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,9",
           "otvRate": 90,
+          "monthlyLease": 87031,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5589,6 +5590,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,9",
           "otvRate": 100,
+          "monthlyLease": 100007,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5606,6 +5608,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,7",
           "otvRate": 100,
+          "monthlyLease": 86552,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5623,6 +5626,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,7",
           "otvRate": 100,
+          "monthlyLease": 92341,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5710,6 +5714,7 @@
           "brand": "BMW",
           "fuelConsumption": "7,6",
           "otvRate": 100,
+          "monthlyLease": 96257,
           "powerHP": 170,
           "engineDisplacement": "1.6L"
         },
@@ -5738,6 +5743,7 @@
           "brand": "BMW",
           "fuelConsumption": "7,7",
           "otvRate": 100,
+          "monthlyLease": 209120,
           "powerHP": 170,
           "engineDisplacement": "1.6L"
         },
@@ -5781,6 +5787,7 @@
           "brand": "BMW",
           "fuelConsumption": "7,8",
           "otvRate": 100,
+          "monthlyLease": 175155,
           "powerHP": 170,
           "engineDisplacement": "1.6L"
         },
@@ -5852,6 +5859,7 @@
           "modelYear": 2023,
           "fuelConsumption": "7,0",
           "otvRate": 100,
+          "monthlyLease": 173574,
           "powerHP": 190,
           "powerHPSecondary": 11,
           "engineDisplacement": "1.6L",
@@ -5888,6 +5896,7 @@
           "modelYear": 2023,
           "fuelConsumption": "5,9",
           "otvRate": 170,
+          "monthlyLease": 397080,
           "powerHP": 197,
           "powerHPSecondary": 11,
           "engineDisplacement": "2.0L",
@@ -5926,6 +5935,7 @@
           "modelYear": 2023,
           "fuelConsumption": "17,9",
           "otvRate": 55,
+          "monthlyLease": 172904,
           "powerHP": 218,
           "isElectric": true
         },
@@ -6085,6 +6095,7 @@
           "brand": "BMW",
           "fuelConsumption": "20,0",
           "otvRate": 75,
+          "monthlyLease": 468670,
           "powerHP": 544,
           "isElectric": true,
           "driveType": "AWD"
@@ -6129,6 +6140,7 @@
           "brand": "BMW",
           "fuelConsumption": "2,8",
           "otvRate": 100,
+          "monthlyLease": 101654,
           "powerHP": 136,
           "powerHPSecondary": 109,
           "engineDisplacement": "1.5L",
@@ -6588,7 +6600,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "A 200",
@@ -6839,12 +6851,12 @@
           "engine": "3.0L 585 HP",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "15.892.100 TL",
-          "priceNumeric": 15892100,
+          "priceRaw": "20.839.000 TL",
+          "priceNumeric": 20839000,
           "brand": "Mercedes-Benz",
           "otvRate": 220,
           "modelYear": "2026",
-          "priceListNumeric": 4138568,
+          "priceListNumeric": 5426823,
           "powerHP": 585,
           "engineDisplacement": "3.0L",
           "isHybrid": true,
@@ -6965,7 +6977,7 @@
         {
           "model": "S 450 d 4MATIC L",
           "trim": "Inspiration",
-          "engine": "2.9L 367 HP",
+          "engine": "3.0L 367 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel",
           "priceRaw": "21.035.000 TL",
@@ -6975,7 +6987,7 @@
           "modelYear": "2026",
           "priceListNumeric": 5477865,
           "powerHP": 367,
-          "engineDisplacement": "2.9L",
+          "engineDisplacement": "3.0L",
           "driveType": "AWD"
         },
         {
@@ -7501,6 +7513,21 @@
           "isAMG": true
         },
         {
+          "model": "CLA 200+",
+          "trim": "AMG",
+          "engine": "218 HP",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "4.191.000 TL",
+          "priceNumeric": 4191000,
+          "brand": "Mercedes-Benz",
+          "otvRate": 55,
+          "modelYear": "2026",
+          "priceListNumeric": 2253226,
+          "powerHP": 218,
+          "isElectric": true
+        },
+        {
           "model": "CLA 220 4MATIC",
           "trim": "AMG",
           "engine": "1.5L 190 HP",
@@ -7514,22 +7541,6 @@
           "priceListNumeric": 2030417,
           "powerHP": 190,
           "engineDisplacement": "1.5L",
-          "driveType": "AWD"
-        },
-        {
-          "model": "CLA 350 4MATIC",
-          "trim": "Edition 1 AMG",
-          "engine": "354 HP",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "4.657.600 TL",
-          "priceNumeric": 4657600,
-          "brand": "Mercedes-Benz",
-          "otvRate": 75,
-          "modelYear": "2025",
-          "priceListNumeric": 2217905,
-          "powerHP": 354,
-          "isElectric": true,
           "driveType": "AWD"
         },
         {
@@ -7552,18 +7563,18 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
-          "model": "Puma",
+          "model": "Yeni Puma",
           "trim": "Titanium",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "1.842.100 TL",
-          "priceNumeric": 1842100,
+          "priceRaw": "1.897.100 TL",
+          "priceNumeric": 1897100,
           "brand": "Ford",
-          "priceListNumeric": 1842100,
+          "priceListNumeric": 1897100,
           "modelYear": "2025",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -7571,19 +7582,19 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
-              "price": 24100
+              "price": 24900
             },
             {
               "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
-              "price": 45600
+              "price": 47000
             },
             {
               "name": "16'' Çelik Stepne",
-              "price": 4800
+              "price": 5000
             },
             {
               "name": "Teknoloji Paketi",
-              "price": 57900
+              "price": 59600
             }
           ],
           "powerHP": 125,
@@ -7592,15 +7603,15 @@
           "isHybrid": true
         },
         {
-          "model": "Puma",
+          "model": "Yeni Puma",
           "trim": "Titanium",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.069.700 TL",
-          "priceNumeric": 2069700,
+          "priceRaw": "2.131.500 TL",
+          "priceNumeric": 2131500,
           "brand": "Ford",
-          "priceListNumeric": 2069700,
+          "priceListNumeric": 2131500,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -7608,19 +7619,19 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
-              "price": 26400
+              "price": 27200
             },
             {
               "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
-              "price": 49800
+              "price": 51300
             },
             {
               "name": "16'' Çelik Stepne",
-              "price": 5300
+              "price": 5400
             },
             {
               "name": "Teknoloji Paketi",
-              "price": 63300
+              "price": 77900
             }
           ],
           "powerHP": 125,
@@ -7629,15 +7640,15 @@
           "isHybrid": true
         },
         {
-          "model": "Puma",
+          "model": "Yeni Puma",
           "trim": "ST-Line X",
           "engine": "1.0L EcoBoost 155PS",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.076.700 TL",
-          "priceNumeric": 2076700,
+          "priceRaw": "2.138.700 TL",
+          "priceNumeric": 2138700,
           "brand": "Ford",
-          "priceListNumeric": 2076700,
+          "priceListNumeric": 2138700,
           "modelYear": "2025",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -7645,19 +7656,19 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
-              "price": 24100
+              "price": 24900
             },
             {
               "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
-              "price": 45600
+              "price": 47000
             },
             {
               "name": "16'' Çelik Stepne",
-              "price": 4800
+              "price": 5000
             },
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 63000
+              "price": 64900
             }
           ],
           "powerHP": 155,
@@ -7666,15 +7677,15 @@
           "isHybrid": true
         },
         {
-          "model": "Puma",
+          "model": "Yeni Puma",
           "trim": "ST-Line X",
           "engine": "1.0L EcoBoost 155PS",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.291.000 TL",
-          "priceNumeric": 2291000,
+          "priceRaw": "2.359.500 TL",
+          "priceNumeric": 2359500,
           "brand": "Ford",
-          "priceListNumeric": 2291000,
+          "priceListNumeric": 2359500,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -7682,19 +7693,19 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
-              "price": 26400
+              "price": 27200
             },
             {
               "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
-              "price": 49800
+              "price": 51300
             },
             {
               "name": "16'' Çelik Stepne",
-              "price": 5300
+              "price": 5400
             },
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 68900
+              "price": 71000
             }
           ],
           "powerHP": 155,
@@ -7708,11 +7719,11 @@
           "engine": "1.5L EcoBlue 115PS",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2.641.700 TL",
-          "priceNumeric": 2641700,
+          "priceRaw": "2.720.500 TL",
+          "priceNumeric": 2720500,
           "brand": "Ford",
-          "priceListNumeric": 2780100,
-          "priceCampaignNumeric": 2641700,
+          "priceListNumeric": 2863100,
+          "priceCampaignNumeric": 2720500,
           "modelYear": "2025",
           "origin": "Almanya",
           "vehicleCategory": "Sedan",
@@ -7720,31 +7731,31 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 31500
+              "price": 32400
             },
             {
               "name": "Özel Renk (Manyetik Gri, Fantastik Kırmızı)",
-              "price": 59500
+              "price": 61200
             },
             {
               "name": "Ford Co-Pilot 360 #2",
-              "price": 56000
+              "price": 57600
             },
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 104900
+              "price": 108000
             },
             {
               "name": "Kış Paketi",
-              "price": 27600
+              "price": 28500
             },
             {
               "name": "B&O Müzik Sistemi",
-              "price": 31600
+              "price": 32500
             },
             {
               "name": "Stil Paketi",
-              "price": 63100
+              "price": 65000
             }
           ],
           "powerHP": 115,
@@ -7757,11 +7768,11 @@
           "engine": "1.5L EcoBlue 115PS",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2.776.900 TL",
-          "priceNumeric": 2776900,
+          "priceRaw": "2.859.900 TL",
+          "priceNumeric": 2859900,
           "brand": "Ford",
-          "priceListNumeric": 2922400,
-          "priceCampaignNumeric": 2776900,
+          "priceListNumeric": 3009800,
+          "priceCampaignNumeric": 2859900,
           "modelYear": "2025",
           "origin": "Almanya",
           "vehicleCategory": "Sedan",
@@ -7769,31 +7780,31 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 31500
+              "price": 32400
             },
             {
               "name": "Özel Renk (Manyetik Gri, Fantastik Kırmızı)",
-              "price": 59500
+              "price": 61200
             },
             {
               "name": "Ford Co-Pilot 360 #2",
-              "price": 56000
+              "price": 57600
             },
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 104900
+              "price": 108000
             },
             {
               "name": "Kış Paketi",
-              "price": 27600
+              "price": 28500
             },
             {
               "name": "B&O Müzik Sistemi",
-              "price": 31600
+              "price": 32500
             },
             {
               "name": "Stil Paketi",
-              "price": 63100
+              "price": 65000
             }
           ],
           "powerHP": 115,
@@ -7806,10 +7817,10 @@
           "engine": "1.5L EcoBoost 186PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "2.379.100 TL",
-          "priceNumeric": 2379100,
+          "priceRaw": "2.585.600 TL",
+          "priceNumeric": 2585600,
           "brand": "Ford",
-          "priceListNumeric": 2379100,
+          "priceListNumeric": 2585600,
           "modelYear": "2025",
           "origin": "İspanya",
           "vehicleCategory": "SUV",
@@ -7817,15 +7828,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 25100
+              "price": 25900
             },
             {
               "name": "Özel Renk",
-              "price": 47500
+              "price": 48900
             },
             {
               "name": "Kış Paketi",
-              "price": 33500
+              "price": 34500
             }
           ],
           "powerHP": 186,
@@ -7838,10 +7849,10 @@
           "engine": "1.5L EcoBoost 186PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "2.660.500 TL",
-          "priceNumeric": 2660500,
+          "priceRaw": "2.740.000 TL",
+          "priceNumeric": 2740000,
           "brand": "Ford",
-          "priceListNumeric": 2660500,
+          "priceListNumeric": 2740000,
           "modelYear": "2026",
           "origin": "İspanya",
           "vehicleCategory": "SUV",
@@ -7849,47 +7860,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 26600
+              "price": 27400
             },
             {
               "name": "Özel Renk",
-              "price": 50300
+              "price": 51800
             },
             {
               "name": "Kış Paketi",
-              "price": 35500
-            }
-          ],
-          "powerHP": 186,
-          "engineDisplacement": "1.5L",
-          "engineType": "EcoBoost"
-        },
-        {
-          "model": "Kuga",
-          "trim": "Active X",
-          "engine": "1.5L EcoBoost 186PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "2.938.500 TL",
-          "priceNumeric": 2938500,
-          "brand": "Ford",
-          "priceListNumeric": 2938500,
-          "modelYear": "2025",
-          "origin": "İspanya",
-          "vehicleCategory": "SUV",
-          "emissionStandard": "Euro 6.2",
-          "optionalEquipment": [
-            {
-              "name": "Metalik Boya",
-              "price": 25100
-            },
-            {
-              "name": "Özel Renk",
-              "price": 47500
-            },
-            {
-              "name": "Kış Paketi",
-              "price": 33500
+              "price": 36600
             }
           ],
           "powerHP": 186,
@@ -7906,6 +7885,38 @@
           "priceNumeric": 3026300,
           "brand": "Ford",
           "priceListNumeric": 3026300,
+          "modelYear": "2025",
+          "origin": "İspanya",
+          "vehicleCategory": "SUV",
+          "emissionStandard": "Euro 6.2",
+          "optionalEquipment": [
+            {
+              "name": "Metalik Boya",
+              "price": 25900
+            },
+            {
+              "name": "Özel Renk",
+              "price": 48900
+            },
+            {
+              "name": "Kış Paketi",
+              "price": 34500
+            }
+          ],
+          "powerHP": 186,
+          "engineDisplacement": "1.5L",
+          "engineType": "EcoBoost"
+        },
+        {
+          "model": "Kuga",
+          "trim": "Active X",
+          "engine": "1.5L EcoBoost 186PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "3.116.700 TL",
+          "priceNumeric": 3116700,
+          "brand": "Ford",
+          "priceListNumeric": 3116700,
           "modelYear": "2026",
           "origin": "İspanya",
           "vehicleCategory": "SUV",
@@ -7913,15 +7924,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 26600
+              "price": 27400
             },
             {
               "name": "Özel Renk",
-              "price": 50300
+              "price": 51800
             },
             {
               "name": "Kış Paketi",
-              "price": 35500
+              "price": 36600
             }
           ],
           "powerHP": 186,
@@ -7934,10 +7945,10 @@
           "engine": "1.5L EcoBoost 186PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "3.026.300 TL",
-          "priceNumeric": 3026300,
+          "priceRaw": "3.116.700 TL",
+          "priceNumeric": 3116700,
           "brand": "Ford",
-          "priceListNumeric": 3026300,
+          "priceListNumeric": 3116700,
           "modelYear": "2025",
           "origin": "İspanya",
           "vehicleCategory": "SUV",
@@ -7945,47 +7956,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 25100
+              "price": 25900
             },
             {
               "name": "Özel Renk",
-              "price": 47500
+              "price": 48900
             },
             {
               "name": "Kış Paketi",
-              "price": 33500
-            }
-          ],
-          "powerHP": 186,
-          "engineDisplacement": "1.5L",
-          "engineType": "EcoBoost"
-        },
-        {
-          "model": "Kuga",
-          "trim": "ST-Line X",
-          "engine": "1.5L EcoBoost 186PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "3.209.400 TL",
-          "priceNumeric": 3209400,
-          "brand": "Ford",
-          "priceListNumeric": 3209400,
-          "modelYear": "2025",
-          "origin": "İspanya",
-          "vehicleCategory": "SUV",
-          "emissionStandard": "Euro 6.2",
-          "optionalEquipment": [
-            {
-              "name": "Metalik Boya",
-              "price": 25100
-            },
-            {
-              "name": "Özel Renk",
-              "price": 47500
-            },
-            {
-              "name": "Kış Paketi",
-              "price": 33500
+              "price": 34500
             }
           ],
           "powerHP": 186,
@@ -8002,22 +7981,22 @@
           "priceNumeric": 3305300,
           "brand": "Ford",
           "priceListNumeric": 3305300,
-          "modelYear": "2026",
+          "modelYear": "2025",
           "origin": "İspanya",
           "vehicleCategory": "SUV",
           "emissionStandard": "Euro 6.2",
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 26600
+              "price": 25900
             },
             {
               "name": "Özel Renk",
-              "price": 50300
+              "price": 48900
             },
             {
               "name": "Kış Paketi",
-              "price": 35500
+              "price": 34500
             }
           ],
           "powerHP": 186,
@@ -8025,15 +8004,47 @@
           "engineType": "EcoBoost"
         },
         {
-          "model": "Journey Courier",
+          "model": "Kuga",
+          "trim": "ST-Line X",
+          "engine": "1.5L EcoBoost 186PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "3.404.200 TL",
+          "priceNumeric": 3404200,
+          "brand": "Ford",
+          "priceListNumeric": 3404200,
+          "modelYear": "2026",
+          "origin": "İspanya",
+          "vehicleCategory": "SUV",
+          "emissionStandard": "Euro 6.2",
+          "optionalEquipment": [
+            {
+              "name": "Metalik Boya",
+              "price": 27400
+            },
+            {
+              "name": "Özel Renk",
+              "price": 51800
+            },
+            {
+              "name": "Kış Paketi",
+              "price": 36600
+            }
+          ],
+          "powerHP": 186,
+          "engineDisplacement": "1.5L",
+          "engineType": "EcoBoost"
+        },
+        {
+          "model": "Yeni Journey Courier",
           "trim": "Deluxe",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Manuel",
           "fuel": "Benzin",
-          "priceRaw": "2.257.400 TL",
-          "priceNumeric": 2257400,
+          "priceRaw": "2.324.800 TL",
+          "priceNumeric": 2324800,
           "brand": "Ford",
-          "priceListNumeric": 2257400,
+          "priceListNumeric": 2324800,
           "modelYear": "2025",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8041,15 +8052,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 32600
+              "price": 33500
             },
             {
               "name": "Güvenlik Paketi",
-              "price": 30900
+              "price": 31800
             },
             {
               "name": "Yedek Lastik",
-              "price": 17900
+              "price": 18400
             }
           ],
           "powerHP": 125,
@@ -8057,15 +8068,15 @@
           "engineType": "EcoBoost"
         },
         {
-          "model": "Journey Courier",
+          "model": "Yeni Journey Courier",
           "trim": "Deluxe",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Manuel",
           "fuel": "Benzin",
-          "priceRaw": "2.347.300 TL",
-          "priceNumeric": 2347300,
+          "priceRaw": "2.551.000 TL",
+          "priceNumeric": 2551000,
           "brand": "Ford",
-          "priceListNumeric": 2347300,
+          "priceListNumeric": 2551000,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8073,15 +8084,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 33900
+              "price": 34900
             },
             {
               "name": "Güvenlik Paketi",
-              "price": 32100
+              "price": 33000
             },
             {
               "name": "Yedek Lastik",
-              "price": 18600
+              "price": 19200
             }
           ],
           "powerHP": 125,
@@ -8089,15 +8100,15 @@
           "engineType": "EcoBoost"
         },
         {
-          "model": "Journey Courier",
+          "model": "Yeni Journey Courier",
           "trim": "Titanium",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "2.837.200 TL",
-          "priceNumeric": 2837200,
+          "priceRaw": "2.922.000 TL",
+          "priceNumeric": 2922000,
           "brand": "Ford",
-          "priceListNumeric": 2837200,
+          "priceListNumeric": 2922000,
           "modelYear": "2025",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8105,19 +8116,19 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 32600
+              "price": 33500
             },
             {
               "name": "17\" Alaşım Jant",
-              "price": 32600
+              "price": 33500
             },
             {
               "name": "Gelişmiş Güvenlik Paketi",
-              "price": 112800
+              "price": 116200
             },
             {
               "name": "Isıtmalı Ön Cam",
-              "price": 7800
+              "price": 8100
             }
           ],
           "powerHP": 125,
@@ -8125,15 +8136,15 @@
           "engineType": "EcoBoost"
         },
         {
-          "model": "Journey Courier",
+          "model": "Yeni Journey Courier",
           "trim": "Titanium",
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "2.950.200 TL",
-          "priceNumeric": 2950200,
+          "priceRaw": "3.038.400 TL",
+          "priceNumeric": 3038400,
           "brand": "Ford",
-          "priceListNumeric": 2950200,
+          "priceListNumeric": 3038400,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8141,80 +8152,24 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 33900
+              "price": 34900
             },
             {
               "name": "17\" Alaşım Jant",
-              "price": 33900
+              "price": 34900
             },
             {
               "name": "Gelişmiş Güvenlik Paketi",
-              "price": 117300
+              "price": 120800
             },
             {
               "name": "Isıtmalı Ön Cam",
-              "price": 8200
+              "price": 8400
             }
           ],
           "powerHP": 125,
           "engineDisplacement": "1.0L",
           "engineType": "EcoBoost"
-        },
-        {
-          "model": "Journey Courier BEV",
-          "trim": "Titanium",
-          "engine": "100KW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.062.900 TL",
-          "priceNumeric": 2062900,
-          "brand": "Ford",
-          "priceListNumeric": 2062900,
-          "modelYear": "2025",
-          "origin": "Romanya",
-          "vehicleCategory": "Kombi",
-          "emissionStandard": "-",
-          "optionalEquipment": [
-            {
-              "name": "Metalik Boya",
-              "price": 19800
-            },
-            {
-              "name": "Gelişmiş Güvenlik Paketi",
-              "price": 68400
-            }
-          ],
-          "powerHP": 134,
-          "powerKW": 100,
-          "isElectric": true
-        },
-        {
-          "model": "Journey Courier BEV",
-          "trim": "Titanium",
-          "engine": "100KW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.145.100 TL",
-          "priceNumeric": 2145100,
-          "brand": "Ford",
-          "priceListNumeric": 2145100,
-          "modelYear": "2026",
-          "origin": "Romanya",
-          "vehicleCategory": "Kombi",
-          "emissionStandard": "-",
-          "optionalEquipment": [
-            {
-              "name": "Metalik Boya",
-              "price": 20600
-            },
-            {
-              "name": "Gelişmiş Güvenlik Paketi",
-              "price": 71200
-            }
-          ],
-          "powerHP": 134,
-          "powerKW": 100,
-          "isElectric": true
         },
         {
           "model": "PUMA GEN-E",
@@ -8222,11 +8177,11 @@
           "engine": "123KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "1.937.900 TL",
-          "priceNumeric": 1937900,
+          "priceRaw": "1.976.500 TL",
+          "priceNumeric": 1976500,
           "brand": "Ford",
-          "priceListNumeric": 1977200,
-          "priceCampaignNumeric": 1937900,
+          "priceListNumeric": 2016600,
+          "priceCampaignNumeric": 1976500,
           "modelYear": "2025",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -8234,7 +8189,7 @@
           "optionalEquipment": [
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 41200
+              "price": 42100
             }
           ],
           "powerHP": 165,
@@ -8247,11 +8202,11 @@
           "engine": "123KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "2.116.600 TL",
-          "priceNumeric": 2116600,
+          "priceRaw": "2.158.700 TL",
+          "priceNumeric": 2158700,
           "brand": "Ford",
-          "priceListNumeric": 2159600,
-          "priceCampaignNumeric": 2116600,
+          "priceListNumeric": 2202600,
+          "priceCampaignNumeric": 2158700,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "SUV",
@@ -8259,18 +8214,74 @@
           "optionalEquipment": [
             {
               "name": "Açılabilir Panoramik Cam Tavan",
-              "price": 45100
+              "price": 46000
             }
           ],
           "powerHP": 165,
           "powerKW": 123,
+          "isElectric": true
+        },
+        {
+          "model": "Yeni Journey Courier BEV",
+          "trim": "Titanium",
+          "engine": "100KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.165.600 TL",
+          "priceNumeric": 2165600,
+          "brand": "Ford",
+          "priceListNumeric": 2165600,
+          "modelYear": "2025",
+          "origin": "Romanya",
+          "vehicleCategory": "Kombi",
+          "emissionStandard": "-",
+          "optionalEquipment": [
+            {
+              "name": "Metalik Boya",
+              "price": 20800
+            },
+            {
+              "name": "Gelişmiş Güvenlik Paketi",
+              "price": 71900
+            }
+          ],
+          "powerHP": 134,
+          "powerKW": 100,
+          "isElectric": true
+        },
+        {
+          "model": "Yeni Journey Courier BEV",
+          "trim": "Titanium",
+          "engine": "100KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.251.900 TL",
+          "priceNumeric": 2251900,
+          "brand": "Ford",
+          "priceListNumeric": 2251900,
+          "modelYear": "2026",
+          "origin": "Romanya",
+          "vehicleCategory": "Kombi",
+          "emissionStandard": "-",
+          "optionalEquipment": [
+            {
+              "name": "Metalik Boya",
+              "price": 21600
+            },
+            {
+              "name": "Gelişmiş Güvenlik Paketi",
+              "price": 74700
+            }
+          ],
+          "powerHP": 134,
+          "powerKW": 100,
           "isElectric": true
         }
       ]
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8577,7 +8588,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9053,7 +9064,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9116,7 +9127,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9236,8 +9247,24 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
+        {
+          "model": "Niro EV",
+          "trim": "Elegance",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.299.000 TL",
+          "priceNumeric": 2299000,
+          "brand": "Kia",
+          "priceListNumeric": 1391148.58,
+          "priceCampaignNumeric": 2099000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "isElectric": true
+        },
         {
           "model": "Picanto",
           "trim": "Feel",
@@ -9588,22 +9615,6 @@
           "isElectric": true
         },
         {
-          "model": "Niro EV",
-          "trim": "Elegance",
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.299.000 TL",
-          "priceNumeric": 2299000,
-          "brand": "Kia",
-          "priceListNumeric": 1391148.58,
-          "priceCampaignNumeric": 2099000,
-          "powerKW": 150,
-          "transmissionType": "AT",
-          "modelYear": 2026,
-          "isElectric": true
-        },
-        {
           "model": "EV9",
           "trim": "Prestige",
           "engine": "149 kW",
@@ -9675,16 +9686,16 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "EX40 Black Edition Ultra",
-          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.399.540   55%   3.719.287   4.463.144   8.926   13.000   4.485.071",
+          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.399.540   55%   3.719.287   4.463.144   13.000   4.476.144",
           "engine": "150 kW / 204 hp",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "4.345.292 TL",
-          "priceNumeric": 4345292,
+          "priceRaw": "4.336.644 TL",
+          "priceNumeric": 4336644,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2324540,
@@ -9696,12 +9707,12 @@
         },
         {
           "model": "EC40 Black Edition Ultra",
-          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.448.940   55%   3.795.857   4.555.028   9.110   13.000   4.577.138",
+          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.448.940   55%   3.795.857   4.555.028   13.000   4.568.028",
           "engine": "150 kW / 204 hp",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "4.437.359 TL",
-          "priceNumeric": 4437359,
+          "priceRaw": "4.428.528 TL",
+          "priceNumeric": 4428528,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2373940,
@@ -9713,12 +9724,12 @@
         },
         {
           "model": "XC60 Plus",
-          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.244.140   170%   6.059.178   7.271.014   14.542   21.000   7.306.556",
+          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.244.140   170%   6.059.178   7.271.014   21.000   7.292.014",
           "engine": "1.969 cc 250 hp",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "7.306.556 TL",
-          "priceNumeric": 7306556,
+          "priceRaw": "7.292.014 TL",
+          "priceNumeric": 7292014,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2244140,
@@ -9730,12 +9741,12 @@
         },
         {
           "model": "XC60 Ultra",
-          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.337.640   170%   6.311.628   7.573.954   15.148   21.000   7.610.102",
+          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.337.640   170%   6.311.628   7.573.954   21.000   7.594.954",
           "engine": "1.969 cc 250 hp",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "7.610.102 TL",
-          "priceNumeric": 7610102,
+          "priceRaw": "7.594.954 TL",
+          "priceNumeric": 7594954,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2337640,
@@ -9747,12 +9758,12 @@
         },
         {
           "model": "XC60 Black Edition Ultra",
-          "trim": "B5 AWD Mild hybrid   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.470.640   170%   6.670.728   8.004.874   16.010   21.000   8.041.883",
+          "trim": "B5 AWD Mild hybrid   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.470.640   170%   6.670.728   8.004.874   21.000   8.025.874",
           "engine": "1.969 cc 250 hp",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "7.715.612 TL",
-          "priceNumeric": 7715612,
+          "priceRaw": "7.700.254 TL",
+          "priceNumeric": 7700254,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2370140,
@@ -9764,12 +9775,12 @@
         },
         {
           "model": "XC60 Plus",
-          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.452.140   170%   6.620.778   7.944.934   15.890   21.000   7.981.823",
+          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.452.140   170%   6.620.778   7.944.934   21.000   7.965.934",
           "engine": "1.969 cc 145 hp",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hybrid",
-          "priceRaw": "7.981.823 TL",
-          "priceNumeric": 7981823,
+          "priceRaw": "7.965.934 TL",
+          "priceNumeric": 7965934,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2452140,
@@ -9780,12 +9791,12 @@
         },
         {
           "model": "XC60 Ultra",
-          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.545.640   170%   6.873.228   8.247.874   16.496   21.000   8.285.369",
+          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.545.640   170%   6.873.228   8.247.874   21.000   8.268.874",
           "engine": "1.969 cc 145 hp",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hybrid",
-          "priceRaw": "8.285.369 TL",
-          "priceNumeric": 8285369,
+          "priceRaw": "8.268.874 TL",
+          "priceNumeric": 8268874,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2545640,
@@ -9796,12 +9807,12 @@
         },
         {
           "model": "XC60 Black Edition Ultra",
-          "trim": "T8 AWD Plug-in hybrid   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.678.640   170%   7.232.328   8.678.794   17.358   21.000   8.717.151",
+          "trim": "T8 AWD Plug-in hybrid   Elektrik/Benzin   1.969 cc.   310+145 hp   8 ileri Geartronic   2.678.640   170%   7.232.328   8.678.794   21.000   8.699.794",
           "engine": "1.969 cc 145 hp",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hybrid",
-          "priceRaw": "8.390.880 TL",
-          "priceNumeric": 8390880,
+          "priceRaw": "8.374.174 TL",
+          "priceNumeric": 8374174,
           "brand": "Volvo",
           "modelYear": 2026,
           "priceListNumeric": 2578140,
@@ -9814,7 +9825,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-05-06",
+      "date": "2026-05-07",
       "vehicles": [
         {
           "model": "Egea Sedan",

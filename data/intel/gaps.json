@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T01:34:34.287Z",
-  "date": "2026-05-06",
+  "generatedAt": "2026-05-07T01:34:39.812Z",
+  "date": "2026-05-07",
   "summary": {
     "totalSegments": 11,
     "totalGaps": 1002,
@@ -11,7 +11,7 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 105,
-      "avgPrice": 2846008,
+      "avgPrice": 2849049,
       "minPrice": 1273200,
       "maxPrice": 8295200,
       "brands": [
@@ -44,7 +44,7 @@
     {
       "segment": "Sedan-C",
       "totalVehicles": 68,
-      "avgPrice": 7226341,
+      "avgPrice": 7292228,
       "minPrice": 1499900,
       "maxPrice": 38034000,
       "brands": [
@@ -66,7 +66,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 63,
-      "avgPrice": 2691883,
+      "avgPrice": 2706413,
       "minPrice": 544900,
       "maxPrice": 6683000,
       "brands": [
@@ -115,7 +115,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 56,
-      "avgPrice": 3783679,
+      "avgPrice": 3797061,
       "minPrice": 2249000,
       "maxPrice": 9241000,
       "brands": [
@@ -143,7 +143,7 @@
     {
       "segment": "SUV-Large",
       "totalVehicles": 52,
-      "avgPrice": 10111910,
+      "avgPrice": 10110100,
       "minPrice": 3290000,
       "maxPrice": 33191000,
       "brands": [
@@ -251,9 +251,9 @@
     {
       "segment": "Station Wagon",
       "totalVehicles": 4,
-      "avgPrice": 2511515,
+      "avgPrice": 2509307,
       "minPrice": 1754900,
-      "maxPrice": 4437359,
+      "maxPrice": 4428528,
       "brands": [
         "Volvo",
         "Fiat"
@@ -2027,7 +2027,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 1842100,
+      "avgPrice": 1897100,
       "hasGap": true,
       "opportunityScore": 35.78
     },
@@ -2047,7 +2047,7 @@
         "Ford",
         "Honda"
       ],
-      "avgPrice": 2442845,
+      "avgPrice": 2452460,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2595,7 +2595,7 @@
         "Citroën",
         "Ford"
       ],
-      "avgPrice": 1733580,
+      "avgPrice": 1741300,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2614,7 +2614,7 @@
         "Nissan",
         "Kia"
       ],
-      "avgPrice": 2282922,
+      "avgPrice": 2287600,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2630,7 +2630,7 @@
         "Nissan",
         "Volvo"
       ],
-      "avgPrice": 3746246,
+      "avgPrice": 3741922,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2985,14 +2985,14 @@
       "priceRange": "2M-3M",
       "priceRangeMin": 2000000,
       "priceRangeMax": 3000000,
-      "vehicleCount": 7,
+      "vehicleCount": 6,
       "brands": [
         "Volkswagen",
         "Škoda",
         "Ford",
         "Kia"
       ],
-      "avgPrice": 2508157,
+      "avgPrice": 2448617,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3003,11 +3003,12 @@
       "priceRange": "3M-5M",
       "priceRangeMin": 3000000,
       "priceRangeMax": 5000000,
-      "vehicleCount": 4,
+      "vehicleCount": 5,
       "brands": [
-        "Volkswagen"
+        "Volkswagen",
+        "Ford"
       ],
-      "avgPrice": 3647250,
+      "avgPrice": 3525480,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3090,7 +3091,7 @@
         "Volkswagen",
         "Ford"
       ],
-      "avgPrice": 2247900,
+      "avgPrice": 2338267,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3185,7 +3186,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 2709300,
+      "avgPrice": 2790200,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3375,7 +3376,7 @@
         "Citroën",
         "SEAT"
       ],
-      "avgPrice": 2322128,
+      "avgPrice": 2333239,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3937,7 +3938,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 2319200,
+      "avgPrice": 2340150,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4302,14 +4303,14 @@
       "priceRange": "2M-3M",
       "priceRangeMin": 2000000,
       "priceRangeMax": 3000000,
-      "vehicleCount": 10,
+      "vehicleCount": 9,
       "brands": [
         "Renault",
         "Hyundai",
         "Ford",
         "Kia"
       ],
-      "avgPrice": 2573010,
+      "avgPrice": 2564178,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4320,7 +4321,7 @@
       "priceRange": "3M-5M",
       "priceRangeMin": 3000000,
       "priceRangeMax": 5000000,
-      "vehicleCount": 21,
+      "vehicleCount": 22,
       "brands": [
         "Volkswagen",
         "Škoda",
@@ -4329,7 +4330,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 3378524,
+      "avgPrice": 3379586,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7316,7 +7317,7 @@
         "Kia",
         "Volvo"
       ],
-      "avgPrice": 6810324,
+      "avgPrice": 6803889,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7684,7 +7685,7 @@
       "brands": [
         "Volvo"
       ],
-      "avgPrice": 8219357,
+      "avgPrice": 8202994,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9166,7 +9167,7 @@
       "brands": [
         "Mercedes-Benz"
       ],
-      "avgPrice": 4501300,
+      "avgPrice": 4268000,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9182,7 +9183,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 10828300,
+      "avgPrice": 11535000,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -14296,7 +14297,7 @@
       "brands": [
         "Volvo"
       ],
-      "avgPrice": 4437359,
+      "avgPrice": 4428528,
       "hasGap": true,
       "opportunityScore": 19.82
     },
@@ -14638,7 +14639,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 1842100,
+      "avgPrice": 1897100,
       "hasGap": true,
       "opportunityScore": 35.78
     },
