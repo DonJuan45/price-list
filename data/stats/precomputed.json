@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T01:35:47.791Z",
+  "generatedAt": "2026-05-14T01:37:41.868Z",
   "totalVehicles": 507,
   "overallStats": {
-    "avgPrice": 5025287,
+    "avgPrice": 5025322,
     "minPrice": 544900,
     "maxPrice": 38034000,
     "medianPrice": 3080000
@@ -131,10 +131,10 @@
     {
       "name": "SEAT",
       "vehicleCount": 8,
-      "avgPrice": 2242950,
+      "avgPrice": 2245200,
       "minPrice": 1647150,
       "maxPrice": 2930150,
-      "medianPrice": 2106000
+      "medianPrice": 2115000
     },
     {
       "name": "Volvo",
@@ -178,7 +178,7 @@
       "fuel": "Hibrit",
       "count": 66,
       "percentage": 13,
-      "avgPrice": 3134086
+      "avgPrice": 3134359
     },
     {
       "fuel": "Dizel",
@@ -222,7 +222,7 @@
       "transmission": "DSG",
       "count": 83,
       "percentage": 16.4,
-      "avgPrice": 3906108
+      "avgPrice": 3906325
     },
     {
       "transmission": "Manuel",

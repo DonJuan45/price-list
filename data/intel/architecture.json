@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T01:35:51.505Z",
-  "date": "2026-05-13",
+  "generatedAt": "2026-05-14T01:37:46.145Z",
+  "date": "2026-05-14",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -7237,8 +7237,8 @@
       "trims": [
         {
           "trim": "Style",
-          "price": 2244000,
-          "priceFormatted": "2.244.000 TL",
+          "price": 2262000,
+          "priceFormatted": "2.262.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.5 eTSI 116 PS",
@@ -7246,8 +7246,8 @@
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 2244000,
-      "topPrice": 2244000,
+      "basePrice": 2262000,
+      "topPrice": 2262000,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -10282,16 +10282,6 @@
           "trimCount": 5
         },
         {
-          "brand": "SEAT",
-          "brandId": "seat",
-          "model": "LEON",
-          "basePrice": 2244000,
-          "topPrice": 2244000,
-          "basePriceFormatted": "₺2.244.000",
-          "topPriceFormatted": "₺2.244.000",
-          "trimCount": 1
-        },
-        {
           "brand": "Volkswagen",
           "brandId": "volkswagen",
           "model": "Polo",
@@ -10299,6 +10289,16 @@
           "topPrice": 2252000,
           "basePriceFormatted": "₺2.252.000",
           "topPriceFormatted": "₺2.252.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "SEAT",
+          "brandId": "seat",
+          "model": "LEON",
+          "basePrice": 2262000,
+          "topPrice": 2262000,
+          "basePriceFormatted": "₺2.262.000",
+          "topPriceFormatted": "₺2.262.000",
           "trimCount": 1
         },
         {
@@ -10352,8 +10352,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 2485741,
-      "avgTopPrice": 2719447
+      "avgBasePrice": 2486800,
+      "avgTopPrice": 2720506
     },
     {
       "segment": "MPV",

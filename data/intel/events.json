@@ -1,22 +1,42 @@
 {
-  "generatedAt": "2026-05-13T01:35:50.965Z",
-  "date": "2026-05-13",
-  "previousDate": "2026-05-12",
+  "generatedAt": "2026-05-14T01:37:45.358Z",
+  "date": "2026-05-14",
+  "previousDate": "2026-05-13",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-05-13",
-    "totalDays": 106
+    "end": "2026-05-14",
+    "totalDays": 107
   },
   "summary": {
-    "totalEvents": 1611,
+    "totalEvents": 1612,
     "newVehicles": 332,
     "removedVehicles": 357,
-    "priceIncreases": 775,
+    "priceIncreases": 776,
     "priceDecreases": 147,
-    "avgPriceChange": 97112,
+    "avgPriceChange": 97027,
     "avgPriceChangePercent": 1.59
   },
   "events": [
+    {
+      "id": "seat-leon-style-1.5-etsi-116-ps-price_increase-2026-05-14",
+      "type": "price_increase",
+      "vehicleId": "seat-leon-style-1.5-etsi-116-ps",
+      "brand": "SEAT",
+      "brandId": "seat",
+      "model": "LEON",
+      "trim": "Style",
+      "engine": "1.5 eTSI 116 PS",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik (DSG)",
+      "oldPrice": 2244000,
+      "newPrice": 2262000,
+      "oldPriceFormatted": "2.244.000 TL",
+      "newPriceFormatted": "2.262.000 TL",
+      "priceChange": 18000,
+      "priceChangePercent": 0.8,
+      "date": "2026-05-14",
+      "previousDate": "2026-05-13"
+    },
     {
       "id": "renault-duster-evolution-evolution-eco-g-120-hp-new-2026-05-13",
       "type": "new",
@@ -29263,10 +29283,10 @@
       {
         "id": "seat",
         "name": "SEAT",
-        "changeCount": 25,
-        "avgChange": 51513,
-        "avgChangePercent": 2.33,
-        "increaseCount": 17,
+        "changeCount": 26,
+        "avgChange": 50224,
+        "avgChangePercent": 2.27,
+        "increaseCount": 18,
         "decreaseCount": 8
       },
       {
