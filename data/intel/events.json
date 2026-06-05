@@ -1,22 +1,82 @@
 {
-  "generatedAt": "2026-06-04T01:52:21.415Z",
-  "date": "2026-06-04",
-  "previousDate": "2026-06-03",
+  "generatedAt": "2026-06-05T01:43:04.649Z",
+  "date": "2026-06-05",
+  "previousDate": "2026-06-04",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-06-04",
-    "totalDays": 128
+    "end": "2026-06-05",
+    "totalDays": 129
   },
   "summary": {
-    "totalEvents": 1785,
+    "totalEvents": 1788,
     "newVehicles": 359,
     "removedVehicles": 380,
-    "priceIncreases": 896,
+    "priceIncreases": 899,
     "priceDecreases": 150,
-    "avgPriceChange": 98007,
-    "avgPriceChangePercent": 1.7
+    "avgPriceChange": 98061,
+    "avgPriceChangePercent": 1.71
   },
   "events": [
+    {
+      "id": "peugeot-2008-allure-1.2-hybrid-145-hp-price_increase-2026-06-05",
+      "type": "price_increase",
+      "vehicleId": "peugeot-2008-allure-1.2-hybrid-145-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "2008",
+      "trim": "Allure",
+      "engine": "1.2 Hybrid 145 HP",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "oldPrice": 2329000,
+      "newPrice": 2353000,
+      "oldPriceFormatted": "2.329.000 TL",
+      "newPriceFormatted": "2.353.000 TL",
+      "priceChange": 24000,
+      "priceChangePercent": 1.03,
+      "date": "2026-06-05",
+      "previousDate": "2026-06-04"
+    },
+    {
+      "id": "peugeot-408-allure-1.2-hybrid-145-hp-price_increase-2026-06-05",
+      "type": "price_increase",
+      "vehicleId": "peugeot-408-allure-1.2-hybrid-145-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "408",
+      "trim": "Allure",
+      "engine": "1.2 Hybrid 145 HP",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "oldPrice": 2350000,
+      "newPrice": 2654444,
+      "oldPriceFormatted": "2.350.000 TL",
+      "newPriceFormatted": "2.654.444 TL",
+      "priceChange": 304444,
+      "priceChangePercent": 12.96,
+      "date": "2026-06-05",
+      "previousDate": "2026-06-04"
+    },
+    {
+      "id": "peugeot-partner-van-comfort-1.5-bluehdi-130-hp-price_increase-2026-06-05",
+      "type": "price_increase",
+      "vehicleId": "peugeot-partner-van-comfort-1.5-bluehdi-130-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "Partner Van",
+      "trim": "Comfort",
+      "engine": "1.5 BlueHDi 130 HP",
+      "fuel": "Dizel",
+      "transmission": "Otomatik",
+      "oldPrice": 1458000,
+      "newPrice": 1480000,
+      "oldPriceFormatted": "1.458.000 TL",
+      "newPriceFormatted": "1.480.000 TL",
+      "priceChange": 22000,
+      "priceChangePercent": 1.51,
+      "date": "2026-06-05",
+      "previousDate": "2026-06-04"
+    },
     {
       "id": "toyota-proace-cargo-2.2-d-150-hp-flame-a/t-2.2-new-2026-06-04",
       "type": "new",
@@ -32478,6 +32538,15 @@
         "decreaseCount": 1
       },
       {
+        "id": "peugeot",
+        "name": "Peugeot",
+        "changeCount": 44,
+        "avgChange": 90317,
+        "avgChangePercent": 3.61,
+        "increaseCount": 27,
+        "decreaseCount": 17
+      },
+      {
         "id": "volkswagen",
         "name": "Volkswagen",
         "changeCount": 42,
@@ -32485,15 +32554,6 @@
         "avgChangePercent": 3.22,
         "increaseCount": 42,
         "decreaseCount": 0
-      },
-      {
-        "id": "peugeot",
-        "name": "Peugeot",
-        "changeCount": 41,
-        "avgChange": 88378,
-        "avgChangePercent": 3.5,
-        "increaseCount": 24,
-        "decreaseCount": 17
       },
       {
         "id": "hyundai",
@@ -32874,6 +32934,26 @@
         "previousDate": "2026-04-01"
       },
       {
+        "id": "peugeot-408-allure-1.2-hybrid-145-hp-price_increase-2026-06-05",
+        "type": "price_increase",
+        "vehicleId": "peugeot-408-allure-1.2-hybrid-145-hp",
+        "brand": "Peugeot",
+        "brandId": "peugeot",
+        "model": "408",
+        "trim": "Allure",
+        "engine": "1.2 Hybrid 145 HP",
+        "fuel": "Hibrit",
+        "transmission": "Otomatik",
+        "oldPrice": 2350000,
+        "newPrice": 2654444,
+        "oldPriceFormatted": "2.350.000 TL",
+        "newPriceFormatted": "2.654.444 TL",
+        "priceChange": 304444,
+        "priceChangePercent": 12.96,
+        "date": "2026-06-05",
+        "previousDate": "2026-06-04"
+      },
+      {
         "id": "toyota-proace-city-cargo-1.5-d-100-hp-vision-1.5-price_increase-2026-06-02",
         "type": "price_increase",
         "vehicleId": "toyota-proace-city-cargo-1.5-d-100-hp-vision-1.5",
@@ -33132,26 +33212,6 @@
         "priceChangePercent": 10.14,
         "date": "2026-03-02",
         "previousDate": "2026-03-01"
-      },
-      {
-        "id": "mercedes-mercedes-amg-gt-43-performance-2.0l-421-hp-price_increase-2026-04-02",
-        "type": "price_increase",
-        "vehicleId": "mercedes-benz-mercedes-amg-gt-43-performance-2.0l-421-hp",
-        "brand": "Mercedes-Benz",
-        "brandId": "mercedes",
-        "model": "Mercedes-AMG GT 43",
-        "trim": "Performance",
-        "engine": "2.0L 421 HP",
-        "fuel": "Benzin",
-        "transmission": "Otomatik",
-        "oldPrice": 15140000,
-        "newPrice": 16675000,
-        "oldPriceFormatted": "15.140.000 TL",
-        "newPriceFormatted": "16.675.000 TL",
-        "priceChange": 1535000,
-        "priceChangePercent": 10.14,
-        "date": "2026-04-02",
-        "previousDate": "2026-04-01"
       }
     ],
     "topDecreases": [

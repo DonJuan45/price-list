@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T01:52:22.075Z",
-  "date": "2026-06-04",
+  "generatedAt": "2026-06-05T01:43:05.292Z",
+  "date": "2026-06-05",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -2722,8 +2722,8 @@
       "trims": [
         {
           "trim": "Allure",
-          "price": 2329000,
-          "priceFormatted": "2.329.000 TL",
+          "price": 2353000,
+          "priceFormatted": "2.353.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.2 Hybrid 145 HP",
@@ -2734,17 +2734,17 @@
           "trim": "Gt",
           "price": 2566500,
           "priceFormatted": "2.566.500 TL",
-          "stepFromBase": 237500,
-          "stepPercent": 10.197509660798627,
+          "stepFromBase": 213500,
+          "stepPercent": 9.073523161920951,
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 2329000,
+      "basePrice": 2353000,
       "topPrice": 2566500,
-      "priceSpread": 237500,
-      "priceSpreadPercent": 10.2,
+      "priceSpread": 213500,
+      "priceSpreadPercent": 9.07,
       "trimCount": 2
     },
     {
@@ -2788,8 +2788,8 @@
       "trims": [
         {
           "trim": "Allure",
-          "price": 2270000,
-          "priceFormatted": "2.270.000 TL",
+          "price": 2330000,
+          "priceFormatted": "2.330.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.2 Hybrid 145 HP",
@@ -2798,10 +2798,10 @@
         },
         {
           "trim": "Allure",
-          "price": 2350000,
-          "priceFormatted": "2.350.000 TL",
-          "stepFromBase": 80000,
-          "stepPercent": 3.524229074889868,
+          "price": 2654444,
+          "priceFormatted": "2.654.444 TL",
+          "stepFromBase": 324444,
+          "stepPercent": 13.924635193133048,
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
@@ -2810,17 +2810,17 @@
           "trim": "Gt",
           "price": 2745000,
           "priceFormatted": "2.745.000 TL",
-          "stepFromBase": 475000,
-          "stepPercent": 20.92511013215859,
+          "stepFromBase": 415000,
+          "stepPercent": 17.811158798283262,
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 2270000,
+      "basePrice": 2330000,
       "topPrice": 2745000,
-      "priceSpread": 475000,
-      "priceSpreadPercent": 20.93,
+      "priceSpread": 415000,
+      "priceSpreadPercent": 17.81,
       "trimCount": 3
     },
     {
@@ -3016,19 +3016,19 @@
         },
         {
           "trim": "Comfort",
-          "price": 1458000,
-          "priceFormatted": "1.458.000 TL",
-          "stepFromBase": 75000,
-          "stepPercent": 5.42299349240781,
+          "price": 1480000,
+          "priceFormatted": "1.480.000 TL",
+          "stepFromBase": 97000,
+          "stepPercent": 7.013738250180766,
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         }
       ],
       "basePrice": 1383000,
-      "topPrice": 1458000,
-      "priceSpread": 75000,
-      "priceSpreadPercent": 5.42,
+      "topPrice": 1480000,
+      "priceSpread": 97000,
+      "priceSpreadPercent": 7.01,
       "trimCount": 2
     },
     {
@@ -8480,16 +8480,6 @@
           "trimCount": 2
         },
         {
-          "brand": "Peugeot",
-          "brandId": "peugeot",
-          "model": "408",
-          "basePrice": 2270000,
-          "topPrice": 2745000,
-          "basePriceFormatted": "₺2.270.000",
-          "topPriceFormatted": "₺2.745.000",
-          "trimCount": 3
-        },
-        {
           "brand": "Hyundai",
           "brandId": "hyundai",
           "model": "KONA",
@@ -8518,6 +8508,16 @@
           "basePriceFormatted": "₺2.325.000",
           "topPriceFormatted": "₺3.055.000",
           "trimCount": 4
+        },
+        {
+          "brand": "Peugeot",
+          "brandId": "peugeot",
+          "model": "408",
+          "basePrice": 2330000,
+          "topPrice": 2745000,
+          "basePriceFormatted": "₺2.330.000",
+          "topPriceFormatted": "₺2.745.000",
+          "trimCount": 3
         },
         {
           "brand": "Toyota",
@@ -9400,7 +9400,7 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 7994819,
+      "avgBasePrice": 7995303,
       "avgTopPrice": 8245512
     },
     {
@@ -9510,9 +9510,9 @@
           "brand": "Peugeot",
           "brandId": "peugeot",
           "model": "2008",
-          "basePrice": 2329000,
+          "basePrice": 2353000,
           "topPrice": 2566500,
-          "basePriceFormatted": "₺2.329.000",
+          "basePriceFormatted": "₺2.353.000",
           "topPriceFormatted": "₺2.566.500",
           "trimCount": 2
         },
@@ -9837,7 +9837,7 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5766950,
+      "avgBasePrice": 5767508,
       "avgTopPrice": 6231358
     },
     {
@@ -10459,9 +10459,9 @@
           "brandId": "peugeot",
           "model": "Partner Van",
           "basePrice": 1383000,
-          "topPrice": 1458000,
+          "topPrice": 1480000,
           "basePriceFormatted": "₺1.383.000",
-          "topPriceFormatted": "₺1.458.000",
+          "topPriceFormatted": "₺1.480.000",
           "trimCount": 2
         },
         {
@@ -10526,13 +10526,13 @@
         }
       ],
       "avgBasePrice": 1756925,
-      "avgTopPrice": 2008525
+      "avgTopPrice": 2011275
     }
   ],
   "summary": {
     "totalModels": 234,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 357495,
-    "avgPriceSpreadPercent": 11.7
+    "avgPriceSpread": 357230,
+    "avgPriceSpreadPercent": 11.69
   }
 }

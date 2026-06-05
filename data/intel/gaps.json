@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T01:52:22.295Z",
-  "date": "2026-06-04",
+  "generatedAt": "2026-06-05T01:43:05.510Z",
+  "date": "2026-06-05",
   "summary": {
     "totalSegments": 11,
     "totalGaps": 1002,
@@ -11,7 +11,7 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 106,
-      "avgPrice": 2884924,
+      "avgPrice": 2885150,
       "minPrice": 1314900,
       "maxPrice": 8379900,
       "brands": [
@@ -66,7 +66,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 63,
-      "avgPrice": 2719761,
+      "avgPrice": 2725546,
       "minPrice": 544900,
       "maxPrice": 6683000,
       "brands": [
@@ -221,7 +221,7 @@
     {
       "segment": "MPV",
       "totalVehicles": 23,
-      "avgPrice": 1871630,
+      "avgPrice": 1872587,
       "minPrice": 1383000,
       "maxPrice": 3490000,
       "brands": [
@@ -2049,7 +2049,7 @@
         "Ford",
         "Honda"
       ],
-      "avgPrice": 2431326,
+      "avgPrice": 2432589,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3380,7 +3380,7 @@
         "Citroën",
         "SEAT"
       ],
-      "avgPrice": 2335239,
+      "avgPrice": 2375733,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9689,7 +9689,7 @@
         "Peugeot",
         "Citroën"
       ],
-      "avgPrice": 1467500,
+      "avgPrice": 1478500,
       "hasGap": false,
       "opportunityScore": 0
     },
