@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T11:40:28.911Z",
+  "generatedAt": "2026-06-06T12:03:58.487Z",
   "date": "2026-06-06",
   "ladders": [
     {
@@ -7914,61 +7914,71 @@
       "brandId": "fiat",
       "trims": [
         {
+          "trim": "Easy",
+          "price": 1499900,
+          "priceFormatted": "1.499.900 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.6",
+          "transmission": "Manuel",
+          "fuel": "Dizel"
+        },
+        {
           "trim": "Urban",
           "price": 1499900,
           "priceFormatted": "1.499.900 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "1.6 M.Jet 130 HP GSR*",
+          "engine": "1.6",
           "transmission": "Manuel",
           "fuel": "Dizel"
         },
         {
           "trim": "Lounge",
-          "price": 1559900,
-          "priceFormatted": "1.559.900 TL",
-          "stepFromBase": 60000,
-          "stepPercent": 4.00026668444563,
-          "engine": "1.6 M.Jet 130 HP GSR*",
+          "price": 1574900,
+          "priceFormatted": "1.574.900 TL",
+          "stepFromBase": 75000,
+          "stepPercent": 5.0003333555570375,
+          "engine": "1.6",
           "transmission": "Manuel",
           "fuel": "Dizel"
         },
         {
           "trim": "Easy",
-          "price": 1679900,
-          "priceFormatted": "1.679.900 TL",
-          "stepFromBase": 180000,
-          "stepPercent": 12.000800053336889,
-          "engine": "1.6 M.Jet 130 HP GSR*",
+          "price": 1694900,
+          "priceFormatted": "1.694.900 TL",
+          "stepFromBase": 195000,
+          "stepPercent": 13.000866724448295,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         },
         {
           "trim": "Urban",
-          "price": 1729900,
-          "priceFormatted": "1.729.900 TL",
-          "stepFromBase": 230000,
-          "stepPercent": 15.334355623708248,
-          "engine": "1.6 M.Jet 130 HP DCT GSR*",
+          "price": 1744900,
+          "priceFormatted": "1.744.900 TL",
+          "stepFromBase": 245000,
+          "stepPercent": 16.334422294819657,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         },
         {
           "trim": "Lounge",
-          "price": 1789900,
-          "priceFormatted": "1.789.900 TL",
-          "stepFromBase": 290000,
-          "stepPercent": 19.334622308153875,
-          "engine": "1.6 M.Jet 130 HP DCT GSR*",
+          "price": 1798900,
+          "priceFormatted": "1.798.900 TL",
+          "stepFromBase": 299000,
+          "stepPercent": 19.934662310820723,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         }
       ],
       "basePrice": 1499900,
-      "topPrice": 1789900,
-      "priceSpread": 290000,
-      "priceSpreadPercent": 19.33,
-      "trimCount": 5
+      "topPrice": 1798900,
+      "priceSpread": 299000,
+      "priceSpreadPercent": 19.93,
+      "trimCount": 6
     },
     {
       "id": "fiat-egea-cross",
@@ -7977,94 +7987,84 @@
       "brandId": "fiat",
       "trims": [
         {
-          "trim": "Urban",
-          "price": 1754900,
-          "priceFormatted": "1.754.900 TL",
+          "trim": "Street",
+          "price": 1779900,
+          "priceFormatted": "1.779.900 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "1.6 M.Jet 130 HP DCT GSR",
+          "engine": "1.6",
+          "transmission": "Otomatik",
+          "fuel": "Dizel"
+        },
+        {
+          "trim": "Urban",
+          "price": 1779900,
+          "priceFormatted": "1.779.900 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         },
         {
           "trim": "Lounge",
-          "price": 1863900,
-          "priceFormatted": "1.863.900 TL",
+          "price": 1888900,
+          "priceFormatted": "1.888.900 TL",
           "stepFromBase": 109000,
-          "stepPercent": 6.211180124223603,
-          "engine": "1.6 M.Jet 130 HP DCT GSR",
+          "stepPercent": 6.123939547165571,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         },
         {
           "trim": "Limited",
-          "price": 1989900,
-          "priceFormatted": "1.989.900 TL",
-          "stepFromBase": 235000,
-          "stepPercent": 13.39107641461052,
-          "engine": "1.6 M.Jet 130 HP DCT GSR",
+          "price": 2019900,
+          "priceFormatted": "2.019.900 TL",
+          "stepFromBase": 240000,
+          "stepPercent": 13.48390359008933,
+          "engine": "1.6",
           "transmission": "Otomatik",
           "fuel": "Dizel"
         }
       ],
-      "basePrice": 1754900,
-      "topPrice": 1989900,
-      "priceSpread": 235000,
-      "priceSpreadPercent": 13.39,
-      "trimCount": 3
+      "basePrice": 1779900,
+      "topPrice": 2019900,
+      "priceSpread": 240000,
+      "priceSpreadPercent": 13.48,
+      "trimCount": 4
     },
     {
-      "id": "fiat-grande-panda",
-      "model": "Grande Panda",
+      "id": "fiat-grande-panda-elektrikli",
+      "model": "Grande Panda Elektrikli",
       "brand": "Fiat",
       "brandId": "fiat",
       "trims": [
         {
           "trim": "La Prima",
-          "price": 1469900,
-          "priceFormatted": "1.469.900 TL",
+          "price": 1390000,
+          "priceFormatted": "1.390.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "44 kWh",
+          "engine": "83 kW/113 HP 44 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         },
         {
           "trim": "La Prima",
-          "price": 1514900,
-          "priceFormatted": "1.514.900 TL",
-          "stepFromBase": 45000,
-          "stepPercent": 3.0614327505272465,
-          "engine": "44 kWh",
+          "price": 1440000,
+          "priceFormatted": "1.440.000 TL",
+          "stepFromBase": 50000,
+          "stepPercent": 3.597122302158273,
+          "engine": "83 kW/113 HP 44 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
-        },
-        {
-          "trim": "Icon",
-          "price": 1669900,
-          "priceFormatted": "1.669.900 TL",
-          "stepFromBase": 200000,
-          "stepPercent": 13.606367780121097,
-          "engine": "1.2 MHEV 110HP eDCT",
-          "transmission": "Otomatik",
-          "fuel": "Hafif Hibrit"
-        },
-        {
-          "trim": "La Prima",
-          "price": 1789900,
-          "priceFormatted": "1.789.900 TL",
-          "stepFromBase": 320000,
-          "stepPercent": 21.770188448193757,
-          "engine": "1.2 MHEV 110HP eDCT",
-          "transmission": "Otomatik",
-          "fuel": "Hafif Hibrit"
         }
       ],
-      "basePrice": 1469900,
-      "topPrice": 1789900,
-      "priceSpread": 320000,
-      "priceSpreadPercent": 21.77,
-      "trimCount": 4
+      "basePrice": 1390000,
+      "topPrice": 1440000,
+      "priceSpread": 50000,
+      "priceSpreadPercent": 3.6,
+      "trimCount": 2
     },
     {
       "id": "fiat-topolino",
@@ -8074,50 +8074,63 @@
       "trims": [
         {
           "trim": "Topolino",
-          "price": 544900,
-          "priceFormatted": "544.900 TL",
+          "price": 594900,
+          "priceFormatted": "594.900 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "6 kW/8 HP - 5.5kWh",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Topolino",
-          "price": 584900,
-          "priceFormatted": "584.900 TL",
-          "stepFromBase": 40000,
-          "stepPercent": 7.340796476417691,
-          "engine": "6 kW/8 HP - 5.5kWh",
+          "engine": "6 kW/8 HP 5.4 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         },
         {
           "trim": "Topolino Plus",
-          "price": 589900,
-          "priceFormatted": "589.900 TL",
-          "stepFromBase": 45000,
-          "stepPercent": 8.258396035969904,
-          "engine": "6 kW/8 HP - 5.5kWh",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Topolino Plus",
-          "price": 629900,
-          "priceFormatted": "629.900 TL",
-          "stepFromBase": 85000,
-          "stepPercent": 15.599192512387594,
-          "engine": "6 kW/8 HP - 5.5kWh",
+          "price": 619900,
+          "priceFormatted": "619.900 TL",
+          "stepFromBase": 25000,
+          "stepPercent": 4.202386955790889,
+          "engine": "6 kW/8 HP 5.4 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 544900,
-      "topPrice": 629900,
-      "priceSpread": 85000,
-      "priceSpreadPercent": 15.6,
-      "trimCount": 4
+      "basePrice": 594900,
+      "topPrice": 619900,
+      "priceSpread": 25000,
+      "priceSpreadPercent": 4.2,
+      "trimCount": 2
+    },
+    {
+      "id": "fiat-grande-panda-hibrit",
+      "model": "Grande Panda Hibrit",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "trims": [
+        {
+          "trim": "Icon",
+          "price": 1669900,
+          "priceFormatted": "1.669.900 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.2",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "La Prima",
+          "price": 1789900,
+          "priceFormatted": "1.789.900 TL",
+          "stepFromBase": 120000,
+          "stepPercent": 7.186059045451823,
+          "engine": "1.2",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        }
+      ],
+      "basePrice": 1669900,
+      "topPrice": 1789900,
+      "priceSpread": 120000,
+      "priceSpreadPercent": 7.19,
+      "trimCount": 2
     },
     {
       "id": "fiat-600",
@@ -8131,7 +8144,7 @@
           "priceFormatted": "1.834.900 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "54 kWh",
+          "engine": "115 kW/156 HP 54 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
@@ -8149,47 +8162,27 @@
       "brandId": "fiat",
       "trims": [
         {
-          "trim": "3+1",
-          "price": 2093900,
-          "priceFormatted": "2.093.900 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "87 kW/118 HP - 42kWh",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Cabrio",
+          "trim": "La Prima",
           "price": 2149900,
           "priceFormatted": "2.149.900 TL",
-          "stepFromBase": 56000,
-          "stepPercent": 2.6744352643392713,
-          "engine": "87 kW/118 HP - 42kWh",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "87 kW/118 HP 42 kWh",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 2093900,
+      "basePrice": 2149900,
       "topPrice": 2149900,
-      "priceSpread": 56000,
-      "priceSpreadPercent": 2.67,
-      "trimCount": 2
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
     }
   ],
   "crossBrandComparison": [
     {
       "segment": "Other",
       "models": [
-        {
-          "brand": "Fiat",
-          "brandId": "fiat",
-          "model": "Topolino",
-          "basePrice": 544900,
-          "topPrice": 629900,
-          "basePriceFormatted": "₺544.900",
-          "topPriceFormatted": "₺629.900",
-          "trimCount": 4
-        },
         {
           "brand": "Citroën",
           "brandId": "citroen",
@@ -8198,6 +8191,16 @@
           "topPrice": 600000,
           "basePriceFormatted": "₺585.000",
           "topPriceFormatted": "₺600.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Fiat",
+          "brandId": "fiat",
+          "model": "Topolino",
+          "basePrice": 594900,
+          "topPrice": 619900,
+          "basePriceFormatted": "₺594.900",
+          "topPriceFormatted": "₺619.900",
           "trimCount": 2
         },
         {
@@ -8231,16 +8234,6 @@
           "trimCount": 2
         },
         {
-          "brand": "Fiat",
-          "brandId": "fiat",
-          "model": "Grande Panda",
-          "basePrice": 1469900,
-          "topPrice": 1789900,
-          "basePriceFormatted": "₺1.469.900",
-          "topPriceFormatted": "₺1.789.900",
-          "trimCount": 4
-        },
-        {
           "brand": "Hyundai",
           "brandId": "hyundai",
           "model": "INSTER",
@@ -8259,6 +8252,16 @@
           "basePriceFormatted": "₺1.535.000",
           "topPriceFormatted": "₺2.119.000",
           "trimCount": 3
+        },
+        {
+          "brand": "Fiat",
+          "brandId": "fiat",
+          "model": "Grande Panda Hibrit",
+          "basePrice": 1669900,
+          "topPrice": 1789900,
+          "basePriceFormatted": "₺1.669.900",
+          "topPriceFormatted": "₺1.789.900",
+          "trimCount": 2
         },
         {
           "brand": "Dacia",
@@ -8304,11 +8307,11 @@
           "brand": "Fiat",
           "brandId": "fiat",
           "model": "Egea Cross",
-          "basePrice": 1754900,
-          "topPrice": 1989900,
-          "basePriceFormatted": "₺1.754.900",
-          "topPriceFormatted": "₺1.989.900",
-          "trimCount": 3
+          "basePrice": 1779900,
+          "topPrice": 2019900,
+          "basePriceFormatted": "₺1.779.900",
+          "topPriceFormatted": "₺2.019.900",
+          "trimCount": 4
         },
         {
           "brand": "Toyota",
@@ -8441,16 +8444,6 @@
           "trimCount": 1
         },
         {
-          "brand": "Fiat",
-          "brandId": "fiat",
-          "model": "500e",
-          "basePrice": 2093900,
-          "topPrice": 2149900,
-          "basePriceFormatted": "₺2.093.900",
-          "topPriceFormatted": "₺2.149.900",
-          "trimCount": 2
-        },
-        {
           "brand": "Škoda",
           "brandId": "skoda",
           "model": "Škoda Kamiq",
@@ -8468,6 +8461,16 @@
           "topPrice": 2101000,
           "basePriceFormatted": "₺2.101.000",
           "topPriceFormatted": "₺2.101.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Fiat",
+          "brandId": "fiat",
+          "model": "500e",
+          "basePrice": 2149900,
+          "topPrice": 2149900,
+          "basePriceFormatted": "₺2.149.900",
+          "topPriceFormatted": "₺2.149.900",
           "trimCount": 1
         },
         {
@@ -9391,8 +9394,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8096224,
-      "avgTopPrice": 8307464
+      "avgBasePrice": 8098959,
+      "avgTopPrice": 8307630
     },
     {
       "segment": "SUV",
@@ -9849,10 +9852,10 @@
           "brandId": "fiat",
           "model": "Egea Sedan",
           "basePrice": 1499900,
-          "topPrice": 1789900,
+          "topPrice": 1798900,
           "basePriceFormatted": "₺1.499.900",
-          "topPriceFormatted": "₺1.789.900",
-          "trimCount": 5
+          "topPriceFormatted": "₺1.798.900",
+          "trimCount": 6
         },
         {
           "brand": "Renault",
@@ -10076,11 +10079,21 @@
         }
       ],
       "avgBasePrice": 5733701,
-      "avgTopPrice": 6509610
+      "avgTopPrice": 6510001
     },
     {
       "segment": "Electric",
       "models": [
+        {
+          "brand": "Fiat",
+          "brandId": "fiat",
+          "model": "Grande Panda Elektrikli",
+          "basePrice": 1390000,
+          "topPrice": 1440000,
+          "basePriceFormatted": "₺1.390.000",
+          "topPriceFormatted": "₺1.440.000",
+          "trimCount": 2
+        },
         {
           "brand": "Citroën",
           "brandId": "citroen",
@@ -10262,8 +10275,8 @@
           "trimCount": 4
         }
       ],
-      "avgBasePrice": 3128433,
-      "avgTopPrice": 3526017
+      "avgBasePrice": 3036937,
+      "avgTopPrice": 3416226
     },
     {
       "segment": "Hatchback",
@@ -10521,9 +10534,9 @@
     }
   ],
   "summary": {
-    "totalModels": 231,
+    "totalModels": 232,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 349930,
-    "avgPriceSpreadPercent": 12.05
+    "avgPriceSpread": 347335,
+    "avgPriceSpreadPercent": 11.89
   }
 }

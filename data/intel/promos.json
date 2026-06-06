@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-06T11:40:29.324Z",
+  "generatedAt": "2026-06-06T12:03:58.835Z",
   "date": "2026-06-06",
   "summary": {
     "totalPriceDrops": 10,
-    "totalRecentDrops": 12,
+    "totalRecentDrops": 13,
     "avgDropPercent": 7,
     "maxDropPercent": 9.43,
     "brandsWithDrops": 4
@@ -273,9 +273,17 @@
       "peakDate": "2026-05-08",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 29,
+      "daysSincePeak": 28,
       "priceHistory": [
         {
+          "date": "2026-06-01",
+          "price": 584900
+        },
+        {
+          "date": "2026-06-01",
+          "price": 544900
+        },
+        {
           "date": "2026-06-02",
           "price": 584900
         },
@@ -305,14 +313,6 @@
         },
         {
           "date": "2026-06-05",
-          "price": 544900
-        },
-        {
-          "date": "2026-06-06",
-          "price": 584900
-        },
-        {
-          "date": "2026-06-06",
           "price": 544900
         }
       ],
@@ -336,9 +336,17 @@
       "peakDate": "2026-05-08",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 29,
+      "daysSincePeak": 28,
       "priceHistory": [
         {
+          "date": "2026-06-01",
+          "price": 629900
+        },
+        {
+          "date": "2026-06-01",
+          "price": 589900
+        },
+        {
           "date": "2026-06-02",
           "price": 629900
         },
@@ -368,14 +376,6 @@
         },
         {
           "date": "2026-06-05",
-          "price": 589900
-        },
-        {
-          "date": "2026-06-06",
-          "price": 629900
-        },
-        {
-          "date": "2026-06-06",
           "price": 589900
         }
       ],
@@ -705,8 +705,8 @@
       "previousPrice": 584900,
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "date": "2026-06-06",
-      "previousDate": "2026-06-06",
+      "date": "2026-06-05",
+      "previousDate": "2026-06-05",
       "listPrice": 674900,
       "campaignPrice": 584900,
       "campaignDiscount": 13.3
@@ -722,8 +722,8 @@
       "previousPrice": 629900,
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "date": "2026-06-06",
-      "previousDate": "2026-06-06",
+      "date": "2026-06-05",
+      "previousDate": "2026-06-05",
       "listPrice": 719900,
       "campaignPrice": 629900,
       "campaignDiscount": 12.5
@@ -790,6 +790,23 @@
       "listPrice": 2030417
     },
     {
+      "id": "fiat-grande-panda-elektrikli-la-prima-83-kw/113-hp-44-kwh-recent",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "model": "Grande Panda Elektrikli",
+      "trim": "La Prima",
+      "engine": "83 kW/113 HP 44 kWh",
+      "currentPrice": 1390000,
+      "previousPrice": 1440000,
+      "dropAmount": 50000,
+      "dropPercent": 3.47,
+      "date": "2026-06-06",
+      "previousDate": "2026-06-06",
+      "listPrice": 1584900,
+      "campaignPrice": 1440000,
+      "campaignDiscount": 9.1
+    },
+    {
       "id": "fiat-grande-panda-la-prima-44-kwh-recent",
       "brand": "Fiat",
       "brandId": "fiat",
@@ -800,8 +817,8 @@
       "previousPrice": 1514900,
       "dropAmount": 45000,
       "dropPercent": 2.97,
-      "date": "2026-06-06",
-      "previousDate": "2026-06-06",
+      "date": "2026-06-05",
+      "previousDate": "2026-06-05",
       "listPrice": 1584900,
       "campaignPrice": 1514900,
       "campaignDiscount": 4.4

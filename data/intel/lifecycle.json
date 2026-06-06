@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-06T11:40:29.457Z",
+  "generatedAt": "2026-06-06T12:03:58.912Z",
   "date": "2026-06-06",
   "summary": {
-    "totalModels": 231,
+    "totalModels": 232,
     "totalTransitions": 0,
     "totalStaleModels": 0,
-    "avgEntryPriceDelta": 3.34
+    "avgEntryPriceDelta": 3.4
   },
   "modelYearTransitions": [],
   "entryPriceDeltas": [
@@ -83,6 +83,19 @@
       "previousEntryPrice": 15231000,
       "delta": 1541500,
       "deltaPercent": 10.12,
+      "currentDate": "2026-06-06",
+      "previousDate": "2026-05-30",
+      "daysBetween": 7
+    },
+    {
+      "id": "fiat-Topolino-entry",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "model": "Topolino",
+      "currentEntryPrice": 594900,
+      "previousEntryPrice": 544900,
+      "delta": 50000,
+      "deltaPercent": 9.18,
       "currentDate": "2026-06-06",
       "previousDate": "2026-05-30",
       "daysBetween": 7
@@ -231,6 +244,19 @@
       "daysBetween": 7
     },
     {
+      "id": "fiat-500e-entry",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "model": "500e",
+      "currentEntryPrice": 2149900,
+      "previousEntryPrice": 2093900,
+      "delta": 56000,
+      "deltaPercent": 2.67,
+      "currentDate": "2026-06-06",
+      "previousDate": "2026-05-30",
+      "daysBetween": 7
+    },
+    {
       "id": "peugeot-408-entry",
       "brand": "Peugeot",
       "brandId": "peugeot",
@@ -309,6 +335,19 @@
       "daysBetween": 7
     },
     {
+      "id": "fiat-Egea Cross-entry",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "model": "Egea Cross",
+      "currentEntryPrice": 1779900,
+      "previousEntryPrice": 1754900,
+      "delta": 25000,
+      "deltaPercent": 1.42,
+      "currentDate": "2026-06-06",
+      "previousDate": "2026-05-30",
+      "daysBetween": 7
+    },
+    {
       "id": "citroen-C3 Aircross Hybrid 145-entry",
       "brand": "Citroën",
       "brandId": "citroen",
@@ -356,45 +395,6 @@
       "previousEntryPrice": 5464000,
       "delta": 65000,
       "deltaPercent": 1.19,
-      "currentDate": "2026-06-06",
-      "previousDate": "2026-05-30",
-      "daysBetween": 7
-    },
-    {
-      "id": "bmw-BMW M5 Sedan-entry",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "model": "BMW M5 Sedan",
-      "currentEntryPrice": 24233800,
-      "previousEntryPrice": 23948800,
-      "delta": 285000,
-      "deltaPercent": 1.19,
-      "currentDate": "2026-06-06",
-      "previousDate": "2026-05-30",
-      "daysBetween": 7
-    },
-    {
-      "id": "bmw-BMW i7 M70-entry",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "model": "BMW i7 M70",
-      "currentEntryPrice": 15799000,
-      "previousEntryPrice": 15615000,
-      "delta": 184000,
-      "deltaPercent": 1.18,
-      "currentDate": "2026-06-06",
-      "previousDate": "2026-05-30",
-      "daysBetween": 7
-    },
-    {
-      "id": "bmw-BMW X5 M Competition-entry",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "model": "BMW X5 M Competition",
-      "currentEntryPrice": 24208500,
-      "previousEntryPrice": 23929300,
-      "delta": 279200,
-      "deltaPercent": 1.17,
       "currentDate": "2026-06-06",
       "previousDate": "2026-05-30",
       "daysBetween": 7
@@ -1199,9 +1199,9 @@
       "brand": "Fiat",
       "brandId": "fiat",
       "model": "500e",
-      "entryPrice": 2093900,
+      "entryPrice": 2149900,
       "topPrice": 2149900,
-      "trimCount": 2,
+      "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
@@ -1223,9 +1223,9 @@
       "brand": "Fiat",
       "brandId": "fiat",
       "model": "Egea Cross",
-      "entryPrice": 1754900,
-      "topPrice": 1989900,
-      "trimCount": 3,
+      "entryPrice": 1779900,
+      "topPrice": 2019900,
+      "trimCount": 4,
       "fuelTypes": [
         "Dizel"
       ],
@@ -1236,8 +1236,8 @@
       "brandId": "fiat",
       "model": "Egea Sedan",
       "entryPrice": 1499900,
-      "topPrice": 1789900,
-      "trimCount": 5,
+      "topPrice": 1798900,
+      "trimCount": 6,
       "fuelTypes": [
         "Dizel"
       ],
@@ -1246,13 +1246,24 @@
     {
       "brand": "Fiat",
       "brandId": "fiat",
-      "model": "Grande Panda",
-      "entryPrice": 1469900,
-      "topPrice": 1789900,
-      "trimCount": 4,
+      "model": "Grande Panda Elektrikli",
+      "entryPrice": 1390000,
+      "topPrice": 1440000,
+      "trimCount": 2,
       "fuelTypes": [
-        "Elektrik",
-        "Hafif Hibrit"
+        "Elektrik"
+      ],
+      "lastUpdated": "2026-06-06"
+    },
+    {
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "model": "Grande Panda Hibrit",
+      "entryPrice": 1669900,
+      "topPrice": 1789900,
+      "trimCount": 2,
+      "fuelTypes": [
+        "Hibrit"
       ],
       "lastUpdated": "2026-06-06"
     },
@@ -1260,9 +1271,9 @@
       "brand": "Fiat",
       "brandId": "fiat",
       "model": "Topolino",
-      "entryPrice": 544900,
-      "topPrice": 629900,
-      "trimCount": 4,
+      "entryPrice": 594900,
+      "topPrice": 619900,
+      "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
       ],
@@ -1415,30 +1426,6 @@
     {
       "brand": "Hyundai",
       "brandId": "hyundai",
-      "model": "i20",
-      "entryPrice": 1425000,
-      "topPrice": 1745000,
-      "trimCount": 4,
-      "fuelTypes": [
-        "Benzin"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "Hyundai",
-      "brandId": "hyundai",
-      "model": "i30",
-      "entryPrice": 1940000,
-      "topPrice": 2195000,
-      "trimCount": 2,
-      "fuelTypes": [
-        "Benzin"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "Hyundai",
-      "brandId": "hyundai",
       "model": "INSTER",
       "entryPrice": 1510000,
       "topPrice": 1790000,
@@ -1493,6 +1480,30 @@
       "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
+      ],
+      "lastUpdated": "2026-06-06"
+    },
+    {
+      "brand": "Hyundai",
+      "brandId": "hyundai",
+      "model": "i20",
+      "entryPrice": 1425000,
+      "topPrice": 1745000,
+      "trimCount": 4,
+      "fuelTypes": [
+        "Benzin"
+      ],
+      "lastUpdated": "2026-06-06"
+    },
+    {
+      "brand": "Hyundai",
+      "brandId": "hyundai",
+      "model": "i30",
+      "entryPrice": 1940000,
+      "topPrice": 2195000,
+      "trimCount": 2,
+      "fuelTypes": [
+        "Benzin"
       ],
       "lastUpdated": "2026-06-06"
     },
@@ -2877,18 +2888,6 @@
     {
       "brand": "Toyota",
       "brandId": "toyota",
-      "model": "Proace City",
-      "entryPrice": 1707000,
-      "topPrice": 1975000,
-      "trimCount": 3,
-      "fuelTypes": [
-        "Dizel"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "Toyota",
-      "brandId": "toyota",
       "model": "PROACE CITY CARGO",
       "entryPrice": 1339000,
       "topPrice": 1393000,
@@ -2896,6 +2895,18 @@
       "fuelTypes": [
         "Dizel",
         "Diger"
+      ],
+      "lastUpdated": "2026-06-06"
+    },
+    {
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace City",
+      "entryPrice": 1707000,
+      "topPrice": 1975000,
+      "trimCount": 3,
+      "fuelTypes": [
+        "Dizel"
       ],
       "lastUpdated": "2026-06-06"
     },
