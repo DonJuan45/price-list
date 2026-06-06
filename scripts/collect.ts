@@ -4361,57 +4361,82 @@ async function fetchFiatPdf(url: string): Promise<any> {
 
   // Try proxy fallback if direct connection failed
   console.log(`    Direct connection failed, trying proxies...`);
-  const proxyServices = [
-    { name: 'allorigins', url: `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}` },
-    { name: 'corsproxy', url: `https://corsproxy.io/?${encodeURIComponent(url)}` },
-    { name: 'codetabs', url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}` },
-  ];
-
-  const retriesPerProxy = 1;
-
-  for (const proxy of proxyServices) {
-    console.log(`    Trying proxy: ${proxy.name}...`);
-
-    for (let attempt = 1; attempt <= retriesPerProxy; attempt++) {
-      try {
-        console.log(`      ${proxy.name} attempt ${attempt}/${retriesPerProxy}...`);
-
-        // Add delay between retries
-        if (attempt > 1) {
-          const delay = 2000;
-          console.log(`      Waiting ${delay / 1000}s before retry...`);
-          await new Promise(resolve => setTimeout(resolve, delay));
-        }
-
-        const response = await fetchWithTimeout(proxy.url, {
-          headers: {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-          },
-        }, 12_000);
-
-        console.log(`      Response: ${response.status} ${response.statusText}`);
-
-        if (response.ok) {
-          console.log(`      ${proxy.name} succeeded!`);
-          return await extractPdfFromResponse(response, 'fiat');
-        } else {
-          console.log(`      ${proxy.name} returned HTTP ${response.status}`);
-        }
-      } catch (error: any) {
-        console.log(`      ${proxy.name} attempt ${attempt} failed: ${error.message}`);
-      }
-    }
-
-    console.log(`    ${proxy.name} exhausted all retries, trying next proxy...`);
+  try {
+    const buffer = await fetchPdfViaProxies(url, 'fiat');
+    return await extractPdfFromBuffer(buffer, 'fiat');
+  } catch (error: any) {
+    lastError = error instanceof Error ? error : new Error(String(error));
   }
 
   throw lastError || new Error('Failed to fetch Fiat PDF after all retries and proxies');
 }
 
+// A valid PDF starts with the "%PDF" magic bytes. Proxies frequently answer 200
+// with an HTML error/wrapper page, so we validate before trusting the payload.
+function isPdfBuffer(buffer: ArrayBuffer | Buffer): boolean {
+  const b = Buffer.isBuffer(buffer) ? buffer : Buffer.from(buffer);
+  if (b.byteLength < 5) return false;
+  return b.subarray(0, 5).toString('latin1') === '%PDF-';
+}
+
+// Fetch a PDF through multiple CORS/relay proxies in parallel and return the first
+// response that is actually a valid PDF. Racing (instead of trying one-by-one) both
+// shortens wall-clock time and survives any single proxy being down/rate-limited —
+// which is the failure mode when the origin blocks cloud IPs (e.g. Fiat in CI).
+async function fetchPdfViaProxies(url: string, brand: string, timeoutMs = 25_000): Promise<ArrayBuffer> {
+  const proxyServices = [
+    { name: 'allorigins', url: `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}` },
+    { name: 'codetabs', url: `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(url)}` },
+    { name: 'corsproxy', url: `https://corsproxy.io/?url=${encodeURIComponent(url)}` },
+    { name: 'thingproxy', url: `https://thingproxy.freeboard.io/fetch/${url}` },
+    { name: 'cors.eu.org', url: `https://cors.eu.org/${url}` },
+  ];
+
+  console.log(`    Racing ${proxyServices.length} proxies in parallel (timeout ${timeoutMs / 1000}s each)...`);
+
+  const attempts = proxyServices.map(async (proxy) => {
+    try {
+      const response = await fetchWithTimeout(proxy.url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+          'Accept': 'application/pdf,*/*;q=0.8',
+        },
+      }, timeoutMs);
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const buffer = await response.arrayBuffer();
+      if (!isPdfBuffer(buffer)) {
+        throw new Error(`not a PDF (${buffer.byteLength} bytes)`);
+      }
+
+      console.log(`      ✓ ${proxy.name} succeeded (${buffer.byteLength} bytes)`);
+      return buffer;
+    } catch (error: any) {
+      console.log(`      ✗ ${proxy.name}: ${error.message}`);
+      throw error;
+    }
+  });
+
+  // Promise.any resolves with the first fulfilled promise; rejects only if all fail.
+  try {
+    return await Promise.any(attempts);
+  } catch {
+    throw new Error(`All ${proxyServices.length} proxies failed for ${brand}`);
+  }
+}
+
 // Helper to extract PDF from response
 async function extractPdfFromResponse(response: Response, brand: string): Promise<any> {
-  const tempPath = path.join('/tmp', `${brand}-pdf-${Date.now()}.pdf`);
   const buffer = await response.arrayBuffer();
+  return extractPdfFromBuffer(buffer, brand);
+}
+
+// Helper to extract PDF from an already-downloaded buffer
+async function extractPdfFromBuffer(buffer: ArrayBuffer, brand: string): Promise<any> {
+  const tempPath = path.join('/tmp', `${brand}-pdf-${Date.now()}.pdf`);
   console.log(`    Downloaded ${buffer.byteLength} bytes`);
   fs.writeFileSync(tempPath, Buffer.from(buffer));
 
@@ -4534,47 +4559,11 @@ async function fetchPeugeotPdf(url: string): Promise<any> {
 
   // Try proxy fallback if direct connection failed
   console.log(`    Direct connection failed, trying proxies...`);
-  const proxyServices = [
-    { name: 'allorigins', url: `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}` },
-    { name: 'corsproxy', url: `https://corsproxy.io/?${encodeURIComponent(url)}` },
-    { name: 'codetabs', url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}` },
-  ];
-
-  const retriesPerProxy = 1;
-
-  for (const proxy of proxyServices) {
-    console.log(`    Trying proxy: ${proxy.name}...`);
-
-    for (let attempt = 1; attempt <= retriesPerProxy; attempt++) {
-      try {
-        console.log(`      ${proxy.name} attempt ${attempt}/${retriesPerProxy}...`);
-
-        if (attempt > 1) {
-          const delay = 2000;
-          console.log(`      Waiting ${delay / 1000}s before retry...`);
-          await new Promise(resolve => setTimeout(resolve, delay));
-        }
-
-        const response = await fetchWithTimeout(proxy.url, {
-          headers: {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-          },
-        }, 12_000);
-
-        console.log(`      Response: ${response.status} ${response.statusText}`);
-
-        if (response.ok) {
-          console.log(`      ${proxy.name} succeeded!`);
-          return await extractPdfFromResponse(response, 'peugeot');
-        } else {
-          console.log(`      ${proxy.name} returned HTTP ${response.status}`);
-        }
-      } catch (error: any) {
-        console.log(`      ${proxy.name} attempt ${attempt} failed: ${error.message}`);
-      }
-    }
-
-    console.log(`    ${proxy.name} exhausted all retries, trying next proxy...`);
+  try {
+    const buffer = await fetchPdfViaProxies(url, 'peugeot');
+    return await extractPdfFromBuffer(buffer, 'peugeot');
+  } catch (error: any) {
+    lastError = error instanceof Error ? error : new Error(String(error));
   }
 
   throw lastError || new Error('Failed to fetch Peugeot PDF after all retries and proxies');
