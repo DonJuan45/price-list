@@ -4927,16 +4927,24 @@ async function collectAllBrands(): Promise<void> {
   const results: CollectionResult[] = [];
 
   // Optional filter for testing/targeted re-collection:
-  //   COLLECT_BRANDS=volvo,seat npx tsx scripts/collect.ts
+  //   COLLECT_BRANDS=volvo,seat npx tsx scripts/collect.ts   (include only these)
+  //   COLLECT_EXCLUDE=fiat npx tsx scripts/collect.ts        (everything except these)
   // or: npx tsx scripts/collect.ts volvo seat
   const brandFilter = (process.env.COLLECT_BRANDS || process.argv.slice(2).join(','))
     .split(',')
     .map(s => s.trim().toLowerCase())
     .filter(Boolean);
-  const brandsToCollect = brandFilter.length > 0
+  const brandExclude = (process.env.COLLECT_EXCLUDE || '')
+    .split(',')
+    .map(s => s.trim().toLowerCase())
+    .filter(Boolean);
+  let brandsToCollect = brandFilter.length > 0
     ? BRANDS.filter(b => brandFilter.includes(b.id.toLowerCase()))
     : BRANDS;
-  if (brandFilter.length > 0) {
+  if (brandExclude.length > 0) {
+    brandsToCollect = brandsToCollect.filter(b => !brandExclude.includes(b.id.toLowerCase()));
+  }
+  if (brandFilter.length > 0 || brandExclude.length > 0) {
     console.log(`Filter active: collecting ${brandsToCollect.map(b => b.id).join(', ') || '(none matched)'}`);
   }
 
