@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-06-06T01:39:13.892Z",
-  "clearedAt": "2026-06-06T01:39:13.869Z",
-  "errors": [],
+  "generatedAt": "2026-06-06T11:18:55.483Z",
+  "clearedAt": "2026-06-06T11:16:45.663Z",
+  "errors": [
+    {
+      "id": "err_1780744710316_d8gvhab",
+      "timestamp": "2026-06-06T11:18:30.316Z",
+      "severity": "error",
+      "category": "HTTP_ERROR",
+      "source": "collection",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "code": "COLLECTION_FAILED",
+      "message": "Failed to collect Fiat: fetch failed",
+      "details": {
+        "error": "fetch failed",
+        "url": "https://kampanya.fiat.com.tr/Pdf/Fiyatlar/OtomobilFiyatListesi.pdf",
+        "elapsed": 96375,
+        "isTimeout": false
+      },
+      "recovered": false
+    },
+    {
+      "id": "err_1780744710318_ac1sipd",
+      "timestamp": "2026-06-06T11:18:30.318Z",
+      "severity": "warning",
+      "category": "DATA_QUALITY_ERROR",
+      "source": "collection",
+      "brand": "Fiat",
+      "brandId": "fiat",
+      "code": "USING_FALLBACK_DATA",
+      "message": "Using fallback data for Fiat (19 rows)",
+      "recovered": true,
+      "recoveryMethod": "Used previous day data"
+    }
+  ],
   "summary": {
-    "total": 0,
-    "byCategory": {},
-    "bySeverity": {},
-    "bySource": {}
+    "total": 2,
+    "byCategory": {
+      "HTTP_ERROR": 1,
+      "DATA_QUALITY_ERROR": 1
+    },
+    "bySeverity": {
+      "error": 1,
+      "warning": 1
+    },
+    "bySource": {
+      "collection": 2
+    }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-06T01:39:12.731Z",
+  "generatedAt": "2026-06-06T11:18:54.441Z",
   "date": "2026-06-06",
   "summary": {
-    "totalModels": 234,
+    "totalModels": 231,
     "totalTransitions": 0,
     "totalStaleModels": 0,
-    "avgEntryPriceDelta": 3.75
+    "avgEntryPriceDelta": 3.34
   },
   "modelYearTransitions": [],
   "entryPriceDeltas": [
@@ -18,6 +18,19 @@
       "previousEntryPrice": 2429000,
       "delta": 1648000,
       "deltaPercent": 67.85,
+      "currentDate": "2026-06-06",
+      "previousDate": "2026-05-30",
+      "daysBetween": 7
+    },
+    {
+      "id": "seat-Leon-entry",
+      "brand": "SEAT",
+      "brandId": "seat",
+      "model": "Leon",
+      "currentEntryPrice": 2262000,
+      "previousEntryPrice": 2930150,
+      "delta": -668150,
+      "deltaPercent": -22.8,
       "currentDate": "2026-06-06",
       "previousDate": "2026-05-30",
       "daysBetween": 7
@@ -381,19 +394,6 @@
       "currentEntryPrice": 24208500,
       "previousEntryPrice": 23929300,
       "delta": 279200,
-      "deltaPercent": 1.17,
-      "currentDate": "2026-06-06",
-      "previousDate": "2026-05-30",
-      "daysBetween": 7
-    },
-    {
-      "id": "bmw-BMW X6 M Competition-entry",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "model": "BMW X6 M Competition",
-      "currentEntryPrice": 24566900,
-      "previousEntryPrice": 24283500,
-      "delta": 283400,
       "deltaPercent": 1.17,
       "currentDate": "2026-06-06",
       "previousDate": "2026-05-30",
@@ -909,7 +909,7 @@
     {
       "brand": "BMW",
       "brandId": "bmw",
-      "model": "Yeni BMW iX3 50 xDrive Ön talep formu",
+      "model": "Yeni BMW iX3 50 xDrive",
       "entryPrice": 6538400,
       "topPrice": 6538400,
       "trimCount": 1,
@@ -2636,8 +2636,8 @@
       "brandId": "seat",
       "model": "Arona",
       "entryPrice": 1853150,
-      "topPrice": 1853150,
-      "trimCount": 1,
+      "topPrice": 1968000,
+      "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
@@ -2660,8 +2660,8 @@
       "brandId": "seat",
       "model": "Ibiza",
       "entryPrice": 1647150,
-      "topPrice": 1647150,
-      "trimCount": 1,
+      "topPrice": 1821000,
+      "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
@@ -2671,35 +2671,11 @@
       "brand": "SEAT",
       "brandId": "seat",
       "model": "Leon",
-      "entryPrice": 2930150,
-      "topPrice": 2930150,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Hibrit"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "SEAT",
-      "brandId": "seat",
-      "model": "LEON",
       "entryPrice": 2262000,
-      "topPrice": 2262000,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Hibrit"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "SEAT",
-      "brandId": "seat",
-      "model": "YENİ",
-      "entryPrice": 1821000,
-      "topPrice": 1968000,
+      "topPrice": 2930150,
       "trimCount": 2,
       "fuelTypes": [
-        "Benzin"
+        "Hibrit"
       ],
       "lastUpdated": "2026-06-06"
     },
@@ -3169,9 +3145,21 @@
     {
       "brand": "Volvo",
       "brandId": "volvo",
-      "model": "EC40 Black Edition Ultra",
+      "model": "EC40",
       "entryPrice": 4428528,
-      "topPrice": 4428528,
+      "topPrice": 5349420,
+      "trimCount": 3,
+      "fuelTypes": [
+        "Elektrik"
+      ],
+      "lastUpdated": "2026-06-06"
+    },
+    {
+      "brand": "Volvo",
+      "brandId": "volvo",
+      "model": "EX30",
+      "entryPrice": 2485390,
+      "topPrice": 2485390,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
@@ -3181,10 +3169,10 @@
     {
       "brand": "Volvo",
       "brandId": "volvo",
-      "model": "EX40 Black Edition Ultra",
+      "model": "EX40",
       "entryPrice": 4336644,
-      "topPrice": 4336644,
-      "trimCount": 1,
+      "topPrice": 5262560,
+      "trimCount": 3,
       "fuelTypes": [
         "Elektrik"
       ],
@@ -3193,36 +3181,10 @@
     {
       "brand": "Volvo",
       "brandId": "volvo",
-      "model": "XC60 Black Edition Ultra",
-      "entryPrice": 7700254,
-      "topPrice": 8374174,
-      "trimCount": 2,
-      "fuelTypes": [
-        "Hibrit",
-        "Plug-in Hibrit"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "model": "XC60 Plus",
+      "model": "XC60",
       "entryPrice": 7292014,
-      "topPrice": 7965934,
-      "trimCount": 2,
-      "fuelTypes": [
-        "Hibrit",
-        "Plug-in Hibrit"
-      ],
-      "lastUpdated": "2026-06-06"
-    },
-    {
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "model": "XC60 Ultra",
-      "entryPrice": 7594954,
-      "topPrice": 8268874,
-      "trimCount": 2,
+      "topPrice": 8699794,
+      "trimCount": 12,
       "fuelTypes": [
         "Hibrit",
         "Plug-in Hibrit"

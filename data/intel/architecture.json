@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T01:39:11.886Z",
+  "generatedAt": "2026-06-06T11:18:53.911Z",
   "date": "2026-06-06",
   "ladders": [
     {
@@ -5079,8 +5079,8 @@
       "trimCount": 1
     },
     {
-      "id": "bmw-yeni-bmw-ix3-50-xdrive-ön-talep-formu",
-      "model": "Yeni BMW iX3 50 xDrive Ön talep formu",
+      "id": "bmw-yeni-bmw-ix3-50-xdrive",
+      "model": "Yeni BMW iX3 50 xDrive",
       "brand": "BMW",
       "brandId": "bmw",
       "trims": [
@@ -7144,39 +7144,6 @@
       "trimCount": 1
     },
     {
-      "id": "seat-yeni̇",
-      "model": "YENİ",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "trims": [
-        {
-          "trim": "Style Plus",
-          "price": 1821000,
-          "priceFormatted": "1.821.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "1.0 TSI 116 PS",
-          "transmission": "Otomatik (DSG)",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Style Plus",
-          "price": 1968000,
-          "priceFormatted": "1.968.000 TL",
-          "stepFromBase": 147000,
-          "stepPercent": 8.072487644151565,
-          "engine": "1.0 TSI 116 PS",
-          "transmission": "Otomatik (DSG)",
-          "fuel": "Benzin"
-        }
-      ],
-      "basePrice": 1821000,
-      "topPrice": 1968000,
-      "priceSpread": 147000,
-      "priceSpreadPercent": 8.07,
-      "trimCount": 2
-    },
-    {
       "id": "seat-ibiza",
       "model": "Ibiza",
       "brand": "SEAT",
@@ -7191,13 +7158,23 @@
           "engine": "1.0 EcoTSI 115 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Benzin"
+        },
+        {
+          "trim": "Style Plus",
+          "price": 1821000,
+          "priceFormatted": "1.821.000 TL",
+          "stepFromBase": 173850,
+          "stepPercent": 10.55459429924415,
+          "engine": "1.0 TSI 116 PS",
+          "transmission": "Otomatik (DSG)",
+          "fuel": "Benzin"
         }
       ],
       "basePrice": 1647150,
-      "topPrice": 1647150,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 1821000,
+      "priceSpread": 173850,
+      "priceSpreadPercent": 10.55,
+      "trimCount": 2
     },
     {
       "id": "seat-arona",
@@ -7214,40 +7191,27 @@
           "engine": "1.0 EcoTSI 115 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Benzin"
+        },
+        {
+          "trim": "Style Plus",
+          "price": 1968000,
+          "priceFormatted": "1.968.000 TL",
+          "stepFromBase": 114850,
+          "stepPercent": 6.197555513584977,
+          "engine": "1.0 TSI 116 PS",
+          "transmission": "Otomatik (DSG)",
+          "fuel": "Benzin"
         }
       ],
       "basePrice": 1853150,
-      "topPrice": 1853150,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 1968000,
+      "priceSpread": 114850,
+      "priceSpreadPercent": 6.2,
+      "trimCount": 2
     },
     {
       "id": "seat-leon",
       "model": "Leon",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "trims": [
-        {
-          "trim": "FR",
-          "price": 2930150,
-          "priceFormatted": "2.930.150 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "1.5 eHybrid 204 PS",
-          "transmission": "Otomatik (DSG)",
-          "fuel": "Hibrit"
-        }
-      ],
-      "basePrice": 2930150,
-      "topPrice": 2930150,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
-    },
-    {
-      "id": "seat-leon",
-      "model": "LEON",
       "brand": "SEAT",
       "brandId": "seat",
       "trims": [
@@ -7260,13 +7224,23 @@
           "engine": "1.5 eTSI 116 PS",
           "transmission": "Otomatik (DSG)",
           "fuel": "Hibrit"
+        },
+        {
+          "trim": "FR",
+          "price": 2930150,
+          "priceFormatted": "2.930.150 TL",
+          "stepFromBase": 668150,
+          "stepPercent": 29.538019451812552,
+          "engine": "1.5 eHybrid 204 PS",
+          "transmission": "Otomatik (DSG)",
+          "fuel": "Hibrit"
         }
       ],
       "basePrice": 2262000,
-      "topPrice": 2262000,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 2930150,
+      "priceSpread": 668150,
+      "priceSpreadPercent": 29.54,
+      "trimCount": 2
     },
     {
       "id": "seat-ateca",
@@ -7692,13 +7666,36 @@
       "trimCount": 4
     },
     {
-      "id": "volvo-ex40-black-edition-ultra",
-      "model": "EX40 Black Edition Ultra",
+      "id": "volvo-ex30",
+      "model": "EX30",
       "brand": "Volvo",
       "brandId": "volvo",
       "trims": [
         {
-          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.399.540   55%   3.719.287   4.463.144   13.000   4.476.144",
+          "trim": "Ultra, P4 Long Range",
+          "price": 2485390,
+          "priceFormatted": "2.485.390 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "150 kW / 204 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        }
+      ],
+      "basePrice": 2485390,
+      "topPrice": 2485390,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
+      "id": "volvo-ex40",
+      "model": "EX40",
+      "brand": "Volvo",
+      "brandId": "volvo",
+      "trims": [
+        {
+          "trim": "Ultra, Single Motor Extended Range",
           "price": 4336644,
           "priceFormatted": "4.336.644 TL",
           "stepFromBase": 0,
@@ -7706,22 +7703,42 @@
           "engine": "150 kW / 204 hp",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
+        },
+        {
+          "trim": "Black Edition Ultra, Single Motor Extended Range",
+          "price": 4476144,
+          "priceFormatted": "4.476.144 TL",
+          "stepFromBase": 139500,
+          "stepPercent": 3.2167731545407,
+          "engine": "150 kW / 204 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Ultra, Twin Motor",
+          "price": 5262560,
+          "priceFormatted": "5.262.560 TL",
+          "stepFromBase": 925916,
+          "stepPercent": 21.350980158850945,
+          "engine": "300 kW / 408 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
         }
       ],
       "basePrice": 4336644,
-      "topPrice": 4336644,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 5262560,
+      "priceSpread": 925916,
+      "priceSpreadPercent": 21.35,
+      "trimCount": 3
     },
     {
-      "id": "volvo-ec40-black-edition-ultra",
-      "model": "EC40 Black Edition Ultra",
+      "id": "volvo-ec40",
+      "model": "EC40",
       "brand": "Volvo",
       "brandId": "volvo",
       "trims": [
         {
-          "trim": "Single Motor Extended Range   Elektrik   -   150kW/204hp   -   2.448.940   55%   3.795.857   4.555.028   13.000   4.568.028",
+          "trim": "Ultra, Single Motor Extended Range",
           "price": 4428528,
           "priceFormatted": "4.428.528 TL",
           "stepFromBase": 0,
@@ -7729,22 +7746,42 @@
           "engine": "150 kW / 204 hp",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
+        },
+        {
+          "trim": "Black Edition Ultra, Single Motor Extended Range",
+          "price": 4568028,
+          "priceFormatted": "4.568.028 TL",
+          "stepFromBase": 139500,
+          "stepPercent": 3.150030890625508,
+          "engine": "150 kW / 204 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Ultra, Twin Motor",
+          "price": 5349420,
+          "priceFormatted": "5.349.420 TL",
+          "stepFromBase": 920892,
+          "stepPercent": 20.79453940451545,
+          "engine": "300 kW / 408 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
         }
       ],
       "basePrice": 4428528,
-      "topPrice": 4428528,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 5349420,
+      "priceSpread": 920892,
+      "priceSpreadPercent": 20.79,
+      "trimCount": 3
     },
     {
-      "id": "volvo-xc60-plus",
-      "model": "XC60 Plus",
+      "id": "volvo-xc60",
+      "model": "XC60",
       "brand": "Volvo",
       "brandId": "volvo",
       "trims": [
         {
-          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.244.140   170%   6.059.178   7.271.014   21.000   7.292.014",
+          "trim": "Plus, B5 AWD Mild hybrid, Bright",
           "price": 7292014,
           "priceFormatted": "7.292.014 TL",
           "stepFromBase": 0,
@@ -7754,87 +7791,121 @@
           "fuel": "Hibrit"
         },
         {
-          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   250+156 hp   8 ileri Geartronic   2.452.140   170%   6.620.778   7.944.934   21.000   7.965.934",
+          "trim": "Plus, B5 AWD Mild hybrid, Dark",
+          "price": 7292014,
+          "priceFormatted": "7.292.014 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.969 cc 250 hp",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Ultra, B5 AWD Mild hybrid, Bright",
+          "price": 7594954,
+          "priceFormatted": "7.594.954 TL",
+          "stepFromBase": 302940,
+          "stepPercent": 4.154407822036546,
+          "engine": "1.969 cc 250 hp",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Ultra, B5 AWD Mild hybrid, Dark",
+          "price": 7594954,
+          "priceFormatted": "7.594.954 TL",
+          "stepFromBase": 302940,
+          "stepPercent": 4.154407822036546,
+          "engine": "1.969 cc 250 hp",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Black Edition Plus, B5 AWD Mild hybrid",
+          "price": 7700254,
+          "priceFormatted": "7.700.254 TL",
+          "stepFromBase": 408240,
+          "stepPercent": 5.598453321674917,
+          "engine": "1.969 cc 250 hp",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Plus, T8 AWD Plug-in hybrid, Bright",
           "price": 7965934,
           "priceFormatted": "7.965.934 TL",
           "stepFromBase": 673920,
           "stepPercent": 9.241891197685579,
-          "engine": "1.969 cc 156 hp",
+          "engine": "1.969 cc 250+156 hp",
+          "transmission": "Otomatik",
+          "fuel": "Plug-in Hibrit"
+        },
+        {
+          "trim": "Plus, T8 AWD Plug-in hybrid, Dark",
+          "price": 7965934,
+          "priceFormatted": "7.965.934 TL",
+          "stepFromBase": 673920,
+          "stepPercent": 9.241891197685579,
+          "engine": "1.969 cc 250+156 hp",
+          "transmission": "Otomatik",
+          "fuel": "Plug-in Hibrit"
+        },
+        {
+          "trim": "Black Edition Ultra, B5 AWD Mild hybrid",
+          "price": 8025874,
+          "priceFormatted": "8.025.874 TL",
+          "stepFromBase": 733860,
+          "stepPercent": 10.063886328248959,
+          "engine": "1.969 cc 250 hp",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Ultra, T8 AWD Plug-in hybrid, Bright",
+          "price": 8268874,
+          "priceFormatted": "8.268.874 TL",
+          "stepFromBase": 976860,
+          "stepPercent": 13.396299019722125,
+          "engine": "1.969 cc 250+156 hp",
+          "transmission": "Otomatik",
+          "fuel": "Plug-in Hibrit"
+        },
+        {
+          "trim": "Ultra, T8 AWD Plug-in hybrid, Dark",
+          "price": 8268874,
+          "priceFormatted": "8.268.874 TL",
+          "stepFromBase": 976860,
+          "stepPercent": 13.396299019722125,
+          "engine": "1.969 cc 250+156 hp",
+          "transmission": "Otomatik",
+          "fuel": "Plug-in Hibrit"
+        },
+        {
+          "trim": "Black Edition Plus, T8 AWD Plug-in hybrid",
+          "price": 8374174,
+          "priceFormatted": "8.374.174 TL",
+          "stepFromBase": 1082160,
+          "stepPercent": 14.840344519360496,
+          "engine": "1.969 cc 250+156 hp",
+          "transmission": "Otomatik",
+          "fuel": "Plug-in Hibrit"
+        },
+        {
+          "trim": "Black Edition Ultra, T8 AWD Plug-in hybrid",
+          "price": 8699794,
+          "priceFormatted": "8.699.794 TL",
+          "stepFromBase": 1407780,
+          "stepPercent": 19.305777525934538,
+          "engine": "1.969 cc 250+156 hp",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hibrit"
         }
       ],
       "basePrice": 7292014,
-      "topPrice": 7965934,
-      "priceSpread": 673920,
-      "priceSpreadPercent": 9.24,
-      "trimCount": 2
-    },
-    {
-      "id": "volvo-xc60-ultra",
-      "model": "XC60 Ultra",
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "trims": [
-        {
-          "trim": "B5 AWD Mild hybrid, Dark   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.337.640   170%   6.311.628   7.573.954   21.000   7.594.954",
-          "price": 7594954,
-          "priceFormatted": "7.594.954 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "1.969 cc 250 hp",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "T8 AWD Plug-in hybrid, Dark   Elektrik/Benzin   1.969 cc.   250+156 hp   8 ileri Geartronic   2.545.640   170%   6.873.228   8.247.874   21.000   8.268.874",
-          "price": 8268874,
-          "priceFormatted": "8.268.874 TL",
-          "stepFromBase": 673920,
-          "stepPercent": 8.873259798545192,
-          "engine": "1.969 cc 156 hp",
-          "transmission": "Otomatik",
-          "fuel": "Plug-in Hibrit"
-        }
-      ],
-      "basePrice": 7594954,
-      "topPrice": 8268874,
-      "priceSpread": 673920,
-      "priceSpreadPercent": 8.87,
-      "trimCount": 2
-    },
-    {
-      "id": "volvo-xc60-black-edition-ultra",
-      "model": "XC60 Black Edition Ultra",
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "trims": [
-        {
-          "trim": "B5 AWD Mild hybrid   Benzin   1.969 cc.   250 hp   8 ileri Geartronic   2.470.640   170%   6.670.728   8.004.874   21.000   8.025.874",
-          "price": 7700254,
-          "priceFormatted": "7.700.254 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "1.969 cc 250 hp",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "T8 AWD Plug-in hybrid   Elektrik/Benzin   1.969 cc.   250+156 hp   8 ileri Geartronic   2.678.640   170%   7.232.328   8.678.794   21.000   8.699.794",
-          "price": 8374174,
-          "priceFormatted": "8.374.174 TL",
-          "stepFromBase": 673920,
-          "stepPercent": 8.751919092539024,
-          "engine": "1.969 cc 156 hp",
-          "transmission": "Otomatik",
-          "fuel": "Plug-in Hibrit"
-        }
-      ],
-      "basePrice": 7700254,
-      "topPrice": 8374174,
-      "priceSpread": 673920,
-      "priceSpreadPercent": 8.75,
-      "trimCount": 2
+      "topPrice": 8699794,
+      "priceSpread": 1407780,
+      "priceSpreadPercent": 19.31,
+      "trimCount": 12
     },
     {
       "id": "fiat-egea-sedan",
@@ -8250,16 +8321,6 @@
           "trimCount": 1
         },
         {
-          "brand": "SEAT",
-          "brandId": "seat",
-          "model": "YENİ",
-          "basePrice": 1821000,
-          "topPrice": 1968000,
-          "basePriceFormatted": "₺1.821.000",
-          "topPriceFormatted": "₺1.968.000",
-          "trimCount": 2
-        },
-        {
           "brand": "Toyota",
           "brandId": "toyota",
           "model": "Proace Max",
@@ -8284,10 +8345,10 @@
           "brandId": "seat",
           "model": "Arona",
           "basePrice": 1853150,
-          "topPrice": 1853150,
+          "topPrice": 1968000,
           "basePriceFormatted": "₺1.853.150",
-          "topPriceFormatted": "₺1.853.150",
-          "trimCount": 1
+          "topPriceFormatted": "₺1.968.000",
+          "trimCount": 2
         },
         {
           "brand": "Citroën",
@@ -8862,32 +8923,12 @@
         {
           "brand": "Volvo",
           "brandId": "volvo",
-          "model": "XC60 Plus",
+          "model": "XC60",
           "basePrice": 7292014,
-          "topPrice": 7965934,
+          "topPrice": 8699794,
           "basePriceFormatted": "₺7.292.014",
-          "topPriceFormatted": "₺7.965.934",
-          "trimCount": 2
-        },
-        {
-          "brand": "Volvo",
-          "brandId": "volvo",
-          "model": "XC60 Ultra",
-          "basePrice": 7594954,
-          "topPrice": 8268874,
-          "basePriceFormatted": "₺7.594.954",
-          "topPriceFormatted": "₺8.268.874",
-          "trimCount": 2
-        },
-        {
-          "brand": "Volvo",
-          "brandId": "volvo",
-          "model": "XC60 Black Edition Ultra",
-          "basePrice": 7700254,
-          "topPrice": 8374174,
-          "basePriceFormatted": "₺7.700.254",
-          "topPriceFormatted": "₺8.374.174",
-          "trimCount": 2
+          "topPriceFormatted": "₺8.699.794",
+          "trimCount": 12
         },
         {
           "brand": "Mercedes-Benz",
@@ -9350,8 +9391,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8038381,
-      "avgTopPrice": 8249722
+      "avgBasePrice": 8096224,
+      "avgTopPrice": 8307464
     },
     {
       "segment": "SUV",
@@ -9487,6 +9528,16 @@
           "trimCount": 1
         },
         {
+          "brand": "Volvo",
+          "brandId": "volvo",
+          "model": "EX30",
+          "basePrice": 2485390,
+          "topPrice": 2485390,
+          "basePriceFormatted": "₺2.485.390",
+          "topPriceFormatted": "₺2.485.390",
+          "trimCount": 1
+        },
+        {
           "brand": "SEAT",
           "brandId": "seat",
           "model": "Ateca",
@@ -9619,12 +9670,12 @@
         {
           "brand": "Volvo",
           "brandId": "volvo",
-          "model": "EX40 Black Edition Ultra",
+          "model": "EX40",
           "basePrice": 4336644,
-          "topPrice": 4336644,
+          "topPrice": 5262560,
           "basePriceFormatted": "₺4.336.644",
-          "topPriceFormatted": "₺4.336.644",
-          "trimCount": 1
+          "topPriceFormatted": "₺5.262.560",
+          "trimCount": 3
         },
         {
           "brand": "BMW",
@@ -9699,7 +9750,7 @@
         {
           "brand": "BMW",
           "brandId": "bmw",
-          "model": "Yeni BMW iX3 50 xDrive Ön talep formu",
+          "model": "Yeni BMW iX3 50 xDrive",
           "basePrice": 6538400,
           "topPrice": 6538400,
           "basePriceFormatted": "₺6.538.400",
@@ -9787,8 +9838,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5768671,
-      "avgTopPrice": 6232753
+      "avgBasePrice": 5694051,
+      "avgTopPrice": 6168630
     },
     {
       "segment": "Sedan",
@@ -9956,12 +10007,12 @@
         {
           "brand": "Volvo",
           "brandId": "volvo",
-          "model": "EC40 Black Edition Ultra",
+          "model": "EC40",
           "basePrice": 4428528,
-          "topPrice": 4428528,
+          "topPrice": 5349420,
           "basePriceFormatted": "₺4.428.528",
-          "topPriceFormatted": "₺4.428.528",
-          "trimCount": 1
+          "topPriceFormatted": "₺5.349.420",
+          "trimCount": 3
         },
         {
           "brand": "BMW",
@@ -10025,7 +10076,7 @@
         }
       ],
       "avgBasePrice": 5733701,
-      "avgTopPrice": 6469571
+      "avgTopPrice": 6509610
     },
     {
       "segment": "Electric",
@@ -10232,10 +10283,10 @@
           "brandId": "seat",
           "model": "Ibiza",
           "basePrice": 1647150,
-          "topPrice": 1647150,
+          "topPrice": 1821000,
           "basePriceFormatted": "₺1.647.150",
-          "topPriceFormatted": "₺1.647.150",
-          "trimCount": 1
+          "topPriceFormatted": "₺1.821.000",
+          "trimCount": 2
         },
         {
           "brand": "Renault",
@@ -10330,12 +10381,12 @@
         {
           "brand": "SEAT",
           "brandId": "seat",
-          "model": "LEON",
+          "model": "Leon",
           "basePrice": 2262000,
-          "topPrice": 2262000,
+          "topPrice": 2930150,
           "basePriceFormatted": "₺2.262.000",
-          "topPriceFormatted": "₺2.262.000",
-          "trimCount": 1
+          "topPriceFormatted": "₺2.930.150",
+          "trimCount": 2
         },
         {
           "brand": "Toyota",
@@ -10355,16 +10406,6 @@
           "topPrice": 2525000,
           "basePriceFormatted": "₺2.525.000",
           "topPriceFormatted": "₺2.525.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "SEAT",
-          "brandId": "seat",
-          "model": "Leon",
-          "basePrice": 2930150,
-          "topPrice": 2930150,
-          "basePriceFormatted": "₺2.930.150",
-          "topPriceFormatted": "₺2.930.150",
           "trimCount": 1
         },
         {
@@ -10388,8 +10429,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 2500212,
-      "avgTopPrice": 2730035
+      "avgBasePrice": 2473341,
+      "avgTopPrice": 2770153
     },
     {
       "segment": "MPV",
@@ -10480,9 +10521,9 @@
     }
   ],
   "summary": {
-    "totalModels": 234,
+    "totalModels": 231,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 336714,
-    "avgPriceSpreadPercent": 11.58
+    "avgPriceSpread": 349930,
+    "avgPriceSpreadPercent": 12.05
   }
 }
