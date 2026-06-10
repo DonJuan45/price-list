@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T01:39:57.025Z",
-  "date": "2026-06-09",
+  "generatedAt": "2026-06-10T01:45:40.212Z",
+  "date": "2026-06-10",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -6824,8 +6824,8 @@
       "trims": [
         {
           "trim": "Tekna",
-          "price": 1699000,
-          "priceFormatted": "1.699.000 TL",
+          "price": 1875200,
+          "priceFormatted": "1.875.200 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.0 DIG-T 115PS",
@@ -6833,21 +6833,11 @@
           "fuel": "Benzin"
         },
         {
-          "trim": "Tekna",
-          "price": 1799000,
-          "priceFormatted": "1.799.000 TL",
-          "stepFromBase": 100000,
-          "stepPercent": 5.885815185403178,
-          "engine": "1.0 DIG-T 115PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
           "trim": "Platinum",
-          "price": 2015300,
-          "priceFormatted": "2.015.300 TL",
-          "stepFromBase": 316300,
-          "stepPercent": 18.61683343143025,
+          "price": 2035600,
+          "priceFormatted": "2.035.600 TL",
+          "stepFromBase": 160400,
+          "stepPercent": 8.553754266211604,
           "engine": "1.0 DIG-T 115PS",
           "transmission": "Otomatik",
           "fuel": "Benzin"
@@ -6856,8 +6846,8 @@
           "trim": "Redline Edition",
           "price": 2099000,
           "priceFormatted": "2.099.000 TL",
-          "stepFromBase": 400000,
-          "stepPercent": 23.543260741612713,
+          "stepFromBase": 223800,
+          "stepPercent": 11.934726962457338,
           "engine": "1.0 DIG-T 115PS",
           "transmission": "Otomatik",
           "fuel": "Benzin"
@@ -6866,18 +6856,18 @@
           "trim": "Platinum Premium",
           "price": 2607100,
           "priceFormatted": "2.607.100 TL",
-          "stepFromBase": 908100,
-          "stepPercent": 53.44908769864626,
+          "stepFromBase": 731900,
+          "stepPercent": 39.03050341296928,
           "engine": "1.0 DIG-T 115PS",
           "transmission": "Otomatik",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 1699000,
+      "basePrice": 1875200,
       "topPrice": 2607100,
-      "priceSpread": 908100,
-      "priceSpreadPercent": 53.45,
-      "trimCount": 5
+      "priceSpread": 731900,
+      "priceSpreadPercent": 39.03,
+      "trimCount": 4
     },
     {
       "id": "nissan-x-trail-mild-hybrid",
@@ -9411,16 +9401,6 @@
           "trimCount": 4
         },
         {
-          "brand": "Nissan",
-          "brandId": "nissan",
-          "model": "JUKE",
-          "basePrice": 1699000,
-          "topPrice": 2607100,
-          "basePriceFormatted": "₺1.699.000",
-          "topPriceFormatted": "₺2.607.100",
-          "trimCount": 5
-        },
-        {
           "brand": "Citroën",
           "brandId": "citroen",
           "model": "Elektrikli ë-C3 Aircross",
@@ -9439,6 +9419,16 @@
           "basePriceFormatted": "₺1.865.000",
           "topPriceFormatted": "₺2.840.000",
           "trimCount": 6
+        },
+        {
+          "brand": "Nissan",
+          "brandId": "nissan",
+          "model": "JUKE",
+          "basePrice": 1875200,
+          "topPrice": 2607100,
+          "basePriceFormatted": "₺1.875.200",
+          "topPriceFormatted": "₺2.607.100",
+          "trimCount": 4
         },
         {
           "brand": "Citroën",
@@ -9841,7 +9831,7 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5694051,
+      "avgBasePrice": 5698055,
       "avgTopPrice": 6168630
     },
     {
@@ -10536,7 +10526,7 @@
   "summary": {
     "totalModels": 232,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 347335,
-    "avgPriceSpreadPercent": 11.89
+    "avgPriceSpread": 346576,
+    "avgPriceSpreadPercent": 11.83
   }
 }

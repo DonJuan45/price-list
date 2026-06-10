@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-09T01:39:54.712Z",
-  "totalVehicles": 516,
+  "generatedAt": "2026-06-10T01:45:38.050Z",
+  "totalVehicles": 515,
   "overallStats": {
-    "avgPrice": 4997340,
+    "avgPrice": 5003932,
     "minPrice": 585000,
     "maxPrice": 38034000,
-    "medianPrice": 3121350
+    "medianPrice": 3126000
   },
   "brandStats": [
     {
@@ -66,11 +66,11 @@
     },
     {
       "name": "Nissan",
-      "vehicleCount": 28,
-      "avgPrice": 2940146,
+      "vehicleCount": 27,
+      "avgPrice": 2989689,
       "minPrice": 1314900,
       "maxPrice": 5515600,
-      "medianPrice": 2742750
+      "medianPrice": 2833400
     },
     {
       "name": "Kia",
@@ -164,9 +164,9 @@
   "fuelStats": [
     {
       "fuel": "Benzin",
-      "count": 199,
-      "percentage": 38.6,
-      "avgPrice": 5200523
+      "count": 198,
+      "percentage": 38.4,
+      "avgPrice": 5218695
     },
     {
       "fuel": "Elektrik",
@@ -177,7 +177,7 @@
     {
       "fuel": "Hibrit",
       "count": 75,
-      "percentage": 14.5,
+      "percentage": 14.6,
       "avgPrice": 3359970
     },
     {
@@ -214,9 +214,9 @@
   "transmissionStats": [
     {
       "transmission": "Otomatik",
-      "count": 352,
+      "count": 351,
       "percentage": 68.2,
-      "avgPrice": 5854888
+      "avgPrice": 5867003
     },
     {
       "transmission": "DSG",
@@ -255,8 +255,8 @@
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
-      "count": 223,
-      "percentage": 43.2
+      "count": 222,
+      "percentage": 43.1
     },
     {
       "segment": "premium",
@@ -407,14 +407,14 @@
       },
       {
         "year": "2026",
-        "count": 282,
-        "percentage": 66.8,
-        "avgPrice": 4596547
+        "count": 281,
+        "percentage": 66.7,
+        "avgPrice": 4607202
       },
       {
         "year": "2025",
         "count": 111,
-        "percentage": 26.3,
+        "percentage": 26.4,
         "avgPrice": 3782584
       },
       {

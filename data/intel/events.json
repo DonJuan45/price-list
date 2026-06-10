@@ -1,22 +1,62 @@
 {
-  "generatedAt": "2026-06-09T01:39:56.570Z",
-  "date": "2026-06-09",
-  "previousDate": "2026-06-08",
+  "generatedAt": "2026-06-10T01:45:39.778Z",
+  "date": "2026-06-10",
+  "previousDate": "2026-06-09",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-06-09",
-    "totalDays": 133
+    "end": "2026-06-10",
+    "totalDays": 134
   },
   "summary": {
-    "totalEvents": 1870,
+    "totalEvents": 1872,
     "newVehicles": 396,
     "removedVehicles": 407,
-    "priceIncreases": 917,
+    "priceIncreases": 919,
     "priceDecreases": 150,
-    "avgPriceChange": 101425,
+    "avgPriceChange": 101325,
     "avgPriceChangePercent": 1.75
   },
   "events": [
+    {
+      "id": "nissan-juke-tekna-1.0-dig-t-115ps-price_increase-2026-06-10",
+      "type": "price_increase",
+      "vehicleId": "nissan-juke-tekna-1.0-dig-t-115ps",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "JUKE",
+      "trim": "Tekna",
+      "engine": "1.0 DIG-T 115PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "oldPrice": 1799000,
+      "newPrice": 1875200,
+      "oldPriceFormatted": "1.799.000 TL",
+      "newPriceFormatted": "1.875.200 TL",
+      "priceChange": 76200,
+      "priceChangePercent": 4.24,
+      "date": "2026-06-10",
+      "previousDate": "2026-06-09"
+    },
+    {
+      "id": "nissan-juke-platinum-1.0-dig-t-115ps-price_increase-2026-06-10",
+      "type": "price_increase",
+      "vehicleId": "nissan-juke-platinum-1.0-dig-t-115ps",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "JUKE",
+      "trim": "Platinum",
+      "engine": "1.0 DIG-T 115PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "oldPrice": 2015300,
+      "newPrice": 2035600,
+      "oldPriceFormatted": "2.015.300 TL",
+      "newPriceFormatted": "2.035.600 TL",
+      "priceChange": 20300,
+      "priceChangePercent": 1.01,
+      "date": "2026-06-10",
+      "previousDate": "2026-06-09"
+    },
     {
       "id": "renault-austral-esprit-alpine-esprit-alpine-full-hybrid-e-tech-200-hp-new-2026-06-06",
       "type": "new",
@@ -33842,10 +33882,10 @@
       {
         "id": "nissan",
         "name": "Nissan",
-        "changeCount": 106,
-        "avgChange": 110444,
-        "avgChangePercent": 3.74,
-        "increaseCount": 73,
+        "changeCount": 108,
+        "avgChange": 109293,
+        "avgChangePercent": 3.72,
+        "increaseCount": 75,
         "decreaseCount": 33
       },
       {
@@ -33986,6 +34026,15 @@
         "decreaseCount": 10
       },
       {
+        "id": "nissan-JUKE",
+        "name": "Nissan JUKE",
+        "changeCount": 28,
+        "avgChange": 93450,
+        "avgChangePercent": 4.26,
+        "increaseCount": 18,
+        "decreaseCount": 10
+      },
+      {
         "id": "toyota-COROLLA",
         "name": "Toyota COROLLA",
         "changeCount": 26,
@@ -34002,15 +34051,6 @@
         "avgChangePercent": 3.57,
         "increaseCount": 18,
         "decreaseCount": 8
-      },
-      {
-        "id": "nissan-JUKE",
-        "name": "Nissan JUKE",
-        "changeCount": 26,
-        "avgChange": 96927,
-        "avgChangePercent": 4.38,
-        "increaseCount": 16,
-        "decreaseCount": 10
       },
       {
         "id": "renault-Yeni Duster",

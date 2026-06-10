@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-09T01:39:54.698Z",
-  "totalVehicles": 516,
+  "generatedAt": "2026-06-10T01:45:38.031Z",
+  "totalVehicles": 515,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2525,7 +2525,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -2552,7 +2552,6 @@
             }
           ],
           "vehicleCategory": "Binek",
-          "otvIncentivePrice": 1765000.01,
           "powerHP": 115,
           "engineType": "TCe"
         },
@@ -3409,7 +3408,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3988,7 +3987,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "i20",
@@ -4421,7 +4420,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "E-208",
@@ -4822,7 +4821,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4905,7 +4904,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5129,7 +5128,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5611,7 +5610,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6640,7 +6639,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "A 200",
@@ -7493,7 +7492,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Yeni Puma",
@@ -8211,7 +8210,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8416,6 +8415,7 @@
             }
           ],
           "vehicleCategory": "Binek",
+          "otvIncentivePrice": 1580000.01,
           "powerHP": 120
         },
         {
@@ -8563,7 +8563,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -8803,29 +8803,12 @@
           "engine": "1.0 DIG-T 115PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "1.699.000 TL",
-          "priceNumeric": 1699000,
+          "priceRaw": "1.875.200 TL",
+          "priceNumeric": 1875200,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 2087800,
-          "priceCampaignNumeric": 1699000,
-          "powerHP": 115,
-          "engineDisplacement": "1.0L",
-          "engineType": "DIG-T",
-          "transmissionType": "6MT"
-        },
-        {
-          "model": "JUKE",
-          "trim": "Tekna",
-          "engine": "1.0 DIG-T 115PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "1.799.000 TL",
-          "priceNumeric": 1799000,
-          "brand": "Nissan",
-          "modelYear": 2026,
-          "priceListNumeric": 2207900,
-          "priceCampaignNumeric": 1799000,
+          "priceListNumeric": 2229400,
+          "priceCampaignNumeric": 1875200,
           "powerHP": 115,
           "engineDisplacement": "1.0L",
           "engineType": "DIG-T",
@@ -8837,12 +8820,12 @@
           "engine": "1.0 DIG-T 115PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "2.015.300 TL",
-          "priceNumeric": 2015300,
+          "priceRaw": "2.035.600 TL",
+          "priceNumeric": 2035600,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 2327500,
-          "priceCampaignNumeric": 2015300,
+          "priceListNumeric": 2350400,
+          "priceCampaignNumeric": 2035600,
           "powerHP": 115,
           "engineDisplacement": "1.0L",
           "engineType": "DIG-T",
@@ -9041,7 +9024,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9133,7 +9116,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9253,7 +9236,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Niro EV",
@@ -9692,7 +9675,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "EX30",
@@ -10011,7 +9994,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "vehicles": [
         {
           "model": "Egea Sedan",

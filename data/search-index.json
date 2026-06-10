@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T01:39:54.705Z",
-  "totalEntries": 516,
+  "generatedAt": "2026-06-10T01:45:38.036Z",
+  "totalEntries": 515,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -5523,21 +5523,8 @@
       "engine": "1.0 DIG-T 115PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1699000,
-      "priceFormatted": "1.699.000 TL",
-      "searchText": "nissan juke tekna 1 0 dig t 115ps benzin otomatik"
-    },
-    {
-      "id": "nissan-juke-tekna-1.0-dig-t-115ps",
-      "brand": "Nissan",
-      "brandId": "nissan",
-      "model": "JUKE",
-      "trim": "Tekna",
-      "engine": "1.0 DIG-T 115PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 1799000,
-      "priceFormatted": "1.799.000 TL",
+      "price": 1875200,
+      "priceFormatted": "1.875.200 TL",
       "searchText": "nissan juke tekna 1 0 dig t 115ps benzin otomatik"
     },
     {
@@ -5549,8 +5536,8 @@
       "engine": "1.0 DIG-T 115PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2015300,
-      "priceFormatted": "2.015.300 TL",
+      "price": 2035600,
+      "priceFormatted": "2.035.600 TL",
       "searchText": "nissan juke platinum 1 0 dig t 115ps benzin otomatik"
     },
     {
