@@ -1,82 +1,11 @@
 {
-  "generatedAt": "2026-06-12T01:46:35.277Z",
-  "clearedAt": "2026-06-12T01:45:58.133Z",
-  "errors": [
-    {
-      "id": "err_1781228784113_oyja75t",
-      "timestamp": "2026-06-12T01:46:24.113Z",
-      "severity": "error",
-      "category": "HTTP_ERROR",
-      "source": "collection",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "code": "COLLECTION_FAILED",
-      "message": "Failed to collect BMW: fetch failed",
-      "details": {
-        "error": "fetch failed",
-        "url": "https://www.borusanotomotiv.com/bmw/stage2/fiyat-listesi/static-fiyat-listesi-v2.aspx",
-        "elapsed": 10480,
-        "isTimeout": false
-      },
-      "recovered": false
-    },
-    {
-      "id": "err_1781228784115_7dgfh5v",
-      "timestamp": "2026-06-12T01:46:24.115Z",
-      "severity": "warning",
-      "category": "DATA_QUALITY_ERROR",
-      "source": "collection",
-      "brand": "BMW",
-      "brandId": "bmw",
-      "code": "USING_FALLBACK_DATA",
-      "message": "Using fallback data for BMW (64 rows)",
-      "recovered": true,
-      "recoveryMethod": "Used previous day data"
-    },
-    {
-      "id": "err_1781228793350_42arrpw",
-      "timestamp": "2026-06-12T01:46:33.350Z",
-      "severity": "error",
-      "category": "HTTP_ERROR",
-      "source": "collection",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "code": "COLLECTION_FAILED",
-      "message": "Failed to collect SEAT: HTTP 400: Bad Request",
-      "details": {
-        "error": "HTTP 400: Bad Request",
-        "url": "https://www.seat.com.tr/firsatlar/fiyat-listesi",
-        "elapsed": 2128,
-        "isTimeout": false
-      },
-      "recovered": false
-    },
-    {
-      "id": "err_1781228793352_v3l0ioz",
-      "timestamp": "2026-06-12T01:46:33.352Z",
-      "severity": "warning",
-      "category": "DATA_QUALITY_ERROR",
-      "source": "collection",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "code": "USING_FALLBACK_DATA",
-      "message": "Using fallback data for SEAT (8 rows)",
-      "recovered": true,
-      "recoveryMethod": "Used previous day data"
-    }
-  ],
+  "generatedAt": "2026-06-13T01:41:56.728Z",
+  "clearedAt": "2026-06-13T01:41:25.722Z",
+  "errors": [],
   "summary": {
-    "total": 4,
-    "byCategory": {
-      "HTTP_ERROR": 2,
-      "DATA_QUALITY_ERROR": 2
-    },
-    "bySeverity": {
-      "error": 2,
-      "warning": 2
-    },
-    "bySource": {
-      "collection": 4
-    }
+    "total": 0,
+    "byCategory": {},
+    "bySeverity": {},
+    "bySource": {}
   }
 }
